@@ -1,0 +1,748 @@
+{
+  "canvas": [
+    1080,
+    1350
+  ],
+  "slides": [
+    {
+      "source": "source/slide_01_welcome.svg",
+      "png": "exports/slide_01_welcome_1080x1350.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "safe_area_check": "passed",
+      "text_bounds": [
+        {
+          "text": "01 / INTRODUCTION",
+          "x": 838.984375,
+          "y": 82,
+          "width": 153.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "AETHRA",
+          "x": 80,
+          "y": 1250,
+          "width": 54.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "01 / 06",
+          "x": 927.796875,
+          "y": 1251,
+          "width": 67.203125,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "مرحبًا بكم في Aethra",
+          "x": 367.265625,
+          "y": 640,
+          "width": 624.734375,
+          "height": 116,
+          "key": "title_lines.0"
+        },
+        {
+          "text": "نحوّل الأفكار إلى",
+          "x": 677.109375,
+          "y": 769,
+          "width": 314.890625,
+          "height": 84,
+          "key": "subtitle_lines.0"
+        },
+        {
+          "text": "مشاريع رقمية متكاملة",
+          "x": 541.421875,
+          "y": 844,
+          "width": 450.578125,
+          "height": 84,
+          "key": "subtitle_lines.1"
+        },
+        {
+          "text": "تطبيقات • مواقع • مشاريع تخرج • توثيق • عروض تقديمية",
+          "x": 180.9375,
+          "y": 1066,
+          "width": 718.5104370117188,
+          "height": 51,
+          "key": "support"
+        },
+        {
+          "text": "اسحب للتعرّف على خدماتنا",
+          "x": 729.859375,
+          "y": 1162,
+          "width": 262.140625,
+          "height": 39,
+          "key": null
+        }
+      ],
+      "sha256": "2e2514eea34eb1a343cee0b0a7251c6f4f2b1bce94aad2f6a55d7eb7a46e4547"
+    },
+    {
+      "source": "source/slide_02_graduation_projects.svg",
+      "png": "exports/slide_02_graduation_projects_1080x1350.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "safe_area_check": "passed",
+      "text_bounds": [
+        {
+          "text": "02 / GRADUATION PROJECTS",
+          "x": 775.984375,
+          "y": 82,
+          "width": 216.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "AETHRA",
+          "x": 80,
+          "y": 1250,
+          "width": 54.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "02 / 06",
+          "x": 927.796875,
+          "y": 1251,
+          "width": 67.203125,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "مشاريع تخرج متكاملة",
+          "x": 478.875,
+          "y": 168,
+          "width": 513.125,
+          "height": 93,
+          "key": "title_lines.0"
+        },
+        {
+          "text": "لطلاب الهندسة المعلوماتية",
+          "x": 343.15625,
+          "y": 248.60000610351562,
+          "width": 648.84375,
+          "height": 93,
+          "key": "title_lines.1"
+        },
+        {
+          "text": "تنفيذ المشروع كاملًا من الصفر",
+          "x": 453.109375,
+          "y": 411.96002197265625,
+          "width": 436.890625,
+          "height": 61.03997802734375,
+          "key": "bullets.0"
+        },
+        {
+          "text": "01",
+          "x": 120,
+          "y": 434,
+          "width": 20.40625,
+          "height": 22,
+          "key": null
+        },
+        {
+          "text": "تحليل الفكرة وتخطيطها",
+          "x": 543.390625,
+          "y": 518,
+          "width": 346.609375,
+          "height": 60,
+          "key": "bullets.1"
+        },
+        {
+          "text": "02",
+          "x": 120,
+          "y": 539,
+          "width": 20.40625,
+          "height": 22,
+          "key": null
+        },
+        {
+          "text": "تصميم UI/UX",
+          "x": 663.8125,
+          "y": 623,
+          "width": 226.1875,
+          "height": 60,
+          "key": "bullets.2"
+        },
+        {
+          "text": "03",
+          "x": 120,
+          "y": 644,
+          "width": 20.40625,
+          "height": 22,
+          "key": null
+        },
+        {
+          "text": "برمجة المشروع",
+          "x": 669,
+          "y": 728,
+          "width": 221,
+          "height": 60,
+          "key": "bullets.3"
+        },
+        {
+          "text": "04",
+          "x": 120,
+          "y": 749,
+          "width": 20.40625,
+          "height": 22,
+          "key": null
+        },
+        {
+          "text": "كتابة التوثيق الجامعي",
+          "x": 581.515625,
+          "y": 833,
+          "width": 313.19970703125,
+          "height": 61,
+          "key": "bullets.4"
+        },
+        {
+          "text": "05",
+          "x": 120,
+          "y": 854,
+          "width": 20.40625,
+          "height": 22,
+          "key": null
+        },
+        {
+          "text": "تجهيز PowerPoint للمناقشة",
+          "x": 436.765625,
+          "y": 938,
+          "width": 453.234375,
+          "height": 60,
+          "key": "bullets.5"
+        },
+        {
+          "text": "06",
+          "x": 120,
+          "y": 959,
+          "width": 20.40625,
+          "height": 22,
+          "key": null
+        },
+        {
+          "text": "من الفكرة إلى المناقشة — كل شيء جاهز باحترافية",
+          "x": 237.578125,
+          "y": 1101,
+          "width": 604.84375,
+          "height": 51,
+          "key": "footer"
+        }
+      ],
+      "sha256": "32db1b4daf04bb20eb82212f3c9800ec2439ef87635987960f80bb60deffc736"
+    },
+    {
+      "source": "source/slide_03_digital_projects.svg",
+      "png": "exports/slide_03_digital_projects_1080x1350.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "safe_area_check": "passed",
+      "text_bounds": [
+        {
+          "text": "03 / DIGITAL SOLUTIONS",
+          "x": 793.984375,
+          "y": 82,
+          "width": 198.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "AETHRA",
+          "x": 80,
+          "y": 1250,
+          "width": 54.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "03 / 06",
+          "x": 927.796875,
+          "y": 1251,
+          "width": 67.203125,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "نطوّر مشاريع حقيقية",
+          "x": 485.375,
+          "y": 166,
+          "width": 506.625,
+          "height": 96,
+          "key": "title_lines.0"
+        },
+        {
+          "text": "على أرض الواقع",
+          "x": 595,
+          "y": 249.20001220703125,
+          "width": 397,
+          "height": 96,
+          "key": "title_lines.1"
+        },
+        {
+          "text": "إذا كان لديك فكرة مشروع،",
+          "x": 646.609375,
+          "y": 380,
+          "width": 345.390625,
+          "height": 54,
+          "key": "body_lines.0"
+        },
+        {
+          "text": "نحن نحوّلها إلى منتج رقمي قابل للتنفيذ.",
+          "x": 471,
+          "y": 435,
+          "width": 521,
+          "height": 55,
+          "key": "body_lines.1"
+        },
+        {
+          "text": "تصوّر توضيحي",
+          "x": 233.984375,
+          "y": 1075,
+          "width": 132.70050048828125,
+          "height": 38,
+          "key": null
+        },
+        {
+          "text": "تطبيقات موبايل",
+          "x": 731.90625,
+          "y": 594,
+          "width": 190.73095703125,
+          "height": 50,
+          "key": "bullets.0"
+        },
+        {
+          "text": "مواقع إلكترونية",
+          "x": 742.796875,
+          "y": 698,
+          "width": 179.203125,
+          "height": 50,
+          "key": "bullets.1"
+        },
+        {
+          "text": "لوحات تحكم",
+          "x": 766.5,
+          "y": 802,
+          "width": 155.5,
+          "height": 50,
+          "key": "bullets.2"
+        },
+        {
+          "text": "أنظمة مخصصة حسب الطلب",
+          "x": 558.5,
+          "y": 906,
+          "width": 364.1029052734375,
+          "height": 50,
+          "key": "bullets.3"
+        },
+        {
+          "text": "تجربة مستخدم احترافية",
+          "x": 633.609375,
+          "y": 1010,
+          "width": 289.0379638671875,
+          "height": 50,
+          "key": "bullets.4"
+        }
+      ],
+      "sha256": "ff6935d39cd299a2563cd79af07372ab9627facb12fec6aa06cb7bd1332d3b76"
+    },
+    {
+      "source": "source/slide_04_services.svg",
+      "png": "exports/slide_04_services_1080x1350.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "safe_area_check": "passed",
+      "text_bounds": [
+        {
+          "text": "04 / OUR SERVICES",
+          "x": 838.984375,
+          "y": 82,
+          "width": 153.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "AETHRA",
+          "x": 80,
+          "y": 1250,
+          "width": 54.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "04 / 06",
+          "x": 927.796875,
+          "y": 1251,
+          "width": 67.203125,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "خدماتنا",
+          "x": 747.046875,
+          "y": 169,
+          "width": 244.953125,
+          "height": 126,
+          "key": "title_lines.0"
+        },
+        {
+          "text": "تصميم وتجربة المستخدم",
+          "x": 624.546875,
+          "y": 430,
+          "width": 339.453125,
+          "height": 54,
+          "key": "card_lines.0.0"
+        },
+        {
+          "text": "UI/UX",
+          "x": 862.359375,
+          "y": 480,
+          "width": 101.640625,
+          "height": 44,
+          "key": "card_lines.0.1"
+        },
+        {
+          "text": "01",
+          "x": 572,
+          "y": 389,
+          "width": 18.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "برمجة تطبيقات",
+          "x": 304.4375,
+          "y": 430,
+          "width": 199.5625,
+          "height": 54,
+          "key": "card_lines.1.0"
+        },
+        {
+          "text": "Android & iOS",
+          "x": 265.609375,
+          "y": 480,
+          "width": 238.390625,
+          "height": 44,
+          "key": "card_lines.1.1"
+        },
+        {
+          "text": "02",
+          "x": 112,
+          "y": 389,
+          "width": 18.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "تطوير مواقع ويب",
+          "x": 738.53125,
+          "y": 650,
+          "width": 225.46875,
+          "height": 54,
+          "key": "card_lines.2.0"
+        },
+        {
+          "text": "03",
+          "x": 572,
+          "y": 609,
+          "width": 18.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "لوحات تحكم وإدارة",
+          "x": 250.84375,
+          "y": 650,
+          "width": 253.15625,
+          "height": 54,
+          "key": "card_lines.3.0"
+        },
+        {
+          "text": "04",
+          "x": 112,
+          "y": 609,
+          "width": 18.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "توثيق مشاريع التخرج",
+          "x": 689.8125,
+          "y": 870,
+          "width": 274.1875,
+          "height": 54,
+          "key": "card_lines.4.0"
+        },
+        {
+          "text": "05",
+          "x": 572,
+          "y": 829,
+          "width": 18.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "عروض تقديمية للمناقشة",
+          "x": 172.6875,
+          "y": 870,
+          "width": 331.3125,
+          "height": 54,
+          "key": "card_lines.5.0"
+        },
+        {
+          "text": "06",
+          "x": 112,
+          "y": 829,
+          "width": 18.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "استشارات تقنية وتنفيذية",
+          "x": 579.953125,
+          "y": 1038,
+          "width": 315.046875,
+          "height": 53,
+          "key": "bullets.6"
+        },
+        {
+          "text": "كما نوفر حلولًا إضافية حسب نطاق المشروع واحتياج العميل",
+          "x": 384.578125,
+          "y": 1141.3719482421875,
+          "width": 611.1104736328125,
+          "height": 42.6280517578125,
+          "key": "footer"
+        }
+      ],
+      "sha256": "33f51f37fd04f07a1464563a67cbe62574ae8dfb82ab1823b3a476b7008254fe"
+    },
+    {
+      "source": "source/slide_05_why_aethra.svg",
+      "png": "exports/slide_05_why_aethra_1080x1350.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "safe_area_check": "passed",
+      "text_bounds": [
+        {
+          "text": "05 / WHY AETHRA",
+          "x": 856.984375,
+          "y": 82,
+          "width": 135.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "AETHRA",
+          "x": 80,
+          "y": 1250,
+          "width": 54.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "05 / 06",
+          "x": 927.796875,
+          "y": 1251,
+          "width": 67.203125,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "ليش تختار Aethra؟",
+          "x": 378.109375,
+          "y": 195,
+          "width": 613.890625,
+          "height": 117,
+          "key": "title_lines.0"
+        },
+        {
+          "text": "شغل متكامل من البداية للنهاية",
+          "x": 473.140625,
+          "y": 379,
+          "width": 433.859375,
+          "height": 57,
+          "key": "bullets.0"
+        },
+        {
+          "text": "01",
+          "x": 105,
+          "y": 398,
+          "width": 19.600021362304688,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "اهتمام بالتفاصيل والشكل الاحترافي",
+          "x": 423.328125,
+          "y": 516,
+          "width": 483.671875,
+          "height": 58,
+          "key": "bullets.1"
+        },
+        {
+          "text": "02",
+          "x": 105,
+          "y": 535,
+          "width": 19.203125,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "حلول مناسبة للطلاب والعملاء",
+          "x": 491.421875,
+          "y": 653,
+          "width": 415.578125,
+          "height": 57,
+          "key": "bullets.2"
+        },
+        {
+          "text": "03",
+          "x": 105,
+          "y": 672,
+          "width": 19.203125,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "تركيز على الجودة والوضوح",
+          "x": 546.75,
+          "y": 790,
+          "width": 360.6270751953125,
+          "height": 57,
+          "key": "bullets.3"
+        },
+        {
+          "text": "04",
+          "x": 105,
+          "y": 809,
+          "width": 19.600021362304688,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "تنفيذ عملي قابل للتقديم والاستخدام",
+          "x": 395.46875,
+          "y": 927,
+          "width": 511.90545654296875,
+          "height": 58,
+          "key": "bullets.4"
+        },
+        {
+          "text": "05",
+          "x": 105,
+          "y": 946,
+          "width": 19.203125,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "نحن لا نقدم مجرد تصميم أو كود فقط — بل مشروعًا متكاملًا",
+          "x": 204.0625,
+          "y": 1146,
+          "width": 671.875,
+          "height": 47,
+          "key": "footer"
+        }
+      ],
+      "sha256": "ff9c7ef2c78ea963119ac0ced69d6dee704fd913df04e3c3c34f1f896b00d4e2"
+    },
+    {
+      "source": "source/slide_06_start_your_project.svg",
+      "png": "exports/slide_06_start_your_project_1080x1350.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "safe_area_check": "passed",
+      "text_bounds": [
+        {
+          "text": "06 / LET’S BUILD",
+          "x": 847.984375,
+          "y": 82,
+          "width": 144.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "AETHRA",
+          "x": 80,
+          "y": 1250,
+          "width": 54.015625,
+          "height": 19,
+          "key": null
+        },
+        {
+          "text": "06 / 06",
+          "x": 927.796875,
+          "y": 1251,
+          "width": 67.203125,
+          "height": 20,
+          "key": null
+        },
+        {
+          "text": "عندك فكرة؟",
+          "x": 599.90625,
+          "y": 424,
+          "width": 392.09375,
+          "height": 124,
+          "key": "title_lines.0"
+        },
+        {
+          "text": "أو مشروع تخرج؟",
+          "x": 463.859375,
+          "y": 531.9000244140625,
+          "width": 528.140625,
+          "height": 124,
+          "key": "title_lines.1"
+        },
+        {
+          "text": "نحن جاهزون لنساعدك في تنفيذ مشروعك",
+          "x": 386.265625,
+          "y": 747,
+          "width": 605.734375,
+          "height": 61,
+          "key": "body_lines.0"
+        },
+        {
+          "text": "خطوة بخطوة.",
+          "x": 782.71875,
+          "y": 811,
+          "width": 209.28125,
+          "height": 60,
+          "key": "body_lines.1"
+        },
+        {
+          "text": "راسلنا الآن وابدأ مشروعك معنا",
+          "x": 284.421875,
+          "y": 1012,
+          "width": 511.15625,
+          "height": 66,
+          "key": "cta"
+        },
+        {
+          "text": "Aethra — From idea to execution",
+          "x": 313.5703125,
+          "y": 1145,
+          "width": 452.859375,
+          "height": 37,
+          "key": "support"
+        }
+      ],
+      "sha256": "c440d55946f3f3a70c5ea4e3127f368b4296bcbe4efb953de6e06517e00bae55"
+    }
+  ],
+  "source_copy_check": "all titles, bodies, bullet items, footers and CTAs match content.ar.json",
+  "arabic_glyph_coverage": "all source Arabic characters covered in both Arabic fonts",
+  "sources": "editable SVG with embedded fonts; content.ar.json",
+  "contact_sheet": "contact_sheet.jpg"
+}

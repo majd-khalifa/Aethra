@@ -1,0 +1,12 @@
+{
+  "template": "03_Instagram/Templates/instagram_post_template_editable.svg",
+  "template_sha256": "f9f7db6f7c1c0c8496e2fbcc816b651b0f6c67a668af2148a756aa9b7c66520c",
+  "tokens": "02_Design_System/design_tokens.json",
+  "tokens_sha256": "74d9841b47e684aaea122727fdbe2d43897be2be88a50f2fb6eee0e9c9e6fa8f",
+  "logo_sources": [
+    "01_Logo/SVG/aethra_lockup_stacked_color_light.svg",
+    "01_Logo/SVG/aethra_symbol_color.svg"
+  ],
+  "illustration_source": "04_Brand_Applications/Website/website_desktop_hero_1440x900.svg",
+  "note": "Illustrative device mockup, not a completed client project."
+}
