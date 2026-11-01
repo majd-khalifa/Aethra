@@ -1,0 +1,1468 @@
+{
+  "name": "FUTURE PULSE",
+  "bpm": 96,
+  "meter": "4/4",
+  "seed": 2202,
+  "swing": "straight eighth pulse with a slowly evolving filter",
+  "character": "expansive, luminous, thoughtful and steadily developing",
+  "harmony": [
+    {
+      "start": 0.0,
+      "chord": "Gmaj9#11",
+      "notes": [
+        55,
+        59,
+        62,
+        66,
+        69,
+        73
+      ],
+      "bass": 43
+    },
+    {
+      "start": 2.5,
+      "chord": "Em11",
+      "notes": [
+        52,
+        55,
+        59,
+        62,
+        66,
+        69
+      ],
+      "bass": 40
+    },
+    {
+      "start": 5.0,
+      "chord": "Cmaj9#11",
+      "notes": [
+        48,
+        52,
+        55,
+        59,
+        62,
+        66
+      ],
+      "bass": 36
+    },
+    {
+      "start": 7.5,
+      "chord": "D6/9",
+      "notes": [
+        50,
+        54,
+        57,
+        59,
+        64
+      ],
+      "bass": 38
+    },
+    {
+      "start": 10.0,
+      "chord": "Bm9",
+      "notes": [
+        59,
+        62,
+        66,
+        69,
+        73
+      ],
+      "bass": 47
+    },
+    {
+      "start": 12.5,
+      "chord": "Am9",
+      "notes": [
+        57,
+        60,
+        64,
+        67,
+        71
+      ],
+      "bass": 45
+    },
+    {
+      "start": 15.0,
+      "chord": "Bm11",
+      "notes": [
+        59,
+        62,
+        66,
+        69,
+        76
+      ],
+      "bass": 47
+    },
+    {
+      "start": 17.5,
+      "chord": "Em9",
+      "notes": [
+        52,
+        55,
+        59,
+        62,
+        66
+      ],
+      "bass": 40
+    }
+  ],
+  "events": [
+    {
+      "start": 0.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 55,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 0.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 59,
+      "level": 0.01,
+      "pan": -0.2
+    },
+    {
+      "start": 0.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 62,
+      "level": 0.01,
+      "pan": 0.25
+    },
+    {
+      "start": 0.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 66,
+      "level": 0.01,
+      "pan": -0.30000000000000004
+    },
+    {
+      "start": 0.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 69,
+      "level": 0.01,
+      "pan": 0.35
+    },
+    {
+      "start": 0.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 73,
+      "level": 0.01,
+      "pan": -0.4
+    },
+    {
+      "start": 0.0,
+      "duration": 2.2,
+      "sound": "B_bass",
+      "midi": 43,
+      "level": 0.047,
+      "pan": 0
+    },
+    {
+      "start": 0.0,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 67,
+      "level": 0.018,
+      "pan": 0.27
+    },
+    {
+      "start": 0.3125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 74,
+      "level": 0.018,
+      "pan": -0.27
+    },
+    {
+      "start": 0.625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 81,
+      "level": 0.018,
+      "pan": 0.27
+    },
+    {
+      "start": 0.9375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 71,
+      "level": 0.018,
+      "pan": -0.27
+    },
+    {
+      "start": 1.1,
+      "duration": 0.75,
+      "sound": "B_glass",
+      "midi": 74,
+      "level": 0.024,
+      "pan": -0.22
+    },
+    {
+      "start": 1.25,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 78,
+      "level": 0.018,
+      "pan": 0.27
+    },
+    {
+      "start": 1.5625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 74,
+      "level": 0.018,
+      "pan": -0.27
+    },
+    {
+      "start": 1.875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 81,
+      "level": 0.018,
+      "pan": 0.27
+    },
+    {
+      "start": 2.1875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 71,
+      "level": 0.018,
+      "pan": -0.27
+    },
+    {
+      "start": 2.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 52,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 2.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 55,
+      "level": 0.01,
+      "pan": -0.2
+    },
+    {
+      "start": 2.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 59,
+      "level": 0.01,
+      "pan": 0.25
+    },
+    {
+      "start": 2.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 62,
+      "level": 0.01,
+      "pan": -0.30000000000000004
+    },
+    {
+      "start": 2.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 66,
+      "level": 0.01,
+      "pan": 0.35
+    },
+    {
+      "start": 2.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 69,
+      "level": 0.01,
+      "pan": -0.4
+    },
+    {
+      "start": 2.5,
+      "duration": 2.2,
+      "sound": "B_bass",
+      "midi": 40,
+      "level": 0.047,
+      "pan": 0
+    },
+    {
+      "start": 2.5,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 64,
+      "level": 0.0192,
+      "pan": 0.27
+    },
+    {
+      "start": 2.5,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.048,
+      "pan": 0
+    },
+    {
+      "start": 2.8125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 71,
+      "level": 0.0192,
+      "pan": -0.27
+    },
+    {
+      "start": 2.8125,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 3.125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 78,
+      "level": 0.0192,
+      "pan": 0.27
+    },
+    {
+      "start": 3.4375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 67,
+      "level": 0.0192,
+      "pan": -0.27
+    },
+    {
+      "start": 3.4375,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 3.65,
+      "duration": 0.85,
+      "sound": "B_glass",
+      "midi": 78,
+      "level": 0.024,
+      "pan": 0.22
+    },
+    {
+      "start": 3.75,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 74,
+      "level": 0.0192,
+      "pan": 0.27
+    },
+    {
+      "start": 4.0625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 71,
+      "level": 0.0192,
+      "pan": -0.27
+    },
+    {
+      "start": 4.0625,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.048,
+      "pan": 0
+    },
+    {
+      "start": 4.0625,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 4.375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 78,
+      "level": 0.0192,
+      "pan": 0.27
+    },
+    {
+      "start": 4.6875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 67,
+      "level": 0.0192,
+      "pan": -0.27
+    },
+    {
+      "start": 4.6875,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 5.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 48,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 5.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 52,
+      "level": 0.01,
+      "pan": -0.2
+    },
+    {
+      "start": 5.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 55,
+      "level": 0.01,
+      "pan": 0.25
+    },
+    {
+      "start": 5.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 59,
+      "level": 0.01,
+      "pan": -0.30000000000000004
+    },
+    {
+      "start": 5.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 62,
+      "level": 0.01,
+      "pan": 0.35
+    },
+    {
+      "start": 5.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 66,
+      "level": 0.01,
+      "pan": -0.4
+    },
+    {
+      "start": 5.0,
+      "duration": 2.2,
+      "sound": "B_bass",
+      "midi": 36,
+      "level": 0.047,
+      "pan": 0
+    },
+    {
+      "start": 5.0,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 60,
+      "level": 0.020399999999999998,
+      "pan": 0.27
+    },
+    {
+      "start": 5.0,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.048,
+      "pan": 0
+    },
+    {
+      "start": 5.3125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 67,
+      "level": 0.020399999999999998,
+      "pan": -0.27
+    },
+    {
+      "start": 5.3125,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 5.625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 74,
+      "level": 0.020399999999999998,
+      "pan": 0.27
+    },
+    {
+      "start": 5.7,
+      "duration": 0.85,
+      "sound": "B_glass",
+      "midi": 83,
+      "level": 0.024,
+      "pan": -0.15
+    },
+    {
+      "start": 5.9375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 64,
+      "level": 0.020399999999999998,
+      "pan": -0.27
+    },
+    {
+      "start": 5.9375,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 6.25,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 71,
+      "level": 0.020399999999999998,
+      "pan": 0.27
+    },
+    {
+      "start": 6.5625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 67,
+      "level": 0.020399999999999998,
+      "pan": -0.27
+    },
+    {
+      "start": 6.5625,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.048,
+      "pan": 0
+    },
+    {
+      "start": 6.5625,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 6.875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 74,
+      "level": 0.020399999999999998,
+      "pan": 0.27
+    },
+    {
+      "start": 7.1875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 64,
+      "level": 0.020399999999999998,
+      "pan": -0.27
+    },
+    {
+      "start": 7.1875,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 7.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 50,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 7.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 54,
+      "level": 0.01,
+      "pan": -0.2
+    },
+    {
+      "start": 7.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 57,
+      "level": 0.01,
+      "pan": 0.25
+    },
+    {
+      "start": 7.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 59,
+      "level": 0.01,
+      "pan": -0.30000000000000004
+    },
+    {
+      "start": 7.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 64,
+      "level": 0.01,
+      "pan": 0.35
+    },
+    {
+      "start": 7.5,
+      "duration": 2.2,
+      "sound": "B_bass",
+      "midi": 38,
+      "level": 0.047,
+      "pan": 0
+    },
+    {
+      "start": 7.5,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 62,
+      "level": 0.021599999999999998,
+      "pan": 0.27
+    },
+    {
+      "start": 7.5,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.048,
+      "pan": 0
+    },
+    {
+      "start": 7.8125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 69,
+      "level": 0.021599999999999998,
+      "pan": -0.27
+    },
+    {
+      "start": 7.8125,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 8.125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 76,
+      "level": 0.021599999999999998,
+      "pan": 0.27
+    },
+    {
+      "start": 8.2,
+      "duration": 0.9,
+      "sound": "B_glass",
+      "midi": 81,
+      "level": 0.024,
+      "pan": 0.2
+    },
+    {
+      "start": 8.4375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 66,
+      "level": 0.021599999999999998,
+      "pan": -0.27
+    },
+    {
+      "start": 8.4375,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 8.75,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 71,
+      "level": 0.021599999999999998,
+      "pan": 0.27
+    },
+    {
+      "start": 9.0625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 69,
+      "level": 0.021599999999999998,
+      "pan": -0.27
+    },
+    {
+      "start": 9.0625,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.048,
+      "pan": 0
+    },
+    {
+      "start": 9.0625,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 9.375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 76,
+      "level": 0.021599999999999998,
+      "pan": 0.27
+    },
+    {
+      "start": 9.375,
+      "duration": 0.21,
+      "sound": "brush_b",
+      "midi": 60,
+      "level": 0.024,
+      "pan": 0.05
+    },
+    {
+      "start": 9.6875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 66,
+      "level": 0.021599999999999998,
+      "pan": -0.27
+    },
+    {
+      "start": 9.6875,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 10.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 59,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 10.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 62,
+      "level": 0.01,
+      "pan": -0.2
+    },
+    {
+      "start": 10.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 66,
+      "level": 0.01,
+      "pan": 0.25
+    },
+    {
+      "start": 10.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 69,
+      "level": 0.01,
+      "pan": -0.30000000000000004
+    },
+    {
+      "start": 10.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 73,
+      "level": 0.01,
+      "pan": 0.35
+    },
+    {
+      "start": 10.0,
+      "duration": 2.2,
+      "sound": "B_bass",
+      "midi": 47,
+      "level": 0.047,
+      "pan": 0
+    },
+    {
+      "start": 10.0,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 71,
+      "level": 0.022799999999999997,
+      "pan": 0.27
+    },
+    {
+      "start": 10.0,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.059,
+      "pan": 0
+    },
+    {
+      "start": 10.3125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 78,
+      "level": 0.022799999999999997,
+      "pan": -0.27
+    },
+    {
+      "start": 10.3125,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 10.5,
+      "duration": 1.1,
+      "sound": "B_glass",
+      "midi": 78,
+      "level": 0.024,
+      "pan": -0.1
+    },
+    {
+      "start": 10.625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 85,
+      "level": 0.022799999999999997,
+      "pan": 0.27
+    },
+    {
+      "start": 10.9375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 74,
+      "level": 0.022799999999999997,
+      "pan": -0.27
+    },
+    {
+      "start": 10.9375,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 11.25,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 81,
+      "level": 0.022799999999999997,
+      "pan": 0.27
+    },
+    {
+      "start": 11.5625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 78,
+      "level": 0.022799999999999997,
+      "pan": -0.27
+    },
+    {
+      "start": 11.5625,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.059,
+      "pan": 0
+    },
+    {
+      "start": 11.5625,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 11.875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 85,
+      "level": 0.022799999999999997,
+      "pan": 0.27
+    },
+    {
+      "start": 11.875,
+      "duration": 0.21,
+      "sound": "brush_b",
+      "midi": 60,
+      "level": 0.024,
+      "pan": 0.05
+    },
+    {
+      "start": 12.1875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 74,
+      "level": 0.022799999999999997,
+      "pan": -0.27
+    },
+    {
+      "start": 12.1875,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 12.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 57,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 12.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.2
+    },
+    {
+      "start": 12.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 64,
+      "level": 0.01,
+      "pan": 0.25
+    },
+    {
+      "start": 12.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 67,
+      "level": 0.01,
+      "pan": -0.30000000000000004
+    },
+    {
+      "start": 12.5,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 71,
+      "level": 0.01,
+      "pan": 0.35
+    },
+    {
+      "start": 12.5,
+      "duration": 2.2,
+      "sound": "B_bass",
+      "midi": 45,
+      "level": 0.047,
+      "pan": 0
+    },
+    {
+      "start": 12.5,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 69,
+      "level": 0.023999999999999997,
+      "pan": 0.27
+    },
+    {
+      "start": 12.5,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.059,
+      "pan": 0
+    },
+    {
+      "start": 12.8125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 76,
+      "level": 0.023999999999999997,
+      "pan": -0.27
+    },
+    {
+      "start": 12.8125,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 12.9,
+      "duration": 0.9,
+      "sound": "B_glass",
+      "midi": 76,
+      "level": 0.024,
+      "pan": 0.1
+    },
+    {
+      "start": 13.125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 83,
+      "level": 0.023999999999999997,
+      "pan": 0.27
+    },
+    {
+      "start": 13.4375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 72,
+      "level": 0.023999999999999997,
+      "pan": -0.27
+    },
+    {
+      "start": 13.4375,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 13.75,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 79,
+      "level": 0.023999999999999997,
+      "pan": 0.27
+    },
+    {
+      "start": 14.0625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 76,
+      "level": 0.023999999999999997,
+      "pan": -0.27
+    },
+    {
+      "start": 14.0625,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.059,
+      "pan": 0
+    },
+    {
+      "start": 14.0625,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 14.375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 83,
+      "level": 0.023999999999999997,
+      "pan": 0.27
+    },
+    {
+      "start": 14.375,
+      "duration": 0.21,
+      "sound": "brush_b",
+      "midi": 60,
+      "level": 0.024,
+      "pan": 0.05
+    },
+    {
+      "start": 14.6875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 72,
+      "level": 0.023999999999999997,
+      "pan": -0.27
+    },
+    {
+      "start": 14.6875,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 15.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 59,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 15.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 62,
+      "level": 0.01,
+      "pan": -0.2
+    },
+    {
+      "start": 15.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 66,
+      "level": 0.01,
+      "pan": 0.25
+    },
+    {
+      "start": 15.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 69,
+      "level": 0.01,
+      "pan": -0.30000000000000004
+    },
+    {
+      "start": 15.0,
+      "duration": 2.9375,
+      "sound": "B_pad",
+      "midi": 76,
+      "level": 0.01,
+      "pan": 0.35
+    },
+    {
+      "start": 15.0,
+      "duration": 2.2,
+      "sound": "B_bass",
+      "midi": 47,
+      "level": 0.047,
+      "pan": 0
+    },
+    {
+      "start": 15.0,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 71,
+      "level": 0.0252,
+      "pan": 0.27
+    },
+    {
+      "start": 15.0,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.059,
+      "pan": 0
+    },
+    {
+      "start": 15.3125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 78,
+      "level": 0.0252,
+      "pan": -0.27
+    },
+    {
+      "start": 15.3125,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 15.6,
+      "duration": 1.1,
+      "sound": "B_glass",
+      "midi": 74,
+      "level": 0.024,
+      "pan": -0.16
+    },
+    {
+      "start": 15.625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 88,
+      "level": 0.0252,
+      "pan": 0.27
+    },
+    {
+      "start": 15.9375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 74,
+      "level": 0.0252,
+      "pan": -0.27
+    },
+    {
+      "start": 15.9375,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 16.25,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 81,
+      "level": 0.0252,
+      "pan": 0.27
+    },
+    {
+      "start": 16.5625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 78,
+      "level": 0.0252,
+      "pan": -0.27
+    },
+    {
+      "start": 16.5625,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.059,
+      "pan": 0
+    },
+    {
+      "start": 16.5625,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 16.875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 88,
+      "level": 0.0252,
+      "pan": 0.27
+    },
+    {
+      "start": 16.875,
+      "duration": 0.21,
+      "sound": "brush_b",
+      "midi": 60,
+      "level": 0.024,
+      "pan": 0.05
+    },
+    {
+      "start": 17.1875,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 74,
+      "level": 0.0252,
+      "pan": -0.27
+    },
+    {
+      "start": 17.1875,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 17.5,
+      "duration": 2.5,
+      "sound": "B_pad",
+      "midi": 52,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 17.5,
+      "duration": 2.5,
+      "sound": "B_pad",
+      "midi": 55,
+      "level": 0.01,
+      "pan": -0.2
+    },
+    {
+      "start": 17.5,
+      "duration": 2.5,
+      "sound": "B_pad",
+      "midi": 59,
+      "level": 0.01,
+      "pan": 0.25
+    },
+    {
+      "start": 17.5,
+      "duration": 2.5,
+      "sound": "B_pad",
+      "midi": 62,
+      "level": 0.01,
+      "pan": -0.30000000000000004
+    },
+    {
+      "start": 17.5,
+      "duration": 2.5,
+      "sound": "B_pad",
+      "midi": 66,
+      "level": 0.01,
+      "pan": 0.35
+    },
+    {
+      "start": 17.5,
+      "duration": 2.2,
+      "sound": "B_bass",
+      "midi": 40,
+      "level": 0.047,
+      "pan": 0
+    },
+    {
+      "start": 17.5,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 64,
+      "level": 0.0264,
+      "pan": 0.27
+    },
+    {
+      "start": 17.5,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.059,
+      "pan": 0
+    },
+    {
+      "start": 17.8,
+      "duration": 0.75,
+      "sound": "B_glass",
+      "midi": 71,
+      "level": 0.024,
+      "pan": 0.16
+    },
+    {
+      "start": 17.8125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 71,
+      "level": 0.0264,
+      "pan": -0.27
+    },
+    {
+      "start": 17.8125,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 18.125,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 78,
+      "level": 0.0264,
+      "pan": 0.27
+    },
+    {
+      "start": 18.4375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 67,
+      "level": 0.0264,
+      "pan": -0.27
+    },
+    {
+      "start": 18.4375,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 18.75,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 74,
+      "level": 0.0264,
+      "pan": 0.27
+    },
+    {
+      "start": 18.8,
+      "duration": 1.15,
+      "sound": "B_glass",
+      "midi": 76,
+      "level": 0.024,
+      "pan": 0
+    },
+    {
+      "start": 19.0625,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 71,
+      "level": 0.0264,
+      "pan": -0.27
+    },
+    {
+      "start": 19.0625,
+      "duration": 0.19,
+      "sound": "kick_b",
+      "midi": 60,
+      "level": 0.059,
+      "pan": 0
+    },
+    {
+      "start": 19.0625,
+      "duration": 0.08,
+      "sound": "hat_b",
+      "midi": 60,
+      "level": 0.01,
+      "pan": -0.15
+    },
+    {
+      "start": 19.375,
+      "duration": 0.37,
+      "sound": "B_pulse",
+      "midi": 78,
+      "level": 0.0264,
+      "pan": 0.27
+    },
+    {
+      "start": 19.375,
+      "duration": 0.21,
+      "sound": "brush_b",
+      "midi": 60,
+      "level": 0.024,
+      "pan": 0.05
+    }
+  ],
+  "version": "B",
+  "sample_rate": 48000,
+  "duration_seconds": 20,
+  "target_lufs": -15.5,
+  "source_policy": "Independent new composition; no prior music recording, arrangement or melodic phrase is reused."
+}

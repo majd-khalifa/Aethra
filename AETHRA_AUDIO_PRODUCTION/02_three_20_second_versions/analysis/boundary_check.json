@@ -1,0 +1,22 @@
+{
+  "frame_pairs": [
+    [
+      448,
+      449
+    ],
+    [
+      449,
+      450
+    ],
+    [
+      450,
+      451
+    ]
+  ],
+  "mean_absolute_rgb_difference_0_to_255": [
+    0.0007979681069958847,
+    0.9515573559670782,
+    0.003230613425925926
+  ],
+  "note": "RGB measurement of the appended boundary; original first 450 frame identity is verified separately."
+}
