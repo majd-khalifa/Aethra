@@ -1,0 +1,72 @@
+{
+  "AETHRA_FINAL_MOTION_SYNC_AUDIO.wav": {
+    "input_i": "-15.01",
+    "input_tp": "-2.20",
+    "input_lra": "1.20",
+    "input_thresh": "-25.06",
+    "output_i": "-14.93",
+    "output_tp": "-2.04",
+    "output_lra": "0.70",
+    "output_thresh": "-24.95",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.07"
+  },
+  "AETHRA_MUSIC_ONLY.wav": {
+    "input_i": "-16.81",
+    "input_tp": "-3.40",
+    "input_lra": "2.30",
+    "input_thresh": "-26.86",
+    "output_i": "-15.28",
+    "output_tp": "-2.13",
+    "output_lra": "0.90",
+    "output_thresh": "-25.31",
+    "normalization_type": "dynamic",
+    "target_offset": "0.28"
+  },
+  "AETHRA_SFX_ONLY.wav": {
+    "input_i": "-17.80",
+    "input_tp": "-2.07",
+    "input_lra": "6.80",
+    "input_thresh": "-29.01",
+    "output_i": "-14.68",
+    "output_tp": "-1.50",
+    "output_lra": "2.60",
+    "output_thresh": "-25.71",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.32"
+  },
+  "mastering": {
+    "target_lufs": -15.0,
+    "true_peak_ceiling_db": -1.5,
+    "pre_normalization": {
+      "input_i": "-35.60",
+      "input_tp": "-21.29",
+      "input_lra": "1.70",
+      "input_thresh": "-45.65",
+      "output_i": "-14.92",
+      "output_tp": "-1.50",
+      "output_lra": "0.90",
+      "output_thresh": "-24.95",
+      "normalization_type": "dynamic",
+      "target_offset": "-0.08"
+    },
+    "initial_gain_db": 20.6,
+    "shared_stereo_linked_peak_control_reduction_db": [
+      1.5107838175656985,
+      0.15000000000000188
+    ],
+    "stem_recombination": "The delivered post-automation/post-master-gain stems sum to the final PCM mix within independent 24-bit dither."
+  },
+  "final_aac_in_mp4": {
+    "input_i": "-15.03",
+    "input_tp": "-2.20",
+    "input_lra": "1.10",
+    "input_thresh": "-25.07",
+    "output_i": "-14.93",
+    "output_tp": "-2.04",
+    "output_lra": "0.60",
+    "output_thresh": "-24.96",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.07"
+  }
+}

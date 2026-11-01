@@ -1,0 +1,101 @@
+{
+  "source_file": "AETHRA_A_Viral_Beat.mp4",
+  "video_checks": {
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": "30/1",
+    "duration_seconds": 15.0,
+    "codec": "h264",
+    "video_packets": 450,
+    "packet_payload_hashes_and_pts_dts_durations_identical": true,
+    "decoded_frame_hashes_identical": 450,
+    "annexb_sha256": "4e92eca0632d5aaa36b345ec40f4cc9c843e86a01788a4a3174f7277d52524de",
+    "all_four_original_exports_unchanged": true,
+    "all_four_source_video_streams_identical": true,
+    "full_decode_errors": 0,
+    "original_visual_stream_copied": true
+  },
+  "audio_checks": {
+    "wav": {
+      "rate": 48000,
+      "channels": 2,
+      "sample_width": 3,
+      "frames": 720000
+    },
+    "duration_seconds": 15.0,
+    "pcm_clipped_samples": 0,
+    "stems_recombine_max_absolute_error": 3.5762786865234375e-07,
+    "stems_recombine_tolerance": "3 least significant 24-bit steps",
+    "stereo_correlation": 0.935799325765468,
+    "mono_fold_down_rms_change_db": -0.14224278676642277,
+    "aac_timeline_samples": 720000,
+    "aac_uncompensated_delay_samples": 0,
+    "aac_sync_checkpoints": {
+      "15": {
+        "aac_pcm_correlation": 0.999978126068705,
+        "encoded_audio_has_correct_interval": true
+      },
+      "287": {
+        "aac_pcm_correlation": 0.9999784389701651,
+        "encoded_audio_has_correct_interval": true
+      },
+      "296": {
+        "aac_pcm_correlation": 0.9999026867485638,
+        "encoded_audio_has_correct_interval": true
+      },
+      "305": {
+        "aac_pcm_correlation": 0.9999819111755331,
+        "encoded_audio_has_correct_interval": true
+      },
+      "398": {
+        "aac_pcm_correlation": 0.9999988838378814,
+        "encoded_audio_has_correct_interval": true
+      }
+    },
+    "all_30_cues_sample_aligned": true,
+    "pcm_lufs": -15.01,
+    "aac_lufs": -15.03,
+    "aac_true_peak_db": -2.2
+  },
+  "browser_playback": {
+    "ended": true,
+    "duration": 15,
+    "currentTime": 15,
+    "width": 1080,
+    "height": 1920,
+    "decodedFrames": 450,
+    "droppedFrames": 0,
+    "error": null,
+    "muted": false,
+    "volume": 1,
+    "audioContextState": "running",
+    "maximumObservedAudioRms": 0.35575499776751895,
+    "meterSamples": 375
+  },
+  "limitations": [
+    "No physical Windows, iOS or Android device or Instagram re-encode was tested.",
+    "Headless Chromium playback and signal measurements do not substitute for a human listening approval.",
+    "The Instagram reference was inaccessible under the current allowed-host policy; it was not analyzed.",
+    "REAPER project structure and media paths are provided, but REAPER itself is not installed for GUI testing."
+  ],
+  "files": {
+    "AETHRA_FINAL_MOTION_SYNC_REEL.mp4": {
+      "bytes": 2360482,
+      "sha256": "0ab441d36d8f36927833c92a4e3cf28a1bc965f2ed9d1e48b882c50e525c6945"
+    },
+    "AETHRA_MUSIC_ONLY.wav": {
+      "bytes": 4320044,
+      "sha256": "8728e221ac9ae9f7268ab2989b427df766d9dd3d683e17389afe23cefdd33e9b"
+    },
+    "AETHRA_SFX_ONLY.wav": {
+      "bytes": 4320044,
+      "sha256": "98c7dba4629013ac3b2ac2fe9464876f66098926ac377e560f4f25148e7dafdd"
+    },
+    "AETHRA_FINAL_MOTION_SYNC_AUDIO.wav": {
+      "bytes": 4320044,
+      "sha256": "d6baf80bd1178873f0db1b4ec409493826edf408b1b3693241376c708fa93dbd"
+    }
+  }
+}
