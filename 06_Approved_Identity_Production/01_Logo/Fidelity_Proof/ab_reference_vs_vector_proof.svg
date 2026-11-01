@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1140" width="1600" height="1140">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1600" height="1140" fill="#FCFBFF"/>
+<rect x="40" y="40" width="1520" height="1060" fill="none" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="40" y1="104" x2="1560" y2="104" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="64" y="66" width="12" height="12" rx="2" fill="#7446F5"/>
+<rect x="68" y="156" width="700" height="380" rx="8" fill="#F2EDFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="832" y="156" width="700" height="380" rx="8" fill="#FFFFFF" stroke="#7446F5" stroke-width="1.5"/>
+<polygon points="1312,536 1502,156 1532,156 1532,536" fill="#F2EAFF" fill-opacity="0.75"/>
+<polygon points="1275,536 1532,292 1532,536" fill="#E8DCFF" fill-opacity="0.65"/>
+<polygon points="832,366 1180,536 832,536" fill="#F3ECFF" fill-opacity="0.7"/>
+<g transform="translate(1026.48,401.36) scale(0.31104)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+<line x1="40" y1="566" x2="1560" y2="566" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="68" y="622" width="732" height="444" rx="8" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="96" y="668" width="144" height="144" rx="4" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="276" y="732" width="80" height="80" rx="4" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="400" y="764" width="48" height="48" rx="4" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="494" y="772" width="40" height="40" rx="4" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="580" y="780" width="32" height="32" rx="4" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="96" y1="858" x2="768" y2="858" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="104" y="912" width="48" height="48" rx="6" fill="#171327"/>
+<rect x="104" y="976" width="48" height="48" rx="6" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="832" y="622" width="700" height="444" rx="8" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<g transform="translate(1074.0,194) scale(0.216)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(104,676) scale(0.128)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(284,740) scale(0.064)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(408,772) scale(0.032)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(502,780) scale(0.024)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(588,788) scale(0.016)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(116,924) scale(0.024)"><path d="M 500.0,120.0 L 916.0,868.0 L 572.0,868.0 L 526.0,785.2 L 774.8,785.2 L 686.0,625.4 L 84.0,868.0 Z M 500.0,291.4 L 279.0,689.2 L 640.0,552.0 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(120,992) scale(0.016)"><path d="M 500.0,120.0 L 916.0,868.0 L 572.0,868.0 L 526.0,785.2 L 774.8,785.2 L 686.0,625.4 L 84.0,868.0 Z M 500.0,291.4 L 279.0,689.2 L 640.0,552.0 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<text x="88" y="74.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#171327" letter-spacing="0.78px">AETHRA LOGO FIDELITY PROOF  //  A/B SOURCE SCREENSHOT VS. RECONSTRUCTED VECTOR MASTER</text>
+<text x="1536" y="74.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7" letter-spacing="0.78px" text-anchor="end">PHASE 01 — VERIFICATION</text>
+<text x="68" y="137.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#615B73" letter-spacing="0.6px">A // SUPPLIED RASTER REFERENCE (265 × 136 PX SCREENSHOT)</text>
+<text x="832" y="137.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7" letter-spacing="0.6px">B // RECONSTRUCTED EDITABLE SVG VECTOR MASTER (INFINITE RESOLUTION)</text>
+<text x="68" y="601.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7" letter-spacing="0.6px">C // PIXEL-SCALE LEGIBILITY PROOF (128 PX DOWN TO 16 PX FAVICON)</text>
+<text x="104" y="653.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">OFFICIAL MASTER GEOMETRY (8.7% STROKE):</text>
+<text x="168.0" y="831.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#615B73" text-anchor="middle">128 px</text>
+<text x="316.0" y="831.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#615B73" text-anchor="middle">64 px</text>
+<text x="424.0" y="831.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#615B73" text-anchor="middle">32 px</text>
+<text x="514.0" y="831.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#615B73" text-anchor="middle">24 px</text>
+<text x="596.0" y="831.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#615B73" text-anchor="middle">16 px</text>
+<text x="104" y="885.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">OPTICAL MICRO-ICON VARIANT (+32% STROKE FOR &lt;=24PX FAVICONS):</text>
+<text x="168" y="930.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#171327">24 × 24 px Micro-Icon (Dark &amp; Light)</text>
+<text x="168" y="951.84" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#615B73">Preserves rising diagonal &amp; lower-right foot without subpixel drop-out.</text>
+<text x="168" y="994.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#171327">16 × 16 px Micro-Icon (Browser Tab Favicon)</text>
+<text x="168" y="1015.84" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#615B73">At 16px, official master stroke is 1.15px; optical micro-icon boosts stroke to 1.52px.</text>
+<text x="832" y="601.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7" letter-spacing="0.6px">D // VECTOR RECONSTRUCTION AUDIT &amp; OPTICAL CORRECTIONS</text>
+<text x="860" y="657.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7">01 // OUTER TRIANGULAR SYMMETRY &amp; SLOPE</text>
+<text x="860" y="680.66" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#615B73">Sampled apex at (137.0, 19.3) and base tips at (100.0, 86.0) &amp; (174.2, 86.0).</text>
+<text x="860" y="699.12" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#615B73">Normalized to an exact 9:5 (1.80) rise-to-run slope (60.95° base angle).</text>
+<text x="860" y="757.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7">02 // RISING DIAGONAL INNER CROSS-STROKE</text>
+<text x="860" y="780.66" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#615B73">Originates from the lower-left tip and ascends at 21.03° to join the inner</text>
+<text x="860" y="799.12" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#615B73">right leg at 62% height, carving the signature asymmetrical upper counter.</text>
+<text x="860" y="857.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7">03 // OPEN LOWER GEOMETRY &amp; RIGHT-SIDE TERMINAL</text>
+<text x="860" y="880.66" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#615B73">Lower-right leg turns horizontally inward from x=900 to x=584, terminating</text>
+<text x="860" y="899.12" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#615B73">in a crisp angled notch (549.2, 797.4) strictly parallel to the 9:5 right leg.</text>
+<text x="860" y="957.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7">04 // UNIFORM STROKE WEIGHT &amp; WORDMARK</text>
+<text x="860" y="980.66" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#615B73">All four structural segments unified to an exact 62.6u (8.7%) perpendicular</text>
+<text x="860" y="999.12" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#615B73">stroke width. Wordmark AETHRA uses custom open-chevron &#x27;A&#x27; glyphs.</text>
+</svg>

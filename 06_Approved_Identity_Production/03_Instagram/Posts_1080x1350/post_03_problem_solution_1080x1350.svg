@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1080" height="1350" fill="#FCFBFF"/>
+<polygon points="734.4,1350 1036.8,0 1080,0 1080,1350" fill="#F2EAFF" fill-opacity="0.75"/>
+<polygon points="680.4,1350 1080,486.0 1080,1350" fill="#E8DCFF" fill-opacity="0.65"/>
+<polygon points="0,742.5 518.4,1350 0,1350" fill="#F3ECFF" fill-opacity="0.7"/>
+<polygon points="0,1026.0 259.2,1350 0,1350" fill="#E6D8FF" fill-opacity="0.65"/>
+<rect x="48" y="48" width="984" height="1254" rx="16" fill="none" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="48" y1="132" x2="1032" y2="132" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="48" y1="1222" x2="1032" y2="1222" stroke="#E2D9FA" stroke-width="1.5"/>
+<g transform="translate(134.0,84.5) scale(0.1325)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+<rect x="760" y="72" width="240" height="36" rx="18" fill="#F2EDFF" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="88" y="428" width="904" height="320" rx="12" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="680" y1="497" x2="870" y2="489" stroke="#615B73" stroke-width="1.5" stroke-dasharray="5,5"/>
+<line x1="870" y1="489" x2="775" y2="583" stroke="#615B73" stroke-width="1.5" stroke-dasharray="5,5"/>
+<line x1="775" y1="583" x2="690" y2="669" stroke="#615B73" stroke-width="1.5" stroke-dasharray="5,5"/>
+<rect x="600" y="472" width="160" height="50" rx="6" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="790" y="464" width="160" height="50" rx="6" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="690" y="558" width="170" height="50" rx="6" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="610" y="644" width="160" height="50" rx="6" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="800" y="640" width="150" height="50" rx="6" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5" stroke-dasharray="4,3"/>
+<rect x="88" y="780" width="904" height="392" rx="12" fill="#171327"/>
+<polygon points="660,1172 992,840 992,1172" fill="#211B36"/>
+<rect x="120" y="1054" width="420" height="68" rx="8" fill="#211B36" stroke="#7446F5" stroke-width="1.5"/>
+<g transform="translate(80,66) scale(0.05)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(656,846) scale(0.26)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<text x="880" y="92.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7" letter-spacing="0.78px" text-anchor="middle">03  •  PERSPECTIVE</text>
+<text x="80" y="1263.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#171327" letter-spacing="1.68px">AETHRA</text>
+<text x="1000" y="1262.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#615B73" letter-spacing="0.78px" text-anchor="end">FROM THE UNSEEN TO THE EXTRAORDINARY</text>
+<text x="88" y="183.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#5D2BE7" letter-spacing="1.12px">FROM FRAGMENTATION TO CLARITY</text>
+<text x="88" y="251.92" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="56" fill="#171327" letter-spacing="-1.4px">Turning operational</text>
+<text x="88" y="312.4" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="56" fill="#171327" letter-spacing="-1.4px">complexity into one</text>
+<text x="88" y="372.88" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="56" fill="#171327" letter-spacing="-1.4px">coherent system.</text>
+<text x="120" y="466.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#615B73" letter-spacing="0.78px">THE CHALLENGE // FRAGMENTED TOOLS</text>
+<text x="120" y="510.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">When processes live across disconnected</text>
+<text x="120" y="540.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">spreadsheets, manual handoffs, and isolated</text>
+<text x="120" y="570.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">apps, teams spend more time maintaining</text>
+<text x="120" y="600.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">workarounds than serving customers.</text>
+<text x="680.0" y="497.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#615B73" text-anchor="middle">Manual Entry</text>
+<text x="870.0" y="489.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#615B73" text-anchor="middle">Siloed Data</text>
+<text x="775.0" y="583.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#615B73" text-anchor="middle">Disconnected API</text>
+<text x="690.0" y="669.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#615B73" text-anchor="middle">Brittle Sync</text>
+<text x="875.0" y="665.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#615B73" text-anchor="middle">Delayed Reports</text>
+<text x="120" y="824.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#B18CFE" letter-spacing="0.78px">THE SOLUTION // UNIFIED ARCHITECTURE</text>
+<text x="120" y="881.52" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="36" fill="#FCFBFF">Engineered around your logic.</text>
+<text x="120" y="928.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#A39BB8">We design and build custom software that</text>
+<text x="120" y="958.8" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#A39BB8">unifies your data layer, backend rules, and</text>
+<text x="120" y="989.2" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#A39BB8">user interfaces into one dependable product.</text>
+<text x="330" y="1089.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#FCFBFF" text-anchor="middle">WEB  •  MOBILE  •  API  •  DATABASE</text>
+</svg>

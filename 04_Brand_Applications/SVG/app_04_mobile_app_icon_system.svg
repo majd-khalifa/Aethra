@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" width="1600" height="1100">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style></defs>
+<rect x="0" y="0" width="1600" height="1100" fill="#F5F3EE"/>
+<rect x="40" y="40" width="1520" height="1020" fill="none" stroke="#E4E1D8" stroke-width="1.5"/>
+<line x1="40" y1="100" x2="1560" y2="100" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="64" y="62" width="12" height="12" fill="#1838E0"/>
+<rect x="80" y="178" width="224" height="224" rx="50" fill="#1838E0" stroke="#E4E1D8" stroke-width="1.5"/>
+<g transform="translate(119,217) scale(1.22)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#F5F3EE"/></g>
+<rect x="340" y="178" width="224" height="224" rx="50" fill="#0D1017" stroke="#E4E1D8" stroke-width="1.5"/>
+<g transform="translate(379,217) scale(1.22)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#1838E0"/></g>
+<rect x="504" y="234" width="12" height="12" fill="#E84A27"/>
+<rect x="600" y="178" width="224" height="224" rx="50" fill="#FFFFFF" stroke="#E4E1D8" stroke-width="1.5"/>
+<g transform="translate(639,217) scale(1.22)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#1838E0"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#1838E0"/></g>
+<rect x="80" y="524" width="744" height="488" fill="#FFFFFF" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="112" y="550" width="180" height="180" rx="39" fill="#1838E0"/>
+<g transform="translate(134.8,572.8) scale(1.12)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#F5F3EE"/></g>
+<rect x="332" y="618" width="112" height="112" rx="24" fill="#1838E0"/>
+<g transform="translate(346.18666666666667,632.1866666666666) scale(0.696888888888889)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#F5F3EE"/></g>
+<rect x="488" y="662" width="68" height="68" rx="14" fill="#1838E0"/>
+<g transform="translate(496.61333333333334,670.6133333333333) scale(0.42311111111111116)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#F5F3EE"/></g>
+<rect x="604" y="690" width="40" height="40" rx="8" fill="#1838E0"/>
+<g transform="translate(609.0666666666667,695.0666666666667) scale(0.2488888888888889)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#F5F3EE"/></g>
+<rect x="714" y="708" width="22" height="22" rx="4" fill="#1838E0"/>
+<g transform="translate(716.7866666666666,710.7866666666666) scale(0.1368888888888889)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#F5F3EE"/></g>
+<line x1="116" y1="816" x2="784" y2="816" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="944" y="178" width="480" height="834" rx="54" fill="#0D1017" stroke="#232A3B" stroke-width="4"/>
+<rect x="964" y="198" width="440" height="794" rx="40" fill="#161B26"/>
+<rect x="1124" y="218" width="120" height="28" rx="14" fill="#0D1017"/>
+<rect x="996" y="276" width="376" height="176" rx="24" fill="#0D1017" stroke="#232A3B" stroke-width="1.5"/>
+<g transform="translate(1020,298) scale(0.38)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#1838E0"/></g>
+<rect x="1332" y="308" width="12" height="12" rx="6" fill="#1838E0"/>
+<rect x="996" y="492" width="80" height="80" rx="18" fill="#1838E0" stroke="#1838E0" stroke-width="1.5"/>
+<g transform="translate(1009.6,505.6) scale(0.44)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#F5F3EE"/></g>
+<rect x="1094" y="492" width="80" height="80" rx="18" fill="#0D1017" stroke="#232A3B" stroke-width="1.5"/>
+<rect x="1118" y="520" width="32" height="24" rx="3" fill="none" stroke="#F5F3EE" stroke-width="1.5" stroke-opacity="0.4"/>
+<rect x="1192" y="492" width="80" height="80" rx="18" fill="#0D1017" stroke="#232A3B" stroke-width="1.5"/>
+<rect x="1216" y="520" width="32" height="24" rx="3" fill="none" stroke="#F5F3EE" stroke-width="1.5" stroke-opacity="0.4"/>
+<rect x="1290" y="492" width="80" height="80" rx="18" fill="#0D1017" stroke="#232A3B" stroke-width="1.5"/>
+<rect x="1314" y="520" width="32" height="24" rx="3" fill="none" stroke="#F5F3EE" stroke-width="1.5" stroke-opacity="0.4"/>
+<rect x="996" y="824" width="376" height="112" rx="20" fill="#0D1017" stroke="#1838E0" stroke-width="1.5"/>
+<rect x="1018" y="848" width="48" height="48" rx="11" fill="#1838E0"/>
+<g transform="translate(1026.4,856.4) scale(0.26)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#F5F3EE"/></g>
+<text x="88" y="71.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#0D1017" letter-spacing="1.12px">AETHRA BRAND APPLICATIONS  //  04 — MOBILE APP ICON SYSTEM &amp; SCALE PROOF</text>
+<text x="1536" y="71.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#1838E0" letter-spacing="1.12px" text-anchor="end">iOS / ANDROID / FAVICON (1024PX -&gt; 16PX)</text>
+<text x="80" y="144.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#1838E0" letter-spacing="1.04px">01 // MASTER APP ICON VARIANTS (iOS / ANDROID SQUIRCLE GEOMETRY)</text>
+<text x="192" y="430.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#0D1017" text-anchor="middle">PRIMARY COBALT</text>
+<text x="452" y="430.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#0D1017" text-anchor="middle">DARK CARBON</text>
+<text x="712" y="430.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#0D1017" text-anchor="middle">ALABASTER LIGHT</text>
+<text x="80" y="496.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#1838E0" letter-spacing="1.04px">02 // MULTI-RESOLUTION SILHOUETTE &amp; COUNTERFORM PROOF (256PX DOWN TO 16PX)</text>
+<text x="202.0" y="765.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#0D1017" text-anchor="middle">256 × 256 px</text>
+<text x="388.0" y="765.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#0D1017" text-anchor="middle">128 × 128 px</text>
+<text x="522.0" y="765.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#0D1017" text-anchor="middle">64 × 64 px</text>
+<text x="624.0" y="765.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#0D1017" text-anchor="middle">32 × 32 px</text>
+<text x="725.0" y="765.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#0D1017" text-anchor="middle">16 × 16 px</text>
+<text x="116" y="856.3" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#5A6072">WHY THE SILHOUETTE HOLDS AT 16×16 PX:</text>
+<text x="116" y="879.55" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#5A6072">Because the negative-space channel between the primary vault and cantilevered crossbar is</text>
+<text x="116" y="902.8" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#5A6072">14.3% of total symbol height (with zero hairline strokes or gradients), the AETHRA mark never</text>
+<text x="116" y="926.05" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#5A6072">plugs or blurs at tiny pixel densities.</text>
+<text x="884" y="144.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#1838E0" letter-spacing="1.04px">03 // MOBILE DEVICE HOME-SCREEN CONTEXT</text>
+<text x="1078" y="317.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#F5F3EE" letter-spacing="0.96px">AETHRA CLOUD</text>
+<text x="1024" y="378.96" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="28" fill="#F5F3EE">99.998% Uptime</text>
+<text x="1024" y="409.48" font-family="'Inter', sans-serif" font-weight="400" font-size="14" fill="#F5F3EE" fill-opacity="0.7">All 24 production services healthy.</text>
+<text x="1036" y="594.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#F5F3EE" text-anchor="middle">AETHRA</text>
+<text x="1134" y="594.66" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#F5F3EE" text-anchor="middle">Terminal</text>
+<text x="1232" y="594.66" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#F5F3EE" text-anchor="middle">Calendar</text>
+<text x="1330" y="594.66" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#F5F3EE" text-anchor="middle">Docs</text>
+<text x="1082" y="857.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#1838E0">AETHRA DEPLOYMENT</text>
+<text x="1082" y="883.94" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="17" fill="#F5F3EE">Production API v2.4 Live</text>
+<text x="1082" y="906.66" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#F5F3EE" fill-opacity="0.75">Zero-downtime migration completed.</text>
+</svg>

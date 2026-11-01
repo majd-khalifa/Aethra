@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" width="1600" height="1100">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1600" height="1100" fill="#FCFBFF"/>
+<polygon points="1152.0,0 1600,0 1600,638.0" fill="#F2EDFF" fill-opacity="0.85"/>
+<polygon points="1344.0,0 1600,0 1600,374.0" fill="#E6DCFF" fill-opacity="0.65"/>
+<rect x="40" y="40" width="1520" height="1020" fill="none" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="40" y1="104" x2="1560" y2="104" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="64" y="66" width="12" height="12" rx="2" fill="#7446F5"/>
+<rect x="68" y="164" width="680" height="138" rx="8" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="68" y="320" width="680" height="138" rx="8" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="68" y="476" width="680" height="138" rx="8" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="68" y="676" width="680" height="352" rx="8" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<polygon points="440,1028 620,676 748,676 748,1028" fill="#F2EDFF"/>
+<polygon points="520,1028 748,800 748,1028" fill="#EAE0FF" fill-opacity="0.7"/>
+<rect x="96" y="924" width="180" height="44" rx="6" fill="#5D2BE7"/>
+<rect x="292" y="924" width="180" height="44" rx="6" fill="#F2EDFF" stroke="#7446F5" stroke-width="1.5"/>
+<rect x="784" y="164" width="748" height="864" rx="8" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="820" y1="768" x2="1496" y2="768" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="820" y="796" width="676" height="196" rx="8" fill="#F2EDFF" stroke="#E2D9FA" stroke-width="1"/>
+<text x="88" y="74.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#171327" letter-spacing="0.78px">AETHRA DESIGN SYSTEM  //  02.B — TYPOGRAPHY HIERARCHY, LICENSING &amp; GRAPHIC LANGUAGE</text>
+<text x="68" y="141.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7">01 // COMMERCIAL-READY OPEN-SOURCE TYPEFACES (SIL OFL 1.1)</text>
+<text x="92" y="191.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">DISPLAY &amp; HEADLINES</text>
+<text x="92" y="232.24" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="32" fill="#171327">Space Grotesk</text>
+<text x="92" y="260.66" font-family="'Inter', sans-serif" font-weight="500" font-size="13" fill="#171327">Weights: Medium (500), SemiBold (600), Bold (700)</text>
+<text x="92" y="281.02" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="11" fill="#615B73">Fallbacks: system-ui, -apple-system, &#x27;Segoe UI&#x27;, sans-serif</text>
+<text x="724" y="232.24" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="32" fill="#7446F5" text-anchor="end">Aa 01</text>
+<text x="92" y="347.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">BODY COPY &amp; UI CONTROLS</text>
+<text x="92" y="388.24" font-family="'Inter', sans-serif" font-weight="600" font-size="32" fill="#171327">Inter</text>
+<text x="92" y="416.66" font-family="'Inter', sans-serif" font-weight="500" font-size="13" fill="#171327">Weights: Regular (400), Medium (500), SemiBold (600)</text>
+<text x="92" y="437.02" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="11" fill="#615B73">Fallbacks: -apple-system, BlinkMacSystemFont, &#x27;Segoe UI&#x27;, sans-serif</text>
+<text x="724" y="388.24" font-family="'Inter', sans-serif" font-weight="600" font-size="32" fill="#7446F5" text-anchor="end">Aa 01</text>
+<text x="92" y="503.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">TECHNICAL LABELS &amp; METADATA</text>
+<text x="92" y="544.24" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="32" fill="#171327">IBM Plex Mono</text>
+<text x="92" y="572.66" font-family="'Inter', sans-serif" font-weight="500" font-size="13" fill="#171327">Weights: Regular (400), Medium (500), SemiBold (600)</text>
+<text x="92" y="593.02" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="11" fill="#615B73">Fallbacks: ui-monospace, &#x27;Cascadia Code&#x27;, monospace</text>
+<text x="724" y="544.24" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="32" fill="#7446F5" text-anchor="end">Aa 01</text>
+<text x="68" y="653.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7">02 // SUPPORTING GRAPHIC LANGUAGE &amp; COMPONENT TOKENS</text>
+<text x="96" y="722.04" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="22" fill="#171327">Derived Diagonal Planes &amp; Airy Grids</text>
+<text x="96" y="753.48" font-family="'Inter', sans-serif" font-weight="400" font-size="14" fill="#615B73">• Diagonal lavender planes echo the exact 60.95° leg slope and</text>
+<text x="96" y="775.88" font-family="'Inter', sans-serif" font-weight="400" font-size="14" fill="#615B73">  21.03° rising cross-stroke of the approved A monogram.</text>
+<text x="96" y="798.28" font-family="'Inter', sans-serif" font-weight="400" font-size="14" fill="#615B73">• Generous white/lavender breathing room (&gt;65% open surface).</text>
+<text x="96" y="820.68" font-family="'Inter', sans-serif" font-weight="400" font-size="14" fill="#615B73">• Hairline 1px borders (#E2D9FA) and subtle 8px–12px card radii.</text>
+<text x="96" y="843.08" font-family="'Inter', sans-serif" font-weight="400" font-size="14" fill="#615B73">• Zero decorative sci-fi clutter, stars, or heavy neon glows.</text>
+<text x="186" y="948.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#FFFFFF" text-anchor="middle">Primary Button</text>
+<text x="382" y="948.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7" text-anchor="middle">Secondary Action</text>
+<text x="784" y="141.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7">03 // LIVE TYPOGRAPHIC SCALE &amp; EDITORIAL SPECIMEN</text>
+<text x="820" y="205.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5D2BE7" letter-spacing="0.66px">HERO DISPLAY // 56PX (-0.03EM)</text>
+<text x="820" y="257.36" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="48" fill="#171327">From the unseen to</text>
+<text x="820" y="308.24" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="48" fill="#171327">the extraordinary.</text>
+<text x="820" y="357.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5D2BE7" letter-spacing="0.66px">H1 HEADLINE // 44PX (-0.025EM)</text>
+<text x="820" y="399.52" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="36" fill="#171327">Engineered digital systems.</text>
+<text x="820" y="453.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5D2BE7" letter-spacing="0.66px">H2 SECTION // 32PX (-0.02EM)</text>
+<text x="820" y="488.96" font-family="'Space Grotesk', sans-serif" font-weight="500" font-size="28" fill="#171327">Architecture built for longevity.</text>
+<text x="820" y="539.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5D2BE7" letter-spacing="0.66px">H3 SUBHEADING // 22PX (-0.01EM)</text>
+<text x="820" y="569.22" font-family="'Inter', sans-serif" font-weight="500" font-size="21" fill="#171327">Custom software, web applications, mobile platforms, and APIs.</text>
+<text x="820" y="621.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5D2BE7" letter-spacing="0.66px">BODY REGULAR // 16PX (1.6 LINE HEIGHT)</text>
+<text x="820" y="647.12" font-family="'Inter', sans-serif" font-weight="400" font-size="16" fill="#171327">Every reliable digital product begins as an invisible mental model. Through</text>
+<text x="820" y="672.4" font-family="'Inter', sans-serif" font-weight="400" font-size="16" fill="#171327">disciplined architecture, clean engineering, and thoughtful design, AETHRA</text>
+<text x="820" y="697.68" font-family="'Inter', sans-serif" font-weight="400" font-size="16" fill="#171327">transforms complex business challenges into dependable software.</text>
+<text x="848" y="829.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7" letter-spacing="0.72px">01 // TECHNICAL METADATA &amp; LICENSING NOTE</text>
+<text x="848" y="861.48" font-family="'Inter', sans-serif" font-weight="400" font-size="14" fill="#171327">Space Grotesk, Inter, and IBM Plex Mono are open-source typefaces licensed</text>
+<text x="848" y="883.18" font-family="'Inter', sans-serif" font-weight="400" font-size="14" fill="#171327">under the SIL Open Font License 1.1 (OFL). They are verified for unrestricted</text>
+<text x="848" y="904.88" font-family="'Inter', sans-serif" font-weight="400" font-size="14" fill="#171327">commercial deployment across web, mobile apps, desktop software, and print</text>
+<text x="848" y="926.58" font-family="'Inter', sans-serif" font-weight="400" font-size="14" fill="#171327">with zero proprietary licensing fees.</text>
+</svg>

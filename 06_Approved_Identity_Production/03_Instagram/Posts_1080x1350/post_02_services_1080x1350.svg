@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1080" height="1350" fill="#FCFBFF"/>
+<polygon points="777.6,0 1080,0 1080,783.0" fill="#F2EDFF" fill-opacity="0.85"/>
+<polygon points="907.2,0 1080,0 1080,459.0" fill="#E6DCFF" fill-opacity="0.65"/>
+<rect x="48" y="48" width="984" height="1254" rx="16" fill="none" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="48" y1="132" x2="1032" y2="132" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="48" y1="1222" x2="1032" y2="1222" stroke="#E2D9FA" stroke-width="1.5"/>
+<g transform="translate(134.0,84.5) scale(0.1325)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+<rect x="760" y="72" width="240" height="36" rx="18" fill="#F2EDFF" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="88" y="384" width="444" height="244" rx="12" fill="#F2EDFF" stroke="#7446F5" stroke-width="1.5"/>
+<rect x="116" y="412" width="38" height="28" rx="6" fill="#5D2BE7"/>
+<rect x="548" y="384" width="444" height="244" rx="12" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="576" y="412" width="38" height="28" rx="6" fill="#F2EDFF"/>
+<rect x="88" y="648" width="444" height="244" rx="12" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="116" y="676" width="38" height="28" rx="6" fill="#F2EDFF"/>
+<rect x="548" y="648" width="444" height="244" rx="12" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="576" y="676" width="38" height="28" rx="6" fill="#F2EDFF"/>
+<rect x="88" y="912" width="444" height="244" rx="12" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="116" y="940" width="38" height="28" rx="6" fill="#F2EDFF"/>
+<rect x="548" y="912" width="444" height="244" rx="12" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="576" y="940" width="38" height="28" rx="6" fill="#F2EDFF"/>
+<g transform="translate(80,66) scale(0.05)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<text x="880" y="92.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7" letter-spacing="0.78px" text-anchor="middle">02  •  SERVICES</text>
+<text x="80" y="1263.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#171327" letter-spacing="1.68px">AETHRA</text>
+<text x="1000" y="1262.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#615B73" letter-spacing="0.78px" text-anchor="end">FROM THE UNSEEN TO THE EXTRAORDINARY</text>
+<text x="88" y="183.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#5D2BE7" letter-spacing="1.12px">CORE ENGINEERING CAPABILITIES</text>
+<text x="88" y="255.2" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="60" fill="#171327" letter-spacing="-1.5px">Built for how modern</text>
+<text x="88" y="320.0" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="60" fill="#171327" letter-spacing="-1.5px">businesses operate.</text>
+<text x="135" y="428.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#FFFFFF" text-anchor="middle">01</text>
+<text x="116" y="484.6" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="30" fill="#171327">Custom Software</text>
+<text x="116" y="529.17" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">Tailored business applications,</text>
+<text x="116" y="556.55" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">operational tools, and core logic.</text>
+<text x="595" y="428.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7" text-anchor="middle">02</text>
+<text x="576" y="484.6" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="30" fill="#171327">Web Applications</text>
+<text x="576" y="529.17" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">Responsive web platforms, portals,</text>
+<text x="576" y="556.55" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">and modern frontend architecture.</text>
+<text x="135" y="692.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7" text-anchor="middle">03</text>
+<text x="116" y="748.6" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="30" fill="#171327">Mobile Apps</text>
+<text x="116" y="793.17" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">iOS and Android applications built</text>
+<text x="116" y="820.55" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">for speed, clarity, and reliability.</text>
+<text x="595" y="692.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7" text-anchor="middle">04</text>
+<text x="576" y="748.6" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="30" fill="#171327">Backend Systems</text>
+<text x="576" y="793.17" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">Scalable server architecture, data</text>
+<text x="576" y="820.55" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">models, and cloud infrastructure.</text>
+<text x="135" y="956.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7" text-anchor="middle">05</text>
+<text x="116" y="1012.6" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="30" fill="#171327">APIs &amp; Contracts</text>
+<text x="116" y="1057.17" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">Clean REST and GraphQL services</text>
+<text x="116" y="1084.55" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">engineered for long-term stability.</text>
+<text x="595" y="956.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7" text-anchor="middle">06</text>
+<text x="576" y="1012.6" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="30" fill="#171327">Integrations</text>
+<text x="576" y="1057.17" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">Connecting databases, third-party</text>
+<text x="576" y="1084.55" font-family="'Inter', sans-serif" font-weight="400" font-size="18.5" fill="#615B73">services, and automated workflows.</text>
+</svg>

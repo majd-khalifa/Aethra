@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AETHRA — Editable Instagram Template Studio</title>
+<link rel="stylesheet" href="../../02_Design_System/design_tokens.css">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500&family=Space+Grotesk:wght@600&display=swap" rel="stylesheet">
+<style>
+  body {
+    margin: 0; padding: 48px; background: var(--aethra-surface-tint);
+    font-family: var(--aethra-font-body); color: var(--aethra-text-primary);
+    display: flex; flex-direction: column; align-items: center; gap: 24px;
+  }
+  .studio-bar {
+    max-width: 1080px; width: 100%; display: flex; justify-content: space-between; align-items: center;
+  }
+  .canvas-1080x1350 {
+    width: 1080px; height: 1350px; background: var(--aethra-surface-primary);
+    border: 1px solid var(--aethra-border-light); position: relative; overflow: hidden;
+    box-sizing: border-box; padding: 48px;
+  }
+  .frame {
+    width: 100%; height: 100%; border: 1.5px solid var(--aethra-border-light);
+    border-radius: 16px; display: flex; flex-direction: column; justify-content: space-between;
+    box-sizing: border-box;
+  }
+  .header, .footer {
+    height: 84px; padding: 0 32px; display: flex; align-items: center; justify-content: space-between;
+  }
+  .header { border-bottom: 1.5px solid var(--aethra-border-light); }
+  .footer { border-top: 1.5px solid var(--aethra-border-light); font-family: var(--aethra-font-mono); font-size: 13px; color: var(--aethra-text-muted); }
+  .body-area { padding: 64px 48px; flex: 1; }
+  .tag { font-family: var(--aethra-font-mono); font-size: 14px; font-weight: 600; color: var(--aethra-violet-deep); letter-spacing: 0.08em; text-transform: uppercase; }
+  h1 { font-family: var(--aethra-font-display); font-size: 64px; line-height: 1.08; letter-spacing: -0.025em; margin: 20px 0 28px; }
+  p { font-size: 24px; line-height: 1.48; color: var(--aethra-text-muted); max-width: 780px; }
+</style>
+</head>
+<body>
+  <div class="studio-bar">
+    <strong>AETHRA — Editable Instagram Post Studio (1080 × 1350 px)</strong>
+    <span>Click any text inside the canvas below to edit live in browser</span>
+  </div>
+  <div class="canvas-1080x1350">
+    <div class="frame">
+      <div class="header">
+        <svg width="220" height="50" viewBox="0 0 220 50">
+          <defs><linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient></defs>
+          <g transform="translate(0,0) scale(0.05)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+          <g transform="translate(56,18.5) scale(0.1325)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+        </svg>
+        <span class="tag" contenteditable="true">01 / EDITORIAL TEMPLATE</span>
+      </div>
+      <div class="body-area">
+        <div class="tag" contenteditable="true">[EDITABLE CATEGORY LABEL]</div>
+        <h1 contenteditable="true">From unseen logic<br>to reliable software.</h1>
+        <p contenteditable="true">Edit this copy directly to compose new AETHRA announcements, engineering notes, or service breakdowns while preserving exact brand tokens.</p>
+      </div>
+      <div class="footer">
+        <strong style="color:var(--aethra-text-primary);letter-spacing:0.1em;">AETHRA</strong>
+        <span contenteditable="true">FROM THE UNSEEN TO THE EXTRAORDINARY</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

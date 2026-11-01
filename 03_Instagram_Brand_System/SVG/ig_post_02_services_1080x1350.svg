@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style></defs>
+<rect x="0" y="0" width="1080" height="1350" fill="#0D1017"/>
+<rect x="48" y="48" width="984" height="1254" fill="none" stroke="#232A3B" stroke-width="1.5"/>
+<line x1="48" y1="124" x2="1032" y2="124" stroke="#232A3B" stroke-width="1.5"/>
+<line x1="48" y1="1226" x2="1032" y2="1226" stroke="#232A3B" stroke-width="1.5"/>
+<g transform="translate(72,64) scale(0.36)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#1838E0"/></g>
+<g transform="translate(124,75) scale(0.22)"><path d="M 0,100 L 30,0 L 56,0 L 70.4,48 L 52.9,48 L 43,15 L 17.5,100 Z M 39.6,58 L 73.4,58 L 86,100 L 68.5,100 L 60.4,73 L 35.1,73 Z" fill="#F5F3EE"/><path d="M 104,0 L 170,0 L 170,15 L 120.5,15 L 120.5,42.5 L 161,42.5 L 161,57.5 L 120.5,57.5 L 120.5,85 L 170,85 L 170,100 L 104,100 Z" fill="#F5F3EE"/><path d="M 186,0 L 260,0 L 260,15 L 231.25,15 L 231.25,100 L 214.75,100 L 214.75,15 L 186,15 Z" fill="#F5F3EE"/><path d="M 276,0 L 292.5,0 L 292.5,42.5 L 335.5,42.5 L 335.5,0 L 352,0 L 352,100 L 335.5,100 L 335.5,57.5 L 292.5,57.5 L 292.5,100 L 276,100 Z" fill="#F5F3EE"/><path d="M 372,0 L 420,0 C 438,0 448,11 448,29 C 448,44 439,54.5 425,57.2 L 450,100 L 431.5,100 L 408.5,58 L 388.5,58 L 388.5,100 L 372,100 Z M 388.5,15 L 418,15 C 427,15 431.5,20 431.5,29 C 431.5,38 427,43 418,43 L 388.5,43 Z" fill="#F5F3EE" fill-rule="evenodd"/><path d="M 466,100 L 496,0 L 522,0 L 536.4,48 L 518.9,48 L 509,15 L 483.5,100 Z M 505.6,58 L 539.4,58 L 552,100 L 534.5,100 L 526.4,73 L 501.1,73 Z" fill="#F5F3EE"/></g>
+<rect x="992" y="79" width="12" height="12" fill="#E84A27"/>
+<rect x="84" y="166" width="12" height="12" fill="#1838E0"/>
+<line x1="48" y1="412" x2="1032" y2="412" stroke="#232A3B" stroke-width="1.5"/>
+<line x1="540" y1="412" x2="540" y2="1226" stroke="#232A3B" stroke-width="1.5"/>
+<line x1="48" y1="683" x2="1032" y2="683" stroke="#232A3B" stroke-width="1.5"/>
+<line x1="48" y1="954" x2="1032" y2="954" stroke="#232A3B" stroke-width="1.5"/>
+<rect x="49" y="413" width="490" height="269" fill="#161B26"/>
+<rect x="484" y="444" width="24" height="6" fill="#E84A27"/>
+<rect x="976" y="444" width="24" height="6" fill="#1838E0"/>
+<rect x="484" y="715" width="24" height="6" fill="#1838E0"/>
+<rect x="976" y="715" width="24" height="6" fill="#1838E0"/>
+<rect x="484" y="986" width="24" height="6" fill="#1838E0"/>
+<rect x="976" y="986" width="24" height="6" fill="#1838E0"/>
+<text x="974" y="89.3" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="15" fill="#F5F3EE" fill-opacity="0.85" letter-spacing="1.2px" text-anchor="end">02  //  CAPABILITIES</text>
+<text x="76" y="1266.3" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="15" fill="#F5F3EE" letter-spacing="1.5px">AETHRA.DEV</text>
+<text x="1004" y="1265.48" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="14" fill="#F5F3EE" fill-opacity="0.75" letter-spacing="0.84px" text-anchor="end">FROM THE UNSEEN TO THE EXTRAORDINARY</text>
+<text x="110" y="175.3" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="15" fill="#1838E0" letter-spacing="1.2px">FULL-STACK ENGINEERING DISCIPLINES</text>
+<text x="84" y="246.64" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="52" fill="#F5F3EE" letter-spacing="-1.3px">Engineered across</text>
+<text x="84" y="302.8" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="52" fill="#F5F3EE" letter-spacing="-1.3px">the entire stack.</text>
+<text x="576" y="223.58" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.75">We do not deliver disconnected</text>
+<text x="576" y="252.08" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.75">templates. We architect, build, and</text>
+<text x="576" y="280.58" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.75">integrate complete technical</text>
+<text x="576" y="309.08" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.75">ecosystems tailored to your logic.</text>
+<text x="84" y="453.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#E84A27" letter-spacing="1.12px">01 // CORE LOGIC</text>
+<text x="84" y="513.88" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#F5F3EE" letter-spacing="-0.68px">Custom Software</text>
+<text x="84" y="565.58" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">Bespoke business software, domain engines,</text>
+<text x="84" y="593.7" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">and internal operational platforms.</text>
+<text x="576" y="453.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#1838E0" letter-spacing="1.12px">02 // PLATFORMS</text>
+<text x="576" y="513.88" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#F5F3EE" letter-spacing="-0.68px">Web Applications</text>
+<text x="576" y="565.58" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">High-performance SaaS products, client</text>
+<text x="576" y="593.7" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">portals, and responsive web architecture.</text>
+<text x="84" y="724.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#1838E0" letter-spacing="1.12px">03 // CLIENT INTERFACES</text>
+<text x="84" y="784.88" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#F5F3EE" letter-spacing="-0.68px">Mobile Applications</text>
+<text x="84" y="836.58" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">Native and cross-platform iOS &amp; Android</text>
+<text x="84" y="864.7" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">applications with offline-first resilience.</text>
+<text x="576" y="724.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#1838E0" letter-spacing="1.12px">04 // INFRASTRUCTURE</text>
+<text x="576" y="784.88" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#F5F3EE" letter-spacing="-0.68px">Backend &amp; APIs</text>
+<text x="576" y="836.58" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">REST &amp; GraphQL API gateways, microservices,</text>
+<text x="576" y="864.7" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">and high-concurrency server architecture.</text>
+<text x="84" y="995.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#1838E0" letter-spacing="1.12px">05 // DATA LAYER</text>
+<text x="84" y="1055.88" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#F5F3EE" letter-spacing="-0.68px">Database Systems</text>
+<text x="84" y="1107.58" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">Relational schema design, distributed data</text>
+<text x="84" y="1135.7" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">pipelines, and zero-downtime migrations.</text>
+<text x="576" y="995.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#1838E0" letter-spacing="1.12px">06 // ORCHESTRATION</text>
+<text x="576" y="1055.88" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#F5F3EE" letter-spacing="-0.68px">Systems &amp; Automation</text>
+<text x="576" y="1107.58" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">ERP/CRM integrations, webhook orchestration,</text>
+<text x="576" y="1135.7" font-family="'Inter', sans-serif" font-weight="400" font-size="19" fill="#F5F3EE" fill-opacity="0.72">and automated operational workflows.</text>
+</svg>

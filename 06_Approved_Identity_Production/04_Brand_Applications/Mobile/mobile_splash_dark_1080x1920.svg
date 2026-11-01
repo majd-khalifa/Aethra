@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1080" height="1920" fill="#171327"/>
+<polygon points="734.4,1920 1036.8,0 1080,0 1080,1920" fill="#241C3D" fill-opacity="0.65"/>
+<polygon points="680.4,1920 1080,691.2 1080,1920" fill="#2E2352" fill-opacity="0.55"/>
+<g transform="translate(280.8,985.6) scale(0.5184)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/></g>
+<g transform="translate(360.0,640) scale(0.36)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<text x="540" y="1692.3" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="15" fill="#A39BB8" letter-spacing="1.8px" text-anchor="middle">FROM THE UNSEEN TO THE EXTRAORDINARY</text>
+</svg>

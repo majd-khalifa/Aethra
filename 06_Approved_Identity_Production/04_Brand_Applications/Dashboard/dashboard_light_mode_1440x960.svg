@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 960" width="1440" height="960">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1440" height="960" fill="#FCFBFF"/>
+<rect x="0" y="0" width="260" height="960" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<g transform="translate(69.36,39.54) scale(0.1113)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+<line x1="0" y1="88" x2="260" y2="88" stroke="#E2D9FA" stroke-width="1.2"/>
+<rect x="16" y="142" width="228" height="40" rx="8" fill="#F2EDFF" stroke="#7446F5" stroke-width="1.2"/>
+<rect x="16" y="150" width="4" height="24" rx="2" fill="#7446F5"/>
+<rect x="20" y="864" width="220" height="72" rx="10" fill="#F2EDFF" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="260" y="0" width="1180" height="88" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.2"/>
+<rect x="1010" y="24" width="180" height="40" rx="20" fill="#F2EDFF" stroke="#E2D9FA" stroke-width="1"/>
+<circle cx="1034" cy="44" r="5" fill="#149E63"/>
+<rect x="1210" y="24" width="190" height="40" rx="8" fill="#7446F5"/>
+<rect x="300" y="120" width="260" height="152" rx="12" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="322" y="234" width="136" height="22" rx="4" fill="#F2EDFF"/>
+<rect x="580" y="120" width="260" height="152" rx="12" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="602" y="234" width="136" height="22" rx="4" fill="#F2EDFF"/>
+<rect x="860" y="120" width="260" height="152" rx="12" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="882" y="234" width="136" height="22" rx="4" fill="#F2EDFF"/>
+<rect x="1140" y="120" width="260" height="152" rx="12" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="1162" y="234" width="136" height="22" rx="4" fill="#F2EDFF"/>
+<rect x="300" y="296" width="740" height="400" rx="14" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="300" y1="352" x2="1040" y2="352" stroke="#E2D9FA" stroke-width="1.2"/>
+<rect x="546" y="444" width="248" height="136" rx="12" fill="#F2EDFF" stroke="#7446F5" stroke-width="2"/>
+<line x1="484" y1="418" x2="546" y2="512" stroke="#7446F5" stroke-width="1.5"/>
+<rect x="336" y="392" width="148" height="52" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="484" y1="514" x2="546" y2="512" stroke="#7446F5" stroke-width="1.5"/>
+<rect x="336" y="488" width="148" height="52" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="484" y1="610" x2="546" y2="512" stroke="#7446F5" stroke-width="1.5"/>
+<rect x="336" y="584" width="148" height="52" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="794" y1="512" x2="848" y2="418" stroke="#7446F5" stroke-width="1.5"/>
+<rect x="848" y="392" width="156" height="52" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="794" y1="512" x2="848" y2="514" stroke="#7446F5" stroke-width="1.5"/>
+<rect x="848" y="488" width="156" height="52" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="794" y1="512" x2="848" y2="610" stroke="#7446F5" stroke-width="1.5"/>
+<rect x="848" y="584" width="156" height="52" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="1064" y="296" width="336" height="400" rx="14" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="1064" y1="352" x2="1400" y2="352" stroke="#E2D9FA" stroke-width="1.2"/>
+<rect x="1088" y="376" width="288" height="292" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="300" y="720" width="1100" height="204" rx="14" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="300" y1="772" x2="1400" y2="772" stroke="#E2D9FA" stroke-width="1.2"/>
+<rect x="1280" y="786" width="88" height="24" rx="4" fill="#F2EDFF"/>
+<rect x="1280" y="828" width="88" height="24" rx="4" fill="#F2EDFF"/>
+<rect x="1280" y="870" width="88" height="24" rx="4" fill="#F2EDFF"/>
+<g transform="translate(24,24) scale(0.042)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(566,464) scale(0.044)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<text x="28" y="121.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#615B73" letter-spacing="0.88px">CONTROL PLANE</text>
+<text x="36" y="163.48" font-family="'Inter', sans-serif" font-weight="600" font-size="14" fill="#171327">System Topology</text>
+<text x="36" y="211.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#615B73">Service Modules</text>
+<text x="36" y="259.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#615B73">API Contracts</text>
+<text x="36" y="307.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#615B73">Data Pipelines</text>
+<text x="36" y="355.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#615B73">Release Environment</text>
+<text x="36" y="403.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#615B73">Audit &amp; Logs</text>
+<text x="36" y="888.2" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="10" fill="#5D2BE7">WORKSPACE ENVIRONMENT</text>
+<text x="36" y="912.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#171327">AETHRA Core Architecture</text>
+<text x="300" y="31.43" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11.5" fill="#5D2BE7">ARCHITECTURE WORKSPACE // SYSTEM TOPOLOGY</text>
+<text x="300" y="63.68" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="24" fill="#171327">Unified Platform &amp; API Gateway</text>
+<text x="1050" y="44.43" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11.5" fill="#171327">SCHEMA VERIFIED</text>
+<text x="1305" y="45.48" font-family="'Inter', sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" text-anchor="middle">Deploy Release</text>
+<text x="322" y="149.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">INTERFACE CLIENTS</text>
+<text x="322" y="184.4" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="20" fill="#171327">Web &amp; Mobile Apps</text>
+<text x="322" y="211.07" font-family="'Inter', sans-serif" font-weight="400" font-size="13.5" fill="#615B73">Type-safe SDKs &amp; SSR portals</text>
+<text x="390" y="246.2" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="10" fill="#5D2BE7" text-anchor="middle">ACTIVE MODULE</text>
+<text x="602" y="149.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">API GATEWAY</text>
+<text x="602" y="184.4" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="20" fill="#171327">REST &amp; GraphQL Core</text>
+<text x="602" y="211.07" font-family="'Inter', sans-serif" font-weight="400" font-size="13.5" fill="#615B73">Versioned contracts &amp; auth</text>
+<text x="670" y="246.2" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="10" fill="#5D2BE7" text-anchor="middle">SYNCHRONIZED</text>
+<text x="882" y="149.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">DOMAIN SERVICES</text>
+<text x="882" y="184.4" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="20" fill="#171327">Business Logic Layer</text>
+<text x="882" y="211.07" font-family="'Inter', sans-serif" font-weight="400" font-size="13.5" fill="#615B73">Event workflows &amp; validation</text>
+<text x="950" y="246.2" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="10" fill="#5D2BE7" text-anchor="middle">ISOLATED CORE</text>
+<text x="1162" y="149.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">DATA PERSISTENCE</text>
+<text x="1162" y="184.4" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="20" fill="#171327">Relational &amp; Cache</text>
+<text x="1162" y="211.07" font-family="'Inter', sans-serif" font-weight="400" font-size="13.5" fill="#615B73">Automated migrations &amp; backups</text>
+<text x="1230" y="246.2" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="10" fill="#5D2BE7" text-anchor="middle">CONSISTENT</text>
+<text x="328" y="325.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#171327">SYSTEM ARCHITECTURE GRAPH // DECOUPLED MODULES</text>
+<text x="1012" y="325.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5D2BE7" text-anchor="end">LIVE BLUEPRINT</text>
+<text x="622" y="483.94" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="17" fill="#171327">AETHRA Core API</text>
+<text x="566" y="533.43" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11.5" fill="#615B73">Contract Router &amp; Auth</text>
+<text x="566" y="550.1" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11.5" fill="#615B73">Domain State Engine</text>
+<text x="410" y="419.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#171327" text-anchor="middle">Web Portal</text>
+<text x="410" y="515.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#171327" text-anchor="middle">Mobile Client</text>
+<text x="410" y="611.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#171327" text-anchor="middle">Webhook Ingest</text>
+<text x="926" y="419.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#171327" text-anchor="middle">Primary DB</text>
+<text x="926" y="515.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#171327" text-anchor="middle">Worker Queue</text>
+<text x="926" y="611.66" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#171327" text-anchor="middle">External ERP</text>
+<text x="1090" y="325.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#171327">API CONTRACT SPECIFICATION</text>
+<text x="1106" y="406.25" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12.5" fill="#171327">service AethraOrderEngine {</text>
+<text x="1106" y="431.25" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12.5" fill="#171327">  version: &quot;v2.4-stable&quot;</text>
+<text x="1106" y="456.25" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12.5" fill="#171327">  auth:    &quot;oauth2_jwt&quot;</text>
+<text x="1106" y="481.25" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12.5" fill="#171327">  schema:  &quot;strict_typed&quot;</text>
+<text x="1106" y="506.25" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12.5" fill="#171327">  routes: [</text>
+<text x="1106" y="531.25" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12.5" fill="#5D2BE7">    POST &quot;/v2/workflows/init&quot;</text>
+<text x="1106" y="556.25" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12.5" fill="#5D2BE7">    GET  &quot;/v2/systems/state&quot;</text>
+<text x="1106" y="581.25" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12.5" fill="#5D2BE7">    PUT  &quot;/v2/contracts/sync&quot;</text>
+<text x="1106" y="606.25" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12.5" fill="#171327">  ]</text>
+<text x="1106" y="631.25" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12.5" fill="#171327">}</text>
+<text x="328" y="747.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#171327">ENGINEERING DELIVERY STAGES // MODULE VERIFICATION</text>
+<text x="328" y="799.48" font-family="'Inter', sans-serif" font-weight="600" font-size="14" fill="#171327">MOD-01 // Identity &amp; Access Control</text>
+<text x="720" y="798.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#615B73">TypeScript / OAuth2</text>
+<text x="1020" y="799.07" font-family="'Inter', sans-serif" font-weight="500" font-size="13.5" fill="#615B73">Contract Verified</text>
+<text x="1324" y="799.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7" text-anchor="middle">READY</text>
+<text x="328" y="841.48" font-family="'Inter', sans-serif" font-weight="600" font-size="14" fill="#171327">MOD-02 // Core Domain State Machine</text>
+<text x="720" y="840.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#615B73">PostgreSQL / Go</text>
+<text x="1020" y="841.07" font-family="'Inter', sans-serif" font-weight="500" font-size="13.5" fill="#615B73">Schema Migrated</text>
+<text x="1324" y="841.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7" text-anchor="middle">READY</text>
+<text x="328" y="883.48" font-family="'Inter', sans-serif" font-weight="600" font-size="14" fill="#171327">MOD-03 // Client Portal &amp; Design System</text>
+<text x="720" y="882.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#615B73">React / Design Tokens</text>
+<text x="1020" y="883.07" font-family="'Inter', sans-serif" font-weight="500" font-size="13.5" fill="#615B73">WCAG AA Checked</text>
+<text x="1324" y="883.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7" text-anchor="middle">READY</text>
+</svg>

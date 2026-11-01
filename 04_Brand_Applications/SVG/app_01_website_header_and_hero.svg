@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1150" width="1600" height="1150">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style></defs>
+<rect x="0" y="0" width="1600" height="1150" fill="#F5F3EE"/>
+<rect x="40" y="40" width="1520" height="1070" fill="none" stroke="#E4E1D8" stroke-width="1.5"/>
+<line x1="40" y1="100" x2="1560" y2="100" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="64" y="62" width="12" height="12" fill="#1838E0"/>
+<rect x="80" y="144" width="1440" height="68" rx="6" fill="#0D1017" stroke="#232A3B" stroke-width="1.5"/>
+<g transform="translate(108,156) scale(0.34)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#1838E0"/></g>
+<g transform="translate(160,167) scale(0.22)"><path d="M 0,100 L 30,0 L 56,0 L 70.4,48 L 52.9,48 L 43,15 L 17.5,100 Z M 39.6,58 L 73.4,58 L 86,100 L 68.5,100 L 60.4,73 L 35.1,73 Z" fill="#F5F3EE"/><path d="M 104,0 L 170,0 L 170,15 L 120.5,15 L 120.5,42.5 L 161,42.5 L 161,57.5 L 120.5,57.5 L 120.5,85 L 170,85 L 170,100 L 104,100 Z" fill="#F5F3EE"/><path d="M 186,0 L 260,0 L 260,15 L 231.25,15 L 231.25,100 L 214.75,100 L 214.75,15 L 186,15 Z" fill="#F5F3EE"/><path d="M 276,0 L 292.5,0 L 292.5,42.5 L 335.5,42.5 L 335.5,0 L 352,0 L 352,100 L 335.5,100 L 335.5,57.5 L 292.5,57.5 L 292.5,100 L 276,100 Z" fill="#F5F3EE"/><path d="M 372,0 L 420,0 C 438,0 448,11 448,29 C 448,44 439,54.5 425,57.2 L 450,100 L 431.5,100 L 408.5,58 L 388.5,58 L 388.5,100 L 372,100 Z M 388.5,15 L 418,15 C 427,15 431.5,20 431.5,29 C 431.5,38 427,43 418,43 L 388.5,43 Z" fill="#F5F3EE" fill-rule="evenodd"/><path d="M 466,100 L 496,0 L 522,0 L 536.4,48 L 518.9,48 L 509,15 L 483.5,100 Z M 505.6,58 L 539.4,58 L 552,100 L 534.5,100 L 526.4,73 L 501.1,73 Z" fill="#F5F3EE"/></g>
+<rect x="1330" y="158" width="166" height="40" rx="4" fill="#1838E0"/>
+<rect x="80" y="258" width="1440" height="816" rx="10" fill="#F5F3EE" stroke="#0D1017" stroke-width="2"/>
+<rect x="80" y="258" width="1440" height="42" rx="10" fill="#0D1017"/>
+<rect x="80" y="286" width="1440" height="14" fill="#0D1017"/>
+<circle cx="108" cy="279" r="6" fill="#E84A27"/>
+<circle cx="128" cy="279" r="6" fill="#E4E1D8" fill-opacity="0.35"/>
+<circle cx="148" cy="279" r="6" fill="#E4E1D8" fill-opacity="0.35"/>
+<rect x="580" y="267" width="440" height="24" rx="4" fill="#161B26"/>
+<rect x="82" y="300" width="1436" height="76" fill="#FFFFFF"/>
+<line x1="82" y1="376" x2="1518" y2="376" stroke="#E4E1D8" stroke-width="1.5"/>
+<g transform="translate(124,314) scale(0.38)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#1838E0"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#1838E0"/></g>
+<g transform="translate(180,326) scale(0.25)"><path d="M 0,100 L 30,0 L 56,0 L 70.4,48 L 52.9,48 L 43,15 L 17.5,100 Z M 39.6,58 L 73.4,58 L 86,100 L 68.5,100 L 60.4,73 L 35.1,73 Z" fill="#0D1017"/><path d="M 104,0 L 170,0 L 170,15 L 120.5,15 L 120.5,42.5 L 161,42.5 L 161,57.5 L 120.5,57.5 L 120.5,85 L 170,85 L 170,100 L 104,100 Z" fill="#0D1017"/><path d="M 186,0 L 260,0 L 260,15 L 231.25,15 L 231.25,100 L 214.75,100 L 214.75,15 L 186,15 Z" fill="#0D1017"/><path d="M 276,0 L 292.5,0 L 292.5,42.5 L 335.5,42.5 L 335.5,0 L 352,0 L 352,100 L 335.5,100 L 335.5,57.5 L 292.5,57.5 L 292.5,100 L 276,100 Z" fill="#0D1017"/><path d="M 372,0 L 420,0 C 438,0 448,11 448,29 C 448,44 439,54.5 425,57.2 L 450,100 L 431.5,100 L 408.5,58 L 388.5,58 L 388.5,100 L 372,100 Z M 388.5,15 L 418,15 C 427,15 431.5,20 431.5,29 C 431.5,38 427,43 418,43 L 388.5,43 Z" fill="#0D1017" fill-rule="evenodd"/><path d="M 466,100 L 496,0 L 522,0 L 536.4,48 L 518.9,48 L 509,15 L 483.5,100 Z M 505.6,58 L 539.4,58 L 552,100 L 534.5,100 L 526.4,73 L 501.1,73 Z" fill="#0D1017"/></g>
+<rect x="1312" y="316" width="174" height="44" rx="4" fill="#0D1017"/>
+<rect x="1312" y="316" width="6" height="44" fill="#E84A27"/>
+<line x1="910" y1="376" x2="910" y2="988" stroke="#E4E1D8" stroke-width="1.5"/>
+<line x1="82" y1="988" x2="1518" y2="988" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="124" y="424" width="10" height="10" fill="#E84A27"/>
+<rect x="124" y="792" width="256" height="58" rx="4" fill="#1838E0"/>
+<rect x="398" y="792" width="236" height="58" rx="4" fill="#FFFFFF" stroke="#0D1017" stroke-width="1.5"/>
+<line x1="124" y1="892" x2="860" y2="892" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="911" y="377" width="606" height="610" fill="#0D1017"/>
+<line x1="960" y1="377" x2="960" y2="987" stroke="#232A3B" stroke-width="1"/>
+<line x1="1020" y1="377" x2="1020" y2="987" stroke="#232A3B" stroke-width="1"/>
+<line x1="1080" y1="377" x2="1080" y2="987" stroke="#232A3B" stroke-width="1"/>
+<line x1="1140" y1="377" x2="1140" y2="987" stroke="#232A3B" stroke-width="1"/>
+<line x1="1200" y1="377" x2="1200" y2="987" stroke="#232A3B" stroke-width="1"/>
+<line x1="1260" y1="377" x2="1260" y2="987" stroke="#232A3B" stroke-width="1"/>
+<line x1="1320" y1="377" x2="1320" y2="987" stroke="#232A3B" stroke-width="1"/>
+<line x1="1380" y1="377" x2="1380" y2="987" stroke="#232A3B" stroke-width="1"/>
+<line x1="1440" y1="377" x2="1440" y2="987" stroke="#232A3B" stroke-width="1"/>
+<line x1="911" y1="420" x2="1517" y2="420" stroke="#232A3B" stroke-width="1"/>
+<line x1="911" y1="480" x2="1517" y2="480" stroke="#232A3B" stroke-width="1"/>
+<line x1="911" y1="540" x2="1517" y2="540" stroke="#232A3B" stroke-width="1"/>
+<line x1="911" y1="600" x2="1517" y2="600" stroke="#232A3B" stroke-width="1"/>
+<line x1="911" y1="660" x2="1517" y2="660" stroke="#232A3B" stroke-width="1"/>
+<line x1="911" y1="720" x2="1517" y2="720" stroke="#232A3B" stroke-width="1"/>
+<line x1="911" y1="780" x2="1517" y2="780" stroke="#232A3B" stroke-width="1"/>
+<line x1="911" y1="840" x2="1517" y2="840" stroke="#232A3B" stroke-width="1"/>
+<line x1="911" y1="900" x2="1517" y2="900" stroke="#232A3B" stroke-width="1"/>
+<rect x="1468" y="408" width="14" height="14" fill="#E84A27"/>
+<g transform="translate(1058,462) scale(2.6)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#1838E0"/></g>
+<rect x="948" y="804" width="260" height="144" rx="4" fill="#161B26" stroke="#1838E0" stroke-width="1.5"/>
+<rect x="1224" y="804" width="260" height="144" rx="4" fill="#161B26" stroke="#232A3B" stroke-width="1.5"/>
+<rect x="82" y="989" width="1436" height="83" fill="#FFFFFF"/>
+<text x="88" y="71.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#0D1017" letter-spacing="1.12px">AETHRA BRAND APPLICATIONS  //  01 — WEBSITE HOMEPAGE HEADER &amp; HERO SECTION</text>
+<text x="1536" y="71.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#1838E0" letter-spacing="1.12px" text-anchor="end">AETHRA.DEV — DESKTOP VIEWPORT</text>
+<text x="80" y="129.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#5A6072" letter-spacing="0.72px">COMPONENT A // STANDALONE DARK-MODE NAVIGATION HEADER BAR</text>
+<text x="540" y="181.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#F5F3EE" fill-opacity="0.82">Capabilities</text>
+<text x="666" y="181.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#F5F3EE" fill-opacity="0.82">Architecture</text>
+<text x="792" y="181.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#F5F3EE" fill-opacity="0.82">Case Studies</text>
+<text x="918" y="181.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#F5F3EE" fill-opacity="0.82">Methodology</text>
+<text x="1044" y="181.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#F5F3EE" fill-opacity="0.82">About</text>
+<text x="1413" y="180.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#F5F3EE" text-anchor="middle">Start a Project -&gt;</text>
+<text x="80" y="241.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#5A6072" letter-spacing="0.72px">COMPONENT B // FULL WEBSITE HOMEPAGE HEADER &amp; ARCHITECTURAL HERO SECTION</text>
+<text x="800" y="282.84" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="12" fill="#F5F3EE" fill-opacity="0.75" text-anchor="middle">https://aethra.dev</text>
+<text x="540" y="342.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#0D1017">Capabilities</text>
+<text x="668" y="342.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#0D1017">Architecture</text>
+<text x="796" y="342.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#0D1017">Case Studies</text>
+<text x="924" y="342.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#0D1017">Methodology</text>
+<text x="1052" y="342.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#0D1017">About</text>
+<text x="1402" y="340.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#F5F3EE" letter-spacing="0.72px" text-anchor="middle">INITIATE PROJECT</text>
+<text x="144" y="431.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#1838E0" letter-spacing="1.04px">SOFTWARE ARCHITECTURE &amp; DIGITAL SYSTEMS STUDIO</text>
+<text x="124" y="522.68" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="74" fill="#0D1017" letter-spacing="-2.22px">From the unseen to</text>
+<text x="124" y="599.64" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="74" fill="#0D1017" letter-spacing="-2.22px">the extraordinary.</text>
+<text x="124" y="662.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#5A6072">Ideas begin invisibly in the mind. Through logic, systems architecture,</text>
+<text x="124" y="693.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#5A6072">and precision engineering, AETHRA transforms complex operational</text>
+<text x="124" y="724.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#5A6072">challenges into custom software, web applications, and APIs.</text>
+<text x="252" y="824.12" font-family="'Inter', sans-serif" font-weight="600" font-size="16" fill="#FFFFFF" text-anchor="middle">Discuss Your Architecture</text>
+<text x="516" y="824.12" font-family="'Inter', sans-serif" font-weight="600" font-size="16" fill="#0D1017" text-anchor="middle">Explore Capabilities -&gt;</text>
+<text x="124" y="921.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#1838E0" letter-spacing="0.72px">01 // CUSTOM SOFTWARE</text>
+<text x="124" y="948.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#0D1017">Domain-Driven Systems</text>
+<text x="380" y="921.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#1838E0" letter-spacing="0.72px">02 // WEB &amp; MOBILE</text>
+<text x="380" y="948.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#0D1017">Production Applications</text>
+<text x="636" y="921.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#1838E0" letter-spacing="0.72px">03 // APIS &amp; DATA</text>
+<text x="636" y="948.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#0D1017">Distributed Infrastructure</text>
+<text x="948" y="417.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#F5F3EE" fill-opacity="0.65" letter-spacing="0.96px">SYS.BLUEPRINT // ABSTRACTION -&gt; STRUCTURE</text>
+<text x="970" y="835.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#1838E0">LAYER 01 // CORE ENGINE</text>
+<text x="970" y="870.4" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="20" fill="#F5F3EE">API &amp; Domain Logic</text>
+<text x="970" y="898.66" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#F5F3EE" fill-opacity="0.72">Type-safe contracts, auth,</text>
+<text x="970" y="914.26" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#F5F3EE" fill-opacity="0.72">and distributed data sync.</text>
+<text x="1246" y="835.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#E84A27">LAYER 02 // INTERFACES</text>
+<text x="1246" y="870.4" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="20" fill="#F5F3EE">Web &amp; Mobile Apps</text>
+<text x="1246" y="898.66" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#F5F3EE" fill-opacity="0.72">Sub-second client rendering</text>
+<text x="1246" y="914.26" font-family="'Inter', sans-serif" font-weight="400" font-size="13" fill="#F5F3EE" fill-opacity="0.72">and automated workflows.</text>
+<text x="124" y="1032.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#5A6072" letter-spacing="1.04px">STACK &amp; CAPABILITIES:  CUSTOM SOFTWARE   •   WEB PLATFORMS   •   MOBILE APPS   •   BACKEND APIS   •   DATABASES   •   AUTOMATION</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style></defs>
+<rect x="0" y="0" width="1920" height="1080" fill="#0D1017"/>
+<rect x="1220" y="60" width="640" height="960" fill="#1838E0"/>
+<rect x="60" y="60" width="1800" height="960" fill="none" stroke="#232A3B" stroke-width="1.5"/>
+<line x1="60" y1="152" x2="1860" y2="152" stroke="#232A3B" stroke-width="1.5"/>
+<line x1="60" y1="928" x2="1860" y2="928" stroke="#232A3B" stroke-width="1.5"/>
+<line x1="1220" y1="60" x2="1220" y2="1020" stroke="#F5F3EE" stroke-width="1.5" stroke-opacity="0.25"/>
+<g transform="translate(96,79) scale(0.45)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#1838E0"/></g>
+<g transform="translate(164,92) scale(0.28)"><path d="M 0,100 L 30,0 L 56,0 L 70.4,48 L 52.9,48 L 43,15 L 17.5,100 Z M 39.6,58 L 73.4,58 L 86,100 L 68.5,100 L 60.4,73 L 35.1,73 Z" fill="#F5F3EE"/><path d="M 104,0 L 170,0 L 170,15 L 120.5,15 L 120.5,42.5 L 161,42.5 L 161,57.5 L 120.5,57.5 L 120.5,85 L 170,85 L 170,100 L 104,100 Z" fill="#F5F3EE"/><path d="M 186,0 L 260,0 L 260,15 L 231.25,15 L 231.25,100 L 214.75,100 L 214.75,15 L 186,15 Z" fill="#F5F3EE"/><path d="M 276,0 L 292.5,0 L 292.5,42.5 L 335.5,42.5 L 335.5,0 L 352,0 L 352,100 L 335.5,100 L 335.5,57.5 L 292.5,57.5 L 292.5,100 L 276,100 Z" fill="#F5F3EE"/><path d="M 372,0 L 420,0 C 438,0 448,11 448,29 C 448,44 439,54.5 425,57.2 L 450,100 L 431.5,100 L 408.5,58 L 388.5,58 L 388.5,100 L 372,100 Z M 388.5,15 L 418,15 C 427,15 431.5,20 431.5,29 C 431.5,38 427,43 418,43 L 388.5,43 Z" fill="#F5F3EE" fill-rule="evenodd"/><path d="M 466,100 L 496,0 L 522,0 L 536.4,48 L 518.9,48 L 509,15 L 483.5,100 Z M 505.6,58 L 539.4,58 L 552,100 L 534.5,100 L 526.4,73 L 501.1,73 Z" fill="#F5F3EE"/></g>
+<rect x="1256" y="98" width="14" height="14" fill="#E84A27"/>
+<rect x="108" y="232" width="64" height="6" fill="#E84A27"/>
+<line x1="108" y1="744" x2="1160" y2="744" stroke="#232A3B" stroke-width="1.5"/>
+<g transform="translate(1288,276) scale(4.2)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#F5F3EE"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#F5F3EE"/></g>
+<line x1="1220" y1="494" x2="1860" y2="494" stroke="#E84A27" stroke-width="2" stroke-dasharray="8,6"/>
+<line x1="1220" y1="545" x2="1860" y2="545" stroke="#E84A27" stroke-width="2" stroke-dasharray="8,6"/>
+<text x="1180" y="110.3" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="15" fill="#F5F3EE" fill-opacity="0.7" letter-spacing="1.2px" text-anchor="end">TECHNICAL ARCHITECTURE &amp; SYSTEMS PROPOSAL</text>
+<text x="1284" y="108.3" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="15" fill="#F5F3EE" letter-spacing="1.2px">DOC.REF // AETHRA-2026-SYS</text>
+<text x="108" y="275.12" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="16" fill="#1838E0" letter-spacing="1.6px">EXECUTIVE BRIEFING &amp; SYSTEM ARCHITECTURE</text>
+<text x="108" y="394.72" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="96" fill="#F5F3EE" letter-spacing="-2.88px">From the unseen to</text>
+<text x="108" y="494.56" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="96" fill="#F5F3EE" letter-spacing="-2.88px">the extraordinary.</text>
+<text x="108" y="586.96" font-family="'Inter', sans-serif" font-weight="500" font-size="28" fill="#F5F3EE" fill-opacity="0.85">Custom Software Engineering, Scalable Web Applications,</text>
+<text x="108" y="626.72" font-family="'Inter', sans-serif" font-weight="500" font-size="28" fill="#F5F3EE" fill-opacity="0.85">and Resilient Backend Infrastructure.</text>
+<text x="108" y="784.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#1838E0" letter-spacing="1.04px">PREPARED BY</text>
+<text x="108" y="818.76" font-family="'Inter', sans-serif" font-weight="500" font-size="18" fill="#F5F3EE">AETHRA Systems Architecture</text>
+<text x="464" y="784.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#1838E0" letter-spacing="1.04px">CORE PRACTICE</text>
+<text x="464" y="818.76" font-family="'Inter', sans-serif" font-weight="500" font-size="18" fill="#F5F3EE">Software • Systems • Apps</text>
+<text x="820" y="784.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#1838E0" letter-spacing="1.04px">CLASSIFICATION</text>
+<text x="820" y="818.76" font-family="'Inter', sans-serif" font-weight="500" font-size="18" fill="#F5F3EE">Confidential Client Proposal</text>
+<text x="108" y="977.12" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="16" fill="#F5F3EE" letter-spacing="1.6px">AETHRA.DEV</text>
+<text x="1820" y="977.12" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="16" fill="#F5F3EE" letter-spacing="1.6px" text-anchor="end">SLIDE 01 // 01</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1920" height="1080" fill="#FCFBFF"/>
+<polygon points="1382.4,0 1920,0 1920,626.4" fill="#F2EDFF" fill-opacity="0.85"/>
+<polygon points="1612.8,0 1920,0 1920,367.2" fill="#E6DCFF" fill-opacity="0.65"/>
+<rect x="56" y="56" width="1808" height="968" rx="20" fill="none" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="56" y1="148" x2="1864" y2="148" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="56" y1="940" x2="1864" y2="940" stroke="#E2D9FA" stroke-width="1.5"/>
+<g transform="translate(160.16,95.24) scale(0.1378)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+<rect x="104" y="356" width="404" height="516" rx="18" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="140" y="768" width="332" height="60" rx="10" fill="#F2EDFF"/>
+<rect x="540" y="356" width="404" height="516" rx="18" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="576" y="768" width="332" height="60" rx="10" fill="#F2EDFF"/>
+<rect x="976" y="356" width="404" height="516" rx="18" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="1012" y="768" width="332" height="60" rx="10" fill="#F2EDFF"/>
+<rect x="1412" y="356" width="404" height="516" rx="18" fill="#171327" stroke="#7446F5" stroke-width="2"/>
+<rect x="1448" y="768" width="332" height="60" rx="10" fill="#211B36"/>
+<g transform="translate(104,76) scale(0.052)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<text x="1816" y="105.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#5D2BE7" text-anchor="end">02 // DELIVERY METHODOLOGY</text>
+<text x="104" y="207.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#5D2BE7" letter-spacing="1.12px">STRUCTURED EXECUTION</text>
+<text x="104" y="275.92" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="56" fill="#171327" letter-spacing="-1.4px">How unseen ideas become dependable systems.</text>
+<text x="140" y="411.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#5D2BE7">PHASE 01</text>
+<text x="140" y="466.24" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="32" fill="#171327">Discover &amp; Scope</text>
+<text x="140" y="528.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">Align on business logic,</text>
+<text x="140" y="559.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">user workflows, and</text>
+<text x="140" y="590.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">system constraints.</text>
+<text x="160" y="798.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7">OUTPUT: SCOPE &amp; SPECIFICATION</text>
+<text x="576" y="411.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#5D2BE7">PHASE 02</text>
+<text x="576" y="466.24" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="32" fill="#171327">System Architecture</text>
+<text x="576" y="528.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">Design relational schemas,</text>
+<text x="576" y="559.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">API contracts, and</text>
+<text x="576" y="590.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">interface foundations.</text>
+<text x="596" y="798.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7">OUTPUT: ARCHITECTURE BLUEPRINT</text>
+<text x="1012" y="411.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#5D2BE7">PHASE 03</text>
+<text x="1012" y="466.24" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="32" fill="#171327">Iterative Engineering</text>
+<text x="1012" y="528.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">Build frontend, backend,</text>
+<text x="1012" y="559.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">and integrations in</text>
+<text x="1012" y="590.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">tested increments.</text>
+<text x="1032" y="798.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7">OUTPUT: WORKING INCREMENTS</text>
+<text x="1448" y="411.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#B18CFE">PHASE 04</text>
+<text x="1448" y="466.24" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="32" fill="#FFFFFF">Launch &amp; Evolution</text>
+<text x="1448" y="528.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#A39BB8">Production deployment,</text>
+<text x="1448" y="559.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#A39BB8">documentation, monitoring,</text>
+<text x="1448" y="590.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#A39BB8">and ongoing care.</text>
+<text x="1468" y="798.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#B18CFE">OUTPUT: PRODUCTION RELEASE</text>
+<text x="104" y="985.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#171327">AETHRA BRAND PRESENTATION SYSTEM</text>
+<text x="1816" y="985.48" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="14" fill="#615B73" text-anchor="end">SLIDE 03 // DELIVERY ROADMAP</text>
+</svg>

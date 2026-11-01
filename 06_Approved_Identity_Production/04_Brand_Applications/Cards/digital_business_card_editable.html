@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>AETHRA — Editable Business Card Template</title>
+<link rel="stylesheet" href="../../02_Design_System/design_tokens.css">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500;600&family=Space+Grotesk:wght@600&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; padding: 48px; background: var(--aethra-surface-lavender); font-family: var(--aethra-font-body); display: flex; gap: 40px; flex-wrap: wrap; justify-content: center; }
+  .card { width: 660px; height: 380px; background: #FFFFFF; border: 2px solid var(--aethra-border-light); border-radius: 16px; padding: 36px 44px; box-sizing: border-box; position: relative; overflow: hidden; }
+  .card-front { display: flex; flex-direction: column; align-items: center; justify-content: center; }
+  .card-back { border-left: 10px solid var(--aethra-violet-deep); }
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-top: 24px; padding-top: 20px; border-top: 1px solid var(--aethra-border-light); }
+  .lbl { font-family: var(--aethra-font-mono); font-size: 11px; color: var(--aethra-text-muted); font-weight: 600; }
+  .val { font-size: 14px; color: var(--aethra-text-primary); font-weight: 500; margin-top: 4px; }
+</style>
+</head>
+<body>
+  <div class="card card-front">
+    <svg width="220" height="240" viewBox="0 0 220 240">
+      <defs><linearGradient id="aethra-card-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient></defs>
+      <g transform="translate(20,0) scale(0.18)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-card-grad)" fill-rule="evenodd"/></g>
+      <g transform="translate(10,188) scale(0.2)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+    </svg>
+  </div>
+  <div class="card card-back">
+    <div style="display:flex;justify-content:space-between;align-items:center;">
+      <svg width="180" height="44" viewBox="0 0 180 44">
+        <defs><linearGradient id="aethra-card-grad-2" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient></defs>
+        <g transform="translate(0,0) scale(0.044)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-card-grad-2)" fill-rule="evenodd"/></g>
+        <g transform="translate(50,16) scale(0.116)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+      </svg>
+      <span class="lbl" style="color:var(--aethra-violet-deep);">SOFTWARE &amp; DIGITAL SYSTEMS</span>
+    </div>
+    <h2 contenteditable="true" style="font-family:var(--aethra-font-display);font-size:26px;margin:28px 0 4px;">[Full Name Placeholder]</h2>
+    <div contenteditable="true" style="color:var(--aethra-violet-deep);font-weight:500;font-size:15px;">[Role / Engineering Title Placeholder]</div>
+    <div class="grid-2">
+      <div><div class="lbl">EMAIL</div><div class="val" contenteditable="true">[email@domain-placeholder]</div></div>
+      <div><div class="lbl">WEBSITE</div><div class="val" contenteditable="true">[website-url-placeholder]</div></div>
+      <div><div class="lbl">LOCATION</div><div class="val" contenteditable="true">[City / Country Placeholder]</div></div>
+      <div><div class="lbl">INQUIRIES</div><div class="val" contenteditable="true">[project-inquiry-channel]</div></div>
+    </div>
+  </div>
+</body>
+</html>

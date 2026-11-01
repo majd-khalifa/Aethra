@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" width="1440" height="900">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1440" height="900" fill="#FCFBFF"/>
+<polygon points="979.2,900 1382.4,0 1440,0 1440,900" fill="#F2EAFF" fill-opacity="0.75"/>
+<polygon points="907.2,900 1440,324.0 1440,900" fill="#E8DCFF" fill-opacity="0.65"/>
+<polygon points="0,495.0 691.2,900 0,900" fill="#F3ECFF" fill-opacity="0.7"/>
+<polygon points="0,684.0 345.6,900 0,900" fill="#E6D8FF" fill-opacity="0.65"/>
+<rect x="0" y="0" width="1440" height="84" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1"/>
+<g transform="translate(136.16,35.24) scale(0.1378)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+<rect x="1164" y="21" width="196" height="42" rx="8" fill="#5D2BE7"/>
+<rect x="80" y="168" width="320" height="32" rx="16" fill="#F2EDFF" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="80" y="548" width="228" height="54" rx="10" fill="#5D2BE7"/>
+<rect x="324" y="548" width="212" height="54" rx="10" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="80" y1="680" x2="740" y2="680" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="816" y="152" width="544" height="640" rx="18" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<polygon points="1080,792 1360,290 1360,792" fill="#F2EDFF"/>
+<line x1="816" y1="212" x2="1360" y2="212" stroke="#E2D9FA" stroke-width="1.5"/>
+<circle cx="848" cy="182" r="6" fill="#B18CFE"/>
+<circle cx="868" cy="182" r="6" fill="#E2D9FA"/>
+<circle cx="888" cy="182" r="6" fill="#E2D9FA"/>
+<g transform="translate(929.6,457.2) scale(0.3168)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+<rect x="856" y="546" width="464" height="62" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.2"/>
+<rect x="870" y="560" width="4" height="34" rx="2" fill="#7446F5"/>
+<rect x="856" y="622" width="464" height="62" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.2"/>
+<rect x="870" y="636" width="4" height="34" rx="2" fill="#7446F5"/>
+<rect x="856" y="698" width="464" height="62" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.2"/>
+<rect x="870" y="712" width="4" height="34" rx="2" fill="#7446F5"/>
+<g transform="translate(80,16) scale(0.052)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(978.0,246) scale(0.22)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<text x="620" y="45.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#171327">Services</text>
+<text x="736" y="45.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#171327">Architecture</text>
+<text x="852" y="45.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#171327">Process</text>
+<text x="968" y="45.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#171327">About</text>
+<text x="1262" y="45.48" font-family="'Inter', sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" text-anchor="middle">Start a Project</text>
+<text x="240" y="186.43" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11.5" fill="#5D2BE7" text-anchor="middle">SOFTWARE ENGINEERING &amp; DIGITAL SYSTEMS</text>
+<text x="80" y="283.76" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="68" fill="#171327" letter-spacing="-2.04px">From the unseen</text>
+<text x="80" y="355.84" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="68" fill="#171327" letter-spacing="-2.04px">to the extraordinary.</text>
+<text x="80" y="422.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">AETHRA designs and engineers custom software, web and mobile</text>
+<text x="80" y="453.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">applications, backend APIs, and integrated digital systems that</text>
+<text x="80" y="484.4" font-family="'Inter', sans-serif" font-weight="400" font-size="20" fill="#615B73">turn complex ideas into dependable products.</text>
+<text x="194" y="578.12" font-family="'Inter', sans-serif" font-weight="600" font-size="16" fill="#FFFFFF" text-anchor="middle">Discuss Your Project  -&gt;</text>
+<text x="430" y="578.12" font-family="'Inter', sans-serif" font-weight="600" font-size="16" fill="#171327" text-anchor="middle">Explore Capabilities</text>
+<text x="80" y="715.43" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11.5" fill="#5D2BE7">01 // APPLICATIONS</text>
+<text x="80" y="743.94" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="17" fill="#171327">Custom Web &amp; Mobile</text>
+<text x="312" y="715.43" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11.5" fill="#5D2BE7">02 // ARCHITECTURE</text>
+<text x="312" y="743.94" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="17" fill="#171327">APIs &amp; Backend Systems</text>
+<text x="544" y="715.43" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11.5" fill="#5D2BE7">03 // AUTOMATION</text>
+<text x="544" y="743.94" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="17" fill="#171327">Connected Workflows</text>
+<text x="1328" y="183.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#615B73" text-anchor="end">SYSTEM BLUEPRINT // V1.0</text>
+<text x="886" y="567.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">INTERFACE LAYER</text>
+<text x="886" y="589.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#171327">Web Apps  •  Mobile Clients  •  Portals</text>
+<text x="886" y="643.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">APPLICATION &amp; API LAYER</text>
+<text x="886" y="665.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#171327">Domain Logic  •  REST / GraphQL  •  Auth</text>
+<text x="886" y="719.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">DATA &amp; INFRASTRUCTURE</text>
+<text x="886" y="741.48" font-family="'Inter', sans-serif" font-weight="500" font-size="14" fill="#171327">Relational Schemas  •  Pipelines  •  Cloud</text>
+</svg>

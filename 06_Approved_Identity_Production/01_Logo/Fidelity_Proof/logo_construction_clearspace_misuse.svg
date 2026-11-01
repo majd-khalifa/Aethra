@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1140" width="1600" height="1140">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1600" height="1140" fill="#FCFBFF"/>
+<rect x="40" y="40" width="1520" height="1060" fill="none" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="40" y1="104" x2="1560" y2="104" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="64" y="66" width="12" height="12" rx="2" fill="#7446F5"/>
+<rect x="68" y="156" width="712" height="510" rx="8" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="204.0" y1="186" x2="204.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="186.0" x2="644" y2="186.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="248.0" y1="186" x2="248.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="230.0" x2="644" y2="230.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="292.0" y1="186" x2="292.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="274.0" x2="644" y2="274.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="336.0" y1="186" x2="336.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="318.0" x2="644" y2="318.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="380.0" y1="186" x2="380.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="362.0" x2="644" y2="362.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="424.0" y1="186" x2="424.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="406.0" x2="644" y2="406.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="468.0" y1="186" x2="468.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="450.0" x2="644" y2="450.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="512.0" y1="186" x2="512.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="494.0" x2="644" y2="494.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="556.0" y1="186" x2="556.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="538.0" x2="644" y2="538.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="600.0" y1="186" x2="600.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="582.0" x2="644" y2="582.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="644.0" y1="186" x2="644.0" y2="626" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="204" y1="626.0" x2="644" y2="626.0" stroke="#E2D9FA" stroke-width="1"/>
+<line x1="248.0" y1="564.4" x2="424.0" y2="247.6" stroke="#171327" stroke-width="1.5" stroke-dasharray="5,4"/>
+<line x1="248.0" y1="564.4" x2="510.24" y2="461.0" stroke="#5D2BE7" stroke-width="1.5" stroke-dasharray="5,4"/>
+<rect x="68" y="720" width="712" height="346" rx="8" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="104" y="758" width="360" height="268" fill="#F2EDFF" stroke="#7446F5" stroke-width="1.5" stroke-dasharray="5,5"/>
+<rect x="148" y="802" width="272" height="180" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1"/>
+<g transform="translate(194.72,931.04) scale(0.17856)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+<rect x="820" y="156" width="348" height="130" rx="6" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<g transform="translate(926.08,210.12) scale(0.2014)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+<rect x="1184" y="156" width="348" height="130" rx="6" fill="#171327"/>
+<g transform="translate(1290.08,210.12) scale(0.2014)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/></g>
+<rect x="820" y="300" width="348" height="110" rx="6" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<g transform="translate(917.44,345.16) scale(0.1802)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#000000" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#000000" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#000000" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#000000" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#000000" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#000000" fill-rule="evenodd"/></g>
+<rect x="1184" y="300" width="348" height="110" rx="6" fill="#000000"/>
+<g transform="translate(1281.44,345.16) scale(0.1802)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#FFFFFF" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#FFFFFF" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#FFFFFF" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#FFFFFF" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#FFFFFF" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#FFFFFF" fill-rule="evenodd"/></g>
+<rect x="820" y="472" width="348" height="182" rx="6" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="834" y="486" width="20" height="20" rx="3" fill="#D92D20"/>
+<line x1="839" y1="491" x2="849" y2="501" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="849" y1="491" x2="839" y2="501" stroke="#FFFFFF" stroke-width="2"/>
+<path d="M 994,524 L 1034,598 L 1024,598 L 1012,576 L 976,576 L 964,598 L 954,598 Z M 994,540 L 980,567 L 1008,567 Z" fill="#7446F5" fill-rule="evenodd"/>
+<rect x="1184" y="472" width="348" height="182" rx="6" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="1198" y="486" width="20" height="20" rx="3" fill="#D92D20"/>
+<line x1="1203" y1="491" x2="1213" y2="501" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="1213" y1="491" x2="1203" y2="501" stroke="#FFFFFF" stroke-width="2"/>
+<path d="M 1324,596 L 1358,528 L 1392,596" fill="none" stroke="#7446F5" stroke-width="16"/>
+<rect x="820" y="670" width="348" height="182" rx="6" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="834" y="684" width="20" height="20" rx="3" fill="#D92D20"/>
+<line x1="839" y1="689" x2="849" y2="699" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="849" y1="689" x2="839" y2="699" stroke="#FFFFFF" stroke-width="2"/>
+<path d="M 994,720 L 1034,794 L 954,794 Z M 994,738 L 968,784 L 1020,784 Z" fill="#7446F5" fill-rule="evenodd"/>
+<rect x="1184" y="670" width="348" height="182" rx="6" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="1198" y="684" width="20" height="20" rx="3" fill="#D92D20"/>
+<line x1="1203" y1="689" x2="1213" y2="699" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="1213" y1="689" x2="1203" y2="699" stroke="#FFFFFF" stroke-width="2"/>
+<rect x="820" y="868" width="348" height="182" rx="6" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="834" y="882" width="20" height="20" rx="3" fill="#D92D20"/>
+<line x1="839" y1="887" x2="849" y2="897" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="849" y1="887" x2="839" y2="897" stroke="#FFFFFF" stroke-width="2"/>
+<rect x="1184" y="868" width="348" height="182" rx="6" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="1198" y="882" width="20" height="20" rx="3" fill="#D92D20"/>
+<line x1="1203" y1="887" x2="1213" y2="897" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="1213" y1="887" x2="1203" y2="897" stroke="#FFFFFF" stroke-width="2"/>
+<polygon points="1400,932 1406,950 1424,956 1406,962 1400,980 1394,962 1376,956 1394,950" fill="#7446F5"/>
+<g transform="translate(204,186) scale(0.44)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(222.0,812) scale(0.124)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(844,182) scale(0.076)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(1208,182) scale(0.076)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(844,320) scale(0.068)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="#000000" fill-rule="evenodd"/></g>
+<g transform="translate(1208,320) scale(0.068)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="#FFFFFF" fill-rule="evenodd"/></g>
+<g transform="translate(1316,716) scale(0.084)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="#00E5FF" fill-rule="evenodd"/></g>
+<g transform="translate(1298,916) scale(0.08)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<text x="88" y="74.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#171327" letter-spacing="0.78px">AETHRA LOGO SYSTEM  //  CONSTRUCTION GEOMETRY, CLEAR-SPACE &amp; MISUSE RULES</text>
+<text x="1536" y="74.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#5D2BE7" letter-spacing="0.78px" text-anchor="end">SPECIFICATION 01.B</text>
+<text x="68" y="137.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7" letter-spacing="0.6px">01 // CANONICAL VECTOR CONSTRUCTION (1000 × 1000 MASTER GRID)</text>
+<text x="88" y="335.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">OUTER SLOPE</text>
+<text x="88" y="348.77" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">9:5 (60.95°)</text>
+<text x="656" y="435.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">RISING DIAGONAL</text>
+<text x="656" y="448.77" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">CROSS-STROKE</text>
+<text x="656" y="462.52" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">(+21.03°)</text>
+<text x="656" y="551.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#615B73">OPEN BASE FOOT</text>
+<text x="656" y="564.77" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#615B73">NOTCH AT 9:5</text>
+<text x="68" y="701.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7" letter-spacing="0.6px">02 // CLEAR-SPACE RULE (0.25H ISOLATION ZONE) &amp; MINIMUM SIZES</text>
+<text x="114" y="775.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#5D2BE7">0.25H</text>
+<text x="494" y="771.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#171327">MINIMUM SIZE THRESHOLDS:</text>
+<text x="494" y="803.07" font-family="'Inter', sans-serif" font-weight="400" font-size="13.5" fill="#615B73">• Stacked Lockup: 80 px height (digital)</text>
+<text x="494" y="824.67" font-family="'Inter', sans-serif" font-weight="400" font-size="13.5" fill="#615B73">• Horizontal Lockup: 120 px width</text>
+<text x="494" y="846.27" font-family="'Inter', sans-serif" font-weight="400" font-size="13.5" fill="#615B73">• Standalone Master Mark: 28 × 28 px</text>
+<text x="494" y="867.87" font-family="'Inter', sans-serif" font-weight="400" font-size="13.5" fill="#615B73">• Optical Micro-Icon: 16 × 16 px — 24 × 24 px</text>
+<text x="494" y="889.47" font-family="'Inter', sans-serif" font-weight="400" font-size="13.5" fill="#615B73">• Print Symbol Minimum: 6 × 6 mm</text>
+<text x="494" y="911.07" font-family="'Inter', sans-serif" font-weight="400" font-size="13.5" fill="#615B73">• Aspect Ratio: 10:9 (Mark) / Locked</text>
+<text x="820" y="137.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7" letter-spacing="0.6px">03 // CANONICAL COLOR &amp; MONOCHROME VARIANTS</text>
+<text x="1152" y="320.2" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="10" fill="#615B73" text-anchor="end">100% BLACK</text>
+<text x="1516" y="320.2" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="10" fill="#FFFFFF" fill-opacity="0.7" text-anchor="end">100% WHITE</text>
+<text x="820" y="451.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#D92D20" letter-spacing="0.6px">04 // INCORRECT LOGO USAGE (STRICT PROHIBITIONS)</text>
+<text x="862" y="498.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">DO NOT REPLACE CROSSBAR</text>
+<text x="834" y="631.84" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#615B73">Never use a flat conventional crossbar.</text>
+<text x="1226" y="498.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">DO NOT ROUND OR BUBBLE</text>
+<text x="1198" y="631.84" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#615B73">Preserve straight edges and sharp corners.</text>
+<text x="862" y="696.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">DO NOT CLOSE LOWER BASE</text>
+<text x="834" y="829.84" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#615B73">Keep the asymmetrical open lower geometry.</text>
+<text x="1226" y="696.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">DO NOT SWITCH TO NEON/CYAN</text>
+<text x="1198" y="829.84" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#615B73">Keep the approved violet &amp; ink palette.</text>
+<text x="862" y="894.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">DO NOT ALTER WORDMARK</text>
+<text x="834" y="1027.84" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#615B73">Never substitute a generic serif/sans font.</text>
+<text x="994" y="966.96" font-family="'Inter', sans-serif" font-weight="700" font-size="28" fill="#171327" text-anchor="middle">Aethra</text>
+<text x="1226" y="894.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">DO NOT ADD EXTRA SYMBOLS</text>
+<text x="1198" y="1027.84" font-family="'Inter', sans-serif" font-weight="400" font-size="12" fill="#615B73">Never place stars or icons beside the A.</text>
+</svg>

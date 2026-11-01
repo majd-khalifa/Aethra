@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AETHRA — Software Development &amp; Digital Systems</title>
+<link rel="stylesheet" href="../../02_Design_System/design_tokens.css">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=Inter:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: var(--aethra-font-body); color: var(--aethra-text-primary);
+    background: var(--aethra-surface-primary); line-height: 1.5;
+  }
+  header {
+    height: 84px; background: #FFFFFF; border-bottom: 1px solid var(--aethra-border-light);
+    display: flex; align-items: center; justify-content: space-between; padding: 0 80px;
+  }
+  .nav-links { display: flex; gap: 36px; font-weight: 500; font-size: 15px; }
+  .btn-primary {
+    background: var(--aethra-violet-deep); color: #FFFFFF; padding: 12px 24px;
+    border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px;
+  }
+  .container { max-width: 1280px; margin: 0 auto; padding: 80px 0; }
+  .hero { display: grid; grid-template-columns: 1.2fr 1fr; gap: 64px; align-items: center; }
+  .tag {
+    display: inline-block; background: var(--aethra-surface-tint); color: var(--aethra-violet-deep);
+    font-family: var(--aethra-font-mono); font-size: 12px; font-weight: 600;
+    padding: 6px 14px; border-radius: 16px; border: 1px solid var(--aethra-border-light);
+  }
+  h1 { font-family: var(--aethra-font-display); font-size: 64px; line-height: 1.06; letter-spacing: -0.03em; margin: 20px 0; }
+  .lead { font-size: 20px; color: var(--aethra-text-muted); max-width: 600px; margin-bottom: 32px; }
+  .card {
+    background: #FFFFFF; border: 1.5px solid var(--aethra-border-light); border-radius: 16px; padding: 32px;
+  }
+  .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-top: 40px; }
+</style>
+</head>
+<body>
+  <header>
+    <svg width="210" height="48" viewBox="0 0 210 48">
+      <defs><linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient></defs>
+      <g transform="translate(0,0) scale(0.048)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+      <g transform="translate(54,17.5) scale(0.128)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+    </svg>
+    <nav class="nav-links">
+      <span>Services</span><span>Architecture</span><span>Process</span><span>About</span>
+    </nav>
+    <a href="#inquire" class="btn-primary">Start a Project</a>
+  </header>
+  <main class="container">
+    <section class="hero">
+      <div>
+        <span class="tag">SOFTWARE ENGINEERING &amp; DIGITAL SYSTEMS</span>
+        <h1>From the unseen to the extraordinary.</h1>
+        <p class="lead">AETHRA designs and engineers custom software, web and mobile applications, backend APIs, and integrated digital systems that turn complex ideas into dependable products.</p>
+        <a href="#inquire" class="btn-primary">Discuss Your Project &rarr;</a>
+      </div>
+      <div class="card" style="text-align:center;">
+        <svg width="240" height="260" viewBox="0 0 240 260">
+          <defs><linearGradient id="aethra-hero-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient></defs>
+          <g transform="translate(20,0) scale(0.2)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-hero-grad)" fill-rule="evenodd"/></g>
+          <g transform="translate(10,205) scale(0.22)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+        </svg>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

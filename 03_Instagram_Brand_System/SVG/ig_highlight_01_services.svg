@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920" width="1080" height="1920">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style></defs>
+<rect x="0" y="0" width="1080" height="1920" fill="#0D1017"/>
+<line x1="540" y1="120" x2="540" y2="1800" stroke="#232A3B" stroke-width="1.5"/>
+<line x1="120" y1="960" x2="960" y2="960" stroke="#232A3B" stroke-width="1.5"/>
+<circle cx="540" cy="960" r="420" fill="#161B26" stroke="#232A3B" stroke-width="3"/>
+<circle cx="540" cy="960" r="384" fill="#0D1017" stroke="#1838E0" stroke-width="2" stroke-opacity="0.45"/>
+<g transform="translate(330,750) scale(3.5)"><rect x="18" y="18" width="36" height="36" fill="#F5F3EE"/><path d="M 66,18 L 108,18 L 99,54 L 66,54 Z" fill="#1838E0"/><rect x="18" y="66" width="36" height="36" fill="#F5F3EE" fill-opacity="0.35"/><rect x="66" y="66" width="36" height="36" fill="#F5F3EE"/><rect x="94" y="18" width="8" height="8" fill="#E84A27"/></g>
+<text x="540" y="256.4" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="20" fill="#F5F3EE" fill-opacity="0.6" letter-spacing="2.0px" text-anchor="middle">AETHRA  //  HIGHLIGHT 01</text>
+<text x="540" y="1539.36" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="48" fill="#F5F3EE" letter-spacing="2.88px" text-anchor="middle">SERVICES</text>
+<text x="540" y="1582.76" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="18" fill="#1838E0" letter-spacing="1.44px" text-anchor="middle">CAPABILITIES &amp; STACK</text>
+</svg>

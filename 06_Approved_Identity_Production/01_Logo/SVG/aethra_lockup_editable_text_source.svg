@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" width="1000" height="800">
+  <defs>
+    <linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&amp;display=swap');
+      .aethra-editable-wordmark {
+        font-family: 'Space Grotesk', sans-serif;
+        font-weight: 500;
+        font-size: 86px;
+        letter-spacing: 0.42em;
+        fill: #171327;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+  <!-- Canonical Approved A Monogram -->
+  <g transform="translate(250,64) scale(0.5)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+  <!-- Editable Live Text Layer (Note: Outlined master uses custom open-chevron A glyphs) -->
+  <text x="518" y="624" class="aethra-editable-wordmark">AETHRA</text>
+</svg>

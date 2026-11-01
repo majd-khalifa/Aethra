@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<g transform="translate(0,0) scale(1.0)"><path d="M 500.0,120.0 L 916.0,868.0 L 572.0,868.0 L 526.0,785.2 L 774.8,785.2 L 686.0,625.4 L 84.0,868.0 Z M 500.0,291.4 L 279.0,689.2 L 640.0,552.0 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+</svg>

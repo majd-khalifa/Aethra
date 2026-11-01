@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" width="1600" height="1100">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style></defs>
+<rect x="0" y="0" width="1600" height="1100" fill="#F5F3EE"/>
+<rect x="40" y="40" width="1520" height="1020" fill="none" stroke="#E4E1D8" stroke-width="1.5"/>
+<line x1="40" y1="108" x2="1560" y2="108" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="64" y="66" width="12" height="12" fill="#1838E0"/>
+<line x1="620" y1="108" x2="620" y2="1060" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="68" y="256" width="524" height="380" fill="#FFFFFF" stroke="#E4E1D8" stroke-width="1.5"/>
+<line x1="108" y1="256" x2="108" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="148" y1="256" x2="148" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="188" y1="256" x2="188" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="228" y1="256" x2="228" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="268" y1="256" x2="268" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="308" y1="256" x2="308" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="348" y1="256" x2="348" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="388" y1="256" x2="388" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="428" y1="256" x2="428" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="468" y1="256" x2="468" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="508" y1="256" x2="508" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="548" y1="256" x2="548" y2="636" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="68" y1="296" x2="592" y2="296" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="68" y1="336" x2="592" y2="336" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="68" y1="376" x2="592" y2="376" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="68" y1="416" x2="592" y2="416" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="68" y1="456" x2="592" y2="456" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="68" y1="496" x2="592" y2="496" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="68" y1="536" x2="592" y2="536" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="68" y1="576" x2="592" y2="576" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="68" y1="616" x2="592" y2="616" stroke="#E4E1D8" stroke-width="1" stroke-opacity="0.55"/>
+<g transform="translate(198,314) scale(2.2)"><path d="M 38,18 L 62,18 L 62,36 L 31,36 Z M 27,51 L 62,51 L 62,69 L 20,69 Z M 16,84 L 46,84 L 46,102 L 10,102 Z" fill="#0D1017"/><path d="M 70,18 L 84,18 L 110,102 L 70,102 Z" fill="#1838E0"/></g>
+<line x1="620" y1="410" x2="1560" y2="410" stroke="#E4E1D8" stroke-width="1.5"/>
+<g transform="translate(660,185) scale(1.15)"><path d="M 38,18 L 62,18 L 62,36 L 31,36 Z M 27,51 L 62,51 L 62,69 L 20,69 Z M 16,84 L 46,84 L 46,102 L 10,102 Z" fill="#0D1017"/><path d="M 70,18 L 84,18 L 110,102 L 70,102 Z" fill="#1838E0"/></g>
+<g transform="translate(825,204) scale(1.02)"><path d="M 0,100 L 30,0 L 47,0 L 17,100 Z M 53,0 L 60,0 L 86,100 L 69,100 L 49,22 Z M 29,56 L 55,56 L 59,70 L 25,70 Z" fill="#0D1017"/><path d="M 104,0 L 120,0 L 120,100 L 104,100 Z M 126,0 L 170,0 L 170,15 L 126,15 Z M 126,42.5 L 162,42.5 L 162,57.5 L 126,57.5 Z M 126,85 L 170,85 L 170,100 L 126,100 Z" fill="#0D1017"/><path d="M 186,0 L 260,0 L 260,15 L 186,15 Z M 215,21 L 231,21 L 231,100 L 215,100 Z" fill="#0D1017"/><path d="M 276,0 L 292,0 L 292,100 L 276,100 Z M 298,42.5 L 330,42.5 L 330,57.5 L 298,57.5 Z M 336,0 L 352,0 L 352,100 L 336,100 Z" fill="#0D1017"/><path d="M 372,0 L 388,0 L 388,100 L 372,100 Z M 394,0 L 420,0 C 438,0 448,11 448,29 C 448,46 438,57 420,57 L 394,57 L 394,43 L 418,43 C 427,43 432,38 432,29 C 432,20 427,15 418,15 L 394,15 Z M 414,63 L 431,63 L 450,100 L 432,100 Z" fill="#0D1017"/><path d="M 466,100 L 496,0 L 513,0 L 483,100 Z M 519,0 L 526,0 L 552,100 L 535,100 L 515,22 Z M 495,56 L 521,56 L 525,70 L 491,70 Z" fill="#0D1017"/></g>
+<line x1="620" y1="720" x2="1560" y2="720" stroke="#E4E1D8" stroke-width="1.5"/>
+<line x1="1150" y1="410" x2="1150" y2="720" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="621" y="411" width="528" height="308" fill="#0D1017"/>
+<g transform="translate(656,518) scale(0.78)"><path d="M 38,18 L 62,18 L 62,36 L 31,36 Z M 27,51 L 62,51 L 62,69 L 20,69 Z M 16,84 L 46,84 L 46,102 L 10,102 Z" fill="#F5F3EE"/><path d="M 70,18 L 84,18 L 110,102 L 70,102 Z" fill="#1838E0"/></g>
+<g transform="translate(768,535) scale(0.62)"><path d="M 0,100 L 30,0 L 47,0 L 17,100 Z M 53,0 L 60,0 L 86,100 L 69,100 L 49,22 Z M 29,56 L 55,56 L 59,70 L 25,70 Z" fill="#F5F3EE"/><path d="M 104,0 L 120,0 L 120,100 L 104,100 Z M 126,0 L 170,0 L 170,15 L 126,15 Z M 126,42.5 L 162,42.5 L 162,57.5 L 126,57.5 Z M 126,85 L 170,85 L 170,100 L 126,100 Z" fill="#F5F3EE"/><path d="M 186,0 L 260,0 L 260,15 L 186,15 Z M 215,21 L 231,21 L 231,100 L 215,100 Z" fill="#F5F3EE"/><path d="M 276,0 L 292,0 L 292,100 L 276,100 Z M 298,42.5 L 330,42.5 L 330,57.5 L 298,57.5 Z M 336,0 L 352,0 L 352,100 L 336,100 Z" fill="#F5F3EE"/><path d="M 372,0 L 388,0 L 388,100 L 372,100 Z M 394,0 L 420,0 C 438,0 448,11 448,29 C 448,46 438,57 420,57 L 394,57 L 394,43 L 418,43 C 427,43 432,38 432,29 C 432,20 427,15 418,15 L 394,15 Z M 414,63 L 431,63 L 450,100 L 432,100 Z" fill="#F5F3EE"/><path d="M 466,100 L 496,0 L 513,0 L 483,100 Z M 519,0 L 526,0 L 552,100 L 535,100 L 515,22 Z M 495,56 L 521,56 L 525,70 L 491,70 Z" fill="#F5F3EE"/></g>
+<g transform="translate(1300,474) scale(0.92)"><path d="M 38,18 L 62,18 L 62,36 L 31,36 Z M 27,51 L 62,51 L 62,69 L 20,69 Z M 16,84 L 46,84 L 46,102 L 10,102 Z" fill="#0D1017"/><path d="M 70,18 L 84,18 L 110,102 L 70,102 Z" fill="#1838E0"/></g>
+<g transform="translate(1232,612) scale(0.45)"><path d="M 0,100 L 30,0 L 47,0 L 17,100 Z M 53,0 L 60,0 L 86,100 L 69,100 L 49,22 Z M 29,56 L 55,56 L 59,70 L 25,70 Z" fill="#0D1017"/><path d="M 104,0 L 120,0 L 120,100 L 104,100 Z M 126,0 L 170,0 L 170,15 L 126,15 Z M 126,42.5 L 162,42.5 L 162,57.5 L 126,57.5 Z M 126,85 L 170,85 L 170,100 L 126,100 Z" fill="#0D1017"/><path d="M 186,0 L 260,0 L 260,15 L 186,15 Z M 215,21 L 231,21 L 231,100 L 215,100 Z" fill="#0D1017"/><path d="M 276,0 L 292,0 L 292,100 L 276,100 Z M 298,42.5 L 330,42.5 L 330,57.5 L 298,57.5 Z M 336,0 L 352,0 L 352,100 L 336,100 Z" fill="#0D1017"/><path d="M 372,0 L 388,0 L 388,100 L 372,100 Z M 394,0 L 420,0 C 438,0 448,11 448,29 C 448,46 438,57 420,57 L 394,57 L 394,43 L 418,43 C 427,43 432,38 432,29 C 432,20 427,15 418,15 L 394,15 Z M 414,63 L 431,63 L 450,100 L 432,100 Z" fill="#0D1017"/><path d="M 466,100 L 496,0 L 513,0 L 483,100 Z M 519,0 L 526,0 L 552,100 L 535,100 L 515,22 Z M 495,56 L 521,56 L 525,70 L 491,70 Z" fill="#0D1017"/></g>
+<line x1="1090" y1="720" x2="1090" y2="1060" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="652" y="784" width="196" height="236" fill="#FFFFFF" stroke="#E4E1D8" stroke-width="1.5"/>
+<g transform="translate(697,816) scale(0.88)"><path d="M 38,18 L 62,18 L 62,36 L 31,36 Z M 27,51 L 62,51 L 62,69 L 20,69 Z M 16,84 L 46,84 L 46,102 L 10,102 Z" fill="#000000"/><path d="M 70,18 L 84,18 L 110,102 L 70,102 Z" fill="#000000"/></g>
+<g transform="translate(678,948) scale(0.26)"><path d="M 0,100 L 30,0 L 47,0 L 17,100 Z M 53,0 L 60,0 L 86,100 L 69,100 L 49,22 Z M 29,56 L 55,56 L 59,70 L 25,70 Z" fill="#000000"/><path d="M 104,0 L 120,0 L 120,100 L 104,100 Z M 126,0 L 170,0 L 170,15 L 126,15 Z M 126,42.5 L 162,42.5 L 162,57.5 L 126,57.5 Z M 126,85 L 170,85 L 170,100 L 126,100 Z" fill="#000000"/><path d="M 186,0 L 260,0 L 260,15 L 186,15 Z M 215,21 L 231,21 L 231,100 L 215,100 Z" fill="#000000"/><path d="M 276,0 L 292,0 L 292,100 L 276,100 Z M 298,42.5 L 330,42.5 L 330,57.5 L 298,57.5 Z M 336,0 L 352,0 L 352,100 L 336,100 Z" fill="#000000"/><path d="M 372,0 L 388,0 L 388,100 L 372,100 Z M 394,0 L 420,0 C 438,0 448,11 448,29 C 448,46 438,57 420,57 L 394,57 L 394,43 L 418,43 C 427,43 432,38 432,29 C 432,20 427,15 418,15 L 394,15 Z M 414,63 L 431,63 L 450,100 L 432,100 Z" fill="#000000"/><path d="M 466,100 L 496,0 L 513,0 L 483,100 Z M 519,0 L 526,0 L 552,100 L 535,100 L 515,22 Z M 495,56 L 521,56 L 525,70 L 491,70 Z" fill="#000000"/></g>
+<rect x="864" y="784" width="196" height="236" fill="#000000"/>
+<g transform="translate(909,816) scale(0.88)"><path d="M 38,18 L 62,18 L 62,36 L 31,36 Z M 27,51 L 62,51 L 62,69 L 20,69 Z M 16,84 L 46,84 L 46,102 L 10,102 Z" fill="#FFFFFF"/><path d="M 70,18 L 84,18 L 110,102 L 70,102 Z" fill="#FFFFFF"/></g>
+<g transform="translate(890,948) scale(0.26)"><path d="M 0,100 L 30,0 L 47,0 L 17,100 Z M 53,0 L 60,0 L 86,100 L 69,100 L 49,22 Z M 29,56 L 55,56 L 59,70 L 25,70 Z" fill="#FFFFFF"/><path d="M 104,0 L 120,0 L 120,100 L 104,100 Z M 126,0 L 170,0 L 170,15 L 126,15 Z M 126,42.5 L 162,42.5 L 162,57.5 L 126,57.5 Z M 126,85 L 170,85 L 170,100 L 126,100 Z" fill="#FFFFFF"/><path d="M 186,0 L 260,0 L 260,15 L 186,15 Z M 215,21 L 231,21 L 231,100 L 215,100 Z" fill="#FFFFFF"/><path d="M 276,0 L 292,0 L 292,100 L 276,100 Z M 298,42.5 L 330,42.5 L 330,57.5 L 298,57.5 Z M 336,0 L 352,0 L 352,100 L 336,100 Z" fill="#FFFFFF"/><path d="M 372,0 L 388,0 L 388,100 L 372,100 Z M 394,0 L 420,0 C 438,0 448,11 448,29 C 448,46 438,57 420,57 L 394,57 L 394,43 L 418,43 C 427,43 432,38 432,29 C 432,20 427,15 418,15 L 394,15 Z M 414,63 L 431,63 L 450,100 L 432,100 Z" fill="#FFFFFF"/><path d="M 466,100 L 496,0 L 513,0 L 483,100 Z M 519,0 L 526,0 L 552,100 L 535,100 L 515,22 Z M 495,56 L 521,56 L 525,70 L 491,70 Z" fill="#FFFFFF"/></g>
+<rect x="1122" y="796" width="128" height="128" rx="28" fill="#0D1017"/>
+<g transform="translate(1145,819) scale(0.68)"><path d="M 38,18 L 62,18 L 62,36 L 31,36 Z M 27,51 L 62,51 L 62,69 L 20,69 Z M 16,84 L 46,84 L 46,102 L 10,102 Z" fill="#F5F3EE"/><path d="M 70,18 L 84,18 L 110,102 L 70,102 Z" fill="#1838E0"/></g>
+<circle cx="1344" cy="860" r="64" fill="#0D1017" stroke="#E4E1D8" stroke-width="1.5"/>
+<g transform="translate(1306,822) scale(0.64)"><path d="M 38,18 L 62,18 L 62,36 L 31,36 Z M 27,51 L 62,51 L 62,69 L 20,69 Z M 16,84 L 46,84 L 46,102 L 10,102 Z" fill="#F5F3EE"/><path d="M 70,18 L 84,18 L 110,102 L 70,102 Z" fill="#1838E0"/></g>
+<rect x="1442" y="796" width="48" height="48" rx="8" fill="#0D1017"/>
+<g transform="translate(1449,803) scale(0.28)"><path d="M 38,18 L 62,18 L 62,36 L 31,36 Z M 27,51 L 62,51 L 62,69 L 20,69 Z M 16,84 L 46,84 L 46,102 L 10,102 Z" fill="#FFFFFF"/><path d="M 70,18 L 84,18 L 110,102 L 70,102 Z" fill="#FFFFFF"/></g>
+<rect x="1454" y="886" width="24" height="24" rx="4" fill="#0D1017"/>
+<g transform="translate(1457.5,889.5) scale(0.14)"><path d="M 38,18 L 62,18 L 62,36 L 31,36 Z M 27,51 L 62,51 L 62,69 L 20,69 Z M 16,84 L 46,84 L 46,102 L 10,102 Z" fill="#FFFFFF"/><path d="M 70,18 L 84,18 L 110,102 L 70,102 Z" fill="#FFFFFF"/></g>
+<text x="88" y="75.48" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="14" fill="#0D1017" letter-spacing="1.12px">AETHRA BRAND IDENTITY  //  PHASE 01 — CONCEPT DIRECTION 03</text>
+<text x="1536" y="75.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#5A6072" letter-spacing="1.12px" text-anchor="end">EXPLORATION DIRECTION 03 OF 03</text>
+<text x="68" y="146.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#1838E0" letter-spacing="1.3px">CONCEPT 03</text>
+<text x="68" y="191.88" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#0D1017" letter-spacing="-0.85px">The Phase-Matrix</text>
+<text x="68" y="223.12" font-family="'Inter', sans-serif" font-weight="500" font-size="16" fill="#5A6072">Discrete Signals Condensing into Solid Structural Mass</text>
+<text x="88" y="283.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#5A6072" letter-spacing="0.72px">01 // STANDALONE SYMBOL (GEOMETRIC SILHOUETTE)</text>
+<text x="68" y="673.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#1838E0" letter-spacing="0.96px">02 // CONCEPTUAL RATIONALE &amp; VISUAL THESIS</text>
+<text x="68" y="708.3" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#0D1017">CONCEPT: Inspired by Swiss International Style modular grids. Three discrete</text>
+<text x="68" y="742.3" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#0D1017">horizontal signal bars on the left (representing fragmented, unseen inputs)</text>
+<text x="68" y="776.3" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#0D1017">converge across a diagonal threshold into a solid monolith on the right.</text>
+<text x="68" y="810.3" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#0D1017">WHY IT WORKS: Expresses the literal condensation of abstract logic into</text>
+<text x="68" y="844.3" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#0D1017">a single engineered pillar, forming a bold directional &#x27;A&#x27; prism.</text>
+<text x="68" y="878.3" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#0D1017">VERDICT: Highly systematic and dynamic for motion graphics, but less</text>
+<text x="68" y="912.3" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#0D1017">unified as a single static emboss than Concept 01&#x27;s cantilever arch.</text>
+<text x="652" y="141.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#5A6072" letter-spacing="0.72px">03 // HORIZONTAL LOCKUP &amp; CUSTOM WORDMARK (LIGHT SURFACE)</text>
+<text x="652" y="367.84" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="12" fill="#5A6072" letter-spacing="0.36px">WORDMARK ARCHITECTURE: Custom vector outlines (16:100 stem-to-cap ratio, zero system-font dependency).</text>
+<text x="652" y="443.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#F5F3EE" fill-opacity="0.65" letter-spacing="0.72px">04 // DARK-BACKGROUND LOCKUP</text>
+<text x="1178" y="443.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#5A6072" letter-spacing="0.72px">05 // STACKED ARRANGEMENT</text>
+<text x="652" y="755.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#5A6072" letter-spacing="0.72px">06 // PURE BLACK &amp; WHITE MONOCHROME PROOF</text>
+<text x="750" y="1001.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5A6072" text-anchor="middle">100% K POSITIVE</text>
+<text x="962" y="1001.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#F5F3EE" fill-opacity="0.7" text-anchor="middle">100% WHITE REVERSE</text>
+<text x="1118" y="755.84" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="12" fill="#5A6072" letter-spacing="0.72px">07 // APP ICON, IG AVATAR &amp; MICRO-SIZE TEST</text>
+<text x="1186" y="951.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5A6072" text-anchor="middle">APP ICON</text>
+<text x="1344" y="951.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5A6072" text-anchor="middle">IG AVATAR</text>
+<text x="1466" y="861.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5A6072" text-anchor="middle">32px</text>
+<text x="1466" y="927.02" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="11" fill="#5A6072" text-anchor="middle">16px</text>
+</svg>

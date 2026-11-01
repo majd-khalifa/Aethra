@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+<defs><style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style></defs>
+<rect x="0" y="0" width="1080" height="1350" fill="#F5F3EE"/>
+<line x1="48" y1="124" x2="48" y2="740" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="212" y1="124" x2="212" y2="740" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="376" y1="124" x2="376" y2="740" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="540" y1="124" x2="540" y2="740" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="704" y1="124" x2="704" y2="740" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="868" y1="124" x2="868" y2="740" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="1032" y1="124" x2="1032" y2="740" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="48" y1="124" x2="1032" y2="124" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="48" y1="278" x2="1032" y2="278" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="48" y1="432" x2="1032" y2="432" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="48" y1="586" x2="1032" y2="586" stroke="#E4E1D8" stroke-width="1"/>
+<line x1="48" y1="740" x2="1032" y2="740" stroke="#E4E1D8" stroke-width="1"/>
+<rect x="48" y="48" width="984" height="1254" fill="none" stroke="#E4E1D8" stroke-width="1.5"/>
+<line x1="48" y1="124" x2="1032" y2="124" stroke="#E4E1D8" stroke-width="1.5"/>
+<line x1="48" y1="1226" x2="1032" y2="1226" stroke="#E4E1D8" stroke-width="1.5"/>
+<g transform="translate(72,64) scale(0.36)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#1838E0"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#1838E0"/></g>
+<g transform="translate(124,75) scale(0.22)"><path d="M 0,100 L 30,0 L 56,0 L 70.4,48 L 52.9,48 L 43,15 L 17.5,100 Z M 39.6,58 L 73.4,58 L 86,100 L 68.5,100 L 60.4,73 L 35.1,73 Z" fill="#0D1017"/><path d="M 104,0 L 170,0 L 170,15 L 120.5,15 L 120.5,42.5 L 161,42.5 L 161,57.5 L 120.5,57.5 L 120.5,85 L 170,85 L 170,100 L 104,100 Z" fill="#0D1017"/><path d="M 186,0 L 260,0 L 260,15 L 231.25,15 L 231.25,100 L 214.75,100 L 214.75,15 L 186,15 Z" fill="#0D1017"/><path d="M 276,0 L 292.5,0 L 292.5,42.5 L 335.5,42.5 L 335.5,0 L 352,0 L 352,100 L 335.5,100 L 335.5,57.5 L 292.5,57.5 L 292.5,100 L 276,100 Z" fill="#0D1017"/><path d="M 372,0 L 420,0 C 438,0 448,11 448,29 C 448,44 439,54.5 425,57.2 L 450,100 L 431.5,100 L 408.5,58 L 388.5,58 L 388.5,100 L 372,100 Z M 388.5,15 L 418,15 C 427,15 431.5,20 431.5,29 C 431.5,38 427,43 418,43 L 388.5,43 Z" fill="#0D1017" fill-rule="evenodd"/><path d="M 466,100 L 496,0 L 522,0 L 536.4,48 L 518.9,48 L 509,15 L 483.5,100 Z M 505.6,58 L 539.4,58 L 552,100 L 534.5,100 L 526.4,73 L 501.1,73 Z" fill="#0D1017"/></g>
+<rect x="992" y="79" width="12" height="12" fill="#E84A27"/>
+<rect x="540" y="124" width="492" height="616" fill="#FFFFFF" stroke="#E4E1D8" stroke-width="1.5"/>
+<g transform="translate(570,210) scale(3.6)"><path d="M 15,102 L 46.5,18 L 73.5,18 L 86.25,52 L 65.25,52 L 60,38 L 36,102 Z" fill="#1838E0"/><path d="M 49.5,64 L 90.75,64 L 105,102 L 84,102 L 76.5,82 L 42.75,82 Z" fill="#1838E0"/></g>
+<line x1="540" y1="397" x2="1032" y2="397" stroke="#E84A27" stroke-width="1.5" stroke-dasharray="6,6"/>
+<line x1="540" y1="440" x2="1032" y2="440" stroke="#E84A27" stroke-width="1.5" stroke-dasharray="6,6"/>
+<rect x="84" y="168" width="14" height="14" fill="#1838E0"/>
+<line x1="84" y1="560" x2="480" y2="560" stroke="#E4E1D8" stroke-width="1.5"/>
+<line x1="48" y1="740" x2="1032" y2="740" stroke="#E4E1D8" stroke-width="1.5"/>
+<rect x="84" y="782" width="72" height="6" fill="#E84A27"/>
+<text x="974" y="89.3" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="15" fill="#5A6072" letter-spacing="1.2px" text-anchor="end">01  //  MANIFESTO</text>
+<text x="76" y="1266.3" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="15" fill="#0D1017" letter-spacing="1.5px">AETHRA.DEV</text>
+<text x="1004" y="1265.48" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="14" fill="#5A6072" letter-spacing="0.84px" text-anchor="end">FROM THE UNSEEN TO THE EXTRAORDINARY</text>
+<text x="564" y="158.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#5A6072" letter-spacing="0.78px">FIG 01.A — NEGATIVE-SPACE PHASE CHANNEL</text>
+<text x="112" y="177.3" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="15" fill="#1838E0" letter-spacing="1.2px">ORIGIN &amp; PHILOSOPHY</text>
+<text x="84" y="234.5" font-family="'Inter', sans-serif" font-weight="400" font-size="25" fill="#0D1017">Ideas begin invisibly</text>
+<text x="84" y="270.0" font-family="'Inter', sans-serif" font-weight="400" font-size="25" fill="#0D1017">in the mind.</text>
+<text x="84" y="305.5" font-family="'Inter', sans-serif" font-weight="400" font-size="25" fill="#0D1017"></text>
+<text x="84" y="341.0" font-family="'Inter', sans-serif" font-weight="400" font-size="25" fill="#0D1017">Through logic,</text>
+<text x="84" y="376.5" font-family="'Inter', sans-serif" font-weight="400" font-size="25" fill="#0D1017">architecture, and</text>
+<text x="84" y="412.0" font-family="'Inter', sans-serif" font-weight="400" font-size="25" fill="#0D1017">engineering, they</text>
+<text x="84" y="447.5" font-family="'Inter', sans-serif" font-weight="400" font-size="25" fill="#0D1017">become working</text>
+<text x="84" y="483.0" font-family="'Inter', sans-serif" font-weight="400" font-size="25" fill="#0D1017">digital reality.</text>
+<text x="84" y="596.3" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="15" fill="#5A6072" letter-spacing="1.2px">SOFTWARE  •  SYSTEMS  •  APPLICATIONS</text>
+<text x="84" y="875.96" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="78" fill="#0D1017" letter-spacing="-2.34px">From the unseen to</text>
+<text x="84" y="957.86" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="78" fill="#0D1017" letter-spacing="-2.34px">the extraordinary.</text>
+<text x="84" y="1036.86" font-family="'Inter', sans-serif" font-weight="400" font-size="23" fill="#5A6072">Every reliable system begins as an abstract thought. AETHRA partners with</text>
+<text x="84" y="1071.36" font-family="'Inter', sans-serif" font-weight="400" font-size="23" fill="#5A6072">ambitious companies to engineer custom software, scalable web platforms,</text>
+<text x="84" y="1105.86" font-family="'Inter', sans-serif" font-weight="400" font-size="23" fill="#5A6072">and resilient digital infrastructure built to endure.</text>
+</svg>

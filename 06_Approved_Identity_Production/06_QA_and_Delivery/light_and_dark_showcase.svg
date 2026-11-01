@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2200 1360" width="2200" height="1360">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="2200" height="1360" fill="#F2EDFF"/>
+<rect x="36" y="36" width="2128" height="1288" rx="20" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="36" y1="118" x2="2164" y2="118" stroke="#E2D9FA" stroke-width="1.5"/>
+<text x="80" y="83.48" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="14" fill="#5D2BE7">AETHRA // LIGHT-FIRST &amp; DARK-CONTEXT BRAND CONSISTENCY SHOWCASE</text>
+<text x="2120" y="82.66" font-family="'IBM Plex Mono', sans-serif" font-weight="500" font-size="13" fill="#615B73" text-anchor="end">ASSEMBLED FROM REAL EXPORTED ASSETS</text>
+</svg>

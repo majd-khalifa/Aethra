@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1960" width="1600" height="1960">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1600" height="1960" fill="#FCFBFF"/>
+<polygon points="1152.0,0 1600,0 1600,1136.8" fill="#F2EDFF" fill-opacity="0.85"/>
+<polygon points="1344.0,0 1600,0 1600,666.4" fill="#E6DCFF" fill-opacity="0.65"/>
+<rect x="40" y="40" width="1520" height="1880" fill="none" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="40" y1="104" x2="1560" y2="104" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="64" y="66" width="12" height="12" rx="2" fill="#7446F5"/>
+<rect x="160" y="132" width="1280" height="1756" rx="20" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="2"/>
+<circle cx="316" cy="268" r="78" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="2"/>
+<rect x="590" y="190" width="136" height="36" rx="8" fill="#5D2BE7"/>
+<rect x="738" y="190" width="144" height="36" rx="8" fill="#F2EDFF"/>
+<line x1="160" y1="548" x2="1440" y2="548" stroke="#E2D9FA" stroke-width="1.5"/>
+<g transform="translate(266,218) scale(0.1)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<text x="88" y="74.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#171327" letter-spacing="0.78px">AETHRA INSTAGRAM BRAND SYSTEM  //  PROFILE IDENTITY, HIGHLIGHTS &amp; 6-POST PORTRAIT GRID</text>
+<text x="440" y="210.96" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="28" fill="#171327">AETHRA</text>
+<text x="658" y="211.48" font-family="'Inter', sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" text-anchor="middle">Follow</text>
+<text x="810" y="211.48" font-family="'Inter', sans-serif" font-weight="600" font-size="14" fill="#5D2BE7" text-anchor="middle">Message</text>
+<text x="440" y="256.3" font-family="'Inter', sans-serif" font-weight="500" font-size="15" fill="#615B73">Software Engineering &amp; Digital Systems</text>
+<text x="440" y="287.12" font-family="'Inter', sans-serif" font-weight="400" font-size="16" fill="#171327">From the unseen to the extraordinary.</text>
+<text x="440" y="310.8" font-family="'Inter', sans-serif" font-weight="400" font-size="16" fill="#171327">Custom software, web &amp; mobile applications, backend APIs, and integrations.</text>
+</svg>

@@ -1,0 +1,63 @@
+/* AETHRA — Official Production Design Tokens (CSS Custom Properties) */
+:root {
+  /* Brand Colors — Light-First Default */
+  --aethra-violet-primary: #7446F5;
+  --aethra-violet-deep: #5D2BE7;
+  --aethra-violet-soft: #B18CFE;
+  --aethra-lavender-tint: #F2EDFF;
+  --aethra-lavender-plane: #EAE0FF;
+  --aethra-lavender-border: #E2D9FA;
+  --aethra-surface: #FCFBFF;
+  --aethra-surface-pure: #FFFFFF;
+  --aethra-ink: #171327;
+  --aethra-ink-elevated: #211B36;
+  --aethra-ink-border: #322A4D;
+  --aethra-muted-ink: #615B73;
+  --aethra-logo-gradient: linear-gradient(32deg, #B18CFE 0%, #7446F5 48%, #5D2BE7 100%);
+
+  /* Typography */
+  --aethra-font-display: 'Space Grotesk', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --aethra-font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --aethra-font-mono: 'IBM Plex Mono', ui-monospace, 'Cascadia Code', monospace;
+
+  --aethra-text-hero: 3.5rem;
+  --aethra-text-h1: 2.75rem;
+  --aethra-text-h2: 2.0rem;
+  --aethra-text-h3: 1.375rem;
+  --aethra-text-body-lg: 1.125rem;
+  --aethra-text-body: 1.0rem;
+  --aethra-text-caption: 0.875rem;
+  --aethra-text-mono: 0.75rem;
+
+  /* Spacing Scale */
+  --aethra-space-1: 4px;
+  --aethra-space-2: 8px;
+  --aethra-space-4: 16px;
+  --aethra-space-6: 24px;
+  --aethra-space-8: 32px;
+  --aethra-space-12: 48px;
+  --aethra-space-16: 64px;
+  --aethra-space-24: 96px;
+
+  /* Border Radii & Elevation */
+  --aethra-radius-sm: 4px;
+  --aethra-radius-md: 8px;
+  --aethra-radius-lg: 12px;
+  --aethra-radius-xl: 16px;
+  --aethra-shadow-subtle: 0 4px 20px -2px rgba(23, 19, 39, 0.05);
+  --aethra-shadow-card: 0 12px 32px -4px rgba(93, 43, 231, 0.08);
+
+  /* Breakpoints */
+  --aethra-bp-mobile: 390px;
+  --aethra-bp-tablet: 768px;
+  --aethra-bp-desktop: 1280px;
+  --aethra-bp-wide: 1440px;
+}
+
+[data-theme="dark"] {
+  --aethra-surface: #171327;
+  --aethra-surface-pure: #211B36;
+  --aethra-lavender-border: #322A4D;
+  --aethra-ink: #FCFBFF;
+  --aethra-muted-ink: #A39BB8;
+}

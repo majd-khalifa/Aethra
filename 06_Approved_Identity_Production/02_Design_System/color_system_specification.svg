@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" width="1600" height="1100">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1600" height="1100" fill="#FCFBFF"/>
+<polygon points="1152.0,0 1600,0 1600,638.0" fill="#F2EDFF" fill-opacity="0.85"/>
+<polygon points="1344.0,0 1600,0 1600,374.0" fill="#E6DCFF" fill-opacity="0.65"/>
+<rect x="40" y="40" width="1520" height="1020" fill="none" stroke="#E2D9FA" stroke-width="1.5"/>
+<line x1="40" y1="104" x2="1560" y2="104" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="64" y="66" width="12" height="12" rx="2" fill="#7446F5"/>
+<rect x="68" y="140" width="196" height="280" rx="8" fill="#FCFBFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="278" y="140" width="196" height="280" rx="8" fill="#F2EDFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="488" y="140" width="196" height="280" rx="8" fill="#7446F5" stroke="#7446F5" stroke-width="1.5"/>
+<rect x="698" y="140" width="196" height="280" rx="8" fill="#5D2BE7" stroke="#5D2BE7" stroke-width="1.5"/>
+<rect x="908" y="140" width="196" height="280" rx="8" fill="#B18CFE" stroke="#B18CFE" stroke-width="1.5"/>
+<rect x="1118" y="140" width="196" height="280" rx="8" fill="#171327" stroke="#171327" stroke-width="1.5"/>
+<rect x="1328" y="140" width="196" height="280" rx="8" fill="#615B73" stroke="#615B73" stroke-width="1.5"/>
+<line x1="40" y1="460" x2="1560" y2="460" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="68" y="520" width="480" height="496" rx="10" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<polygon points="360,1016 548,660 548,1016" fill="#F2EDFF"/>
+<g transform="translate(181.76,582.64) scale(0.1908)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#171327" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#171327" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#171327" fill-rule="evenodd"/></g>
+<rect x="104" y="888" width="210" height="48" rx="6" fill="#5D2BE7"/>
+<rect x="580" y="520" width="480" height="496" rx="10" fill="#171327"/>
+<g transform="translate(693.76,582.64) scale(0.1908)"><path d="M 0.0,104.0 L 53.8,0.0 L 68.5,0.0 L 122.3,104.0 L 104.1,104.0 L 61.15,19.1 L 18.2,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 199.4,0.0 L 286.1,0.0 L 286.1,14.8 L 215.9,14.8 L 215.9,44.2 L 275.7,44.2 L 275.7,59.0 L 215.9,59.0 L 215.9,89.2 L 286.1,89.2 L 286.1,104.0 L 199.4,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 355.5,0.0 L 450.9,0.0 L 450.9,14.8 L 411.4,14.8 L 411.4,104.0 L 395.0,104.0 L 395.0,14.8 L 355.5,14.8 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 528.9,0.0 L 545.4,0.0 L 545.4,44.2 L 607.8,44.2 L 607.8,0.0 L 624.3,0.0 L 624.3,104.0 L 607.8,104.0 L 607.8,59.0 L 545.4,59.0 L 545.4,104.0 L 528.9,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 711.0,0.0 L 773.4,0.0 C 794.2,0.0 806.4,11.3 806.4,30.4 C 806.4,47.7 796.0,58.1 778.6,60.7 L 806.4,104.0 L 788.2,104.0 L 761.3,61.6 L 727.5,61.6 L 727.5,104.0 L 711.0,104.0 Z M 727.5,14.8 L 771.7,14.8 C 783.8,14.8 789.9,20.8 789.9,30.4 C 789.9,40.0 783.8,46.8 771.7,46.8 L 727.5,46.8 Z" fill="#FCFBFF" fill-rule="evenodd"/><path d="M 877.7,104.0 L 931.5,0.0 L 946.2,0.0 L 1000.0,104.0 L 981.8,104.0 L 938.85,19.1 L 895.9,104.0 Z" fill="#FCFBFF" fill-rule="evenodd"/></g>
+<rect x="616" y="888" width="210" height="48" rx="6" fill="#7446F5"/>
+<rect x="1092" y="520" width="440" height="496" rx="10" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="1.5"/>
+<rect x="1454" y="554" width="54" height="22" rx="4" fill="#5D2BE7"/>
+<line x1="1116" y1="590" x2="1508" y2="590" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="1454" y="616" width="54" height="22" rx="4" fill="#5D2BE7"/>
+<line x1="1116" y1="652" x2="1508" y2="652" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="1454" y="678" width="54" height="22" rx="4" fill="#5D2BE7"/>
+<line x1="1116" y1="714" x2="1508" y2="714" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="1454" y="740" width="54" height="22" rx="4" fill="#7446F5"/>
+<line x1="1116" y1="776" x2="1508" y2="776" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="1454" y="802" width="54" height="22" rx="4" fill="#7446F5"/>
+<line x1="1116" y1="838" x2="1508" y2="838" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="1454" y="864" width="54" height="22" rx="4" fill="#7446F5"/>
+<line x1="1116" y1="900" x2="1508" y2="900" stroke="#E2D9FA" stroke-width="1"/>
+<rect x="1454" y="926" width="54" height="22" rx="4" fill="#7446F5"/>
+<line x1="1116" y1="962" x2="1508" y2="962" stroke="#E2D9FA" stroke-width="1"/>
+<g transform="translate(104,556) scale(0.072)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<g transform="translate(616,556) scale(0.072)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+<text x="88" y="74.66" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="13" fill="#171327" letter-spacing="0.78px">AETHRA DESIGN SYSTEM  //  02.A — LOCKED COLOR PALETTE, PROPORTIONS &amp; WCAG ACCESSIBILITY</text>
+<text x="86" y="173.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#171327">SURFACE (PRIMARY)</text>
+<text x="86" y="333.32" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="26" fill="#171327">#FCFBFF</text>
+<text x="86" y="361.02" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="11" fill="#171327" fill-opacity="0.85">RGB 252, 251, 255</text>
+<text x="86" y="391.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">USAGE: 45% RATIO</text>
+<text x="296" y="173.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#171327">LAVENDER TINT</text>
+<text x="296" y="333.32" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="26" fill="#171327">#F2EDFF</text>
+<text x="296" y="361.02" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="11" fill="#171327" fill-opacity="0.85">RGB 242, 237, 255</text>
+<text x="296" y="391.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">USAGE: 20% RATIO</text>
+<text x="506" y="173.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#FFFFFF">VIOLET PRIMARY</text>
+<text x="506" y="333.32" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="26" fill="#FFFFFF">#7446F5</text>
+<text x="506" y="361.02" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="11" fill="#FFFFFF" fill-opacity="0.85">RGB 116, 70, 245</text>
+<text x="506" y="391.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FFFFFF">USAGE: 12% RATIO</text>
+<text x="716" y="173.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#FFFFFF">VIOLET DEEP</text>
+<text x="716" y="333.32" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="26" fill="#FFFFFF">#5D2BE7</text>
+<text x="716" y="361.02" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="11" fill="#FFFFFF" fill-opacity="0.85">RGB 93, 43, 231</text>
+<text x="716" y="391.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FFFFFF">USAGE: 8% RATIO</text>
+<text x="926" y="173.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#171327">VIOLET SOFT</text>
+<text x="926" y="333.32" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="26" fill="#171327">#B18CFE</text>
+<text x="926" y="361.02" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="11" fill="#171327" fill-opacity="0.85">RGB 177, 140, 254</text>
+<text x="926" y="391.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#171327">USAGE: 3% RATIO</text>
+<text x="1136" y="173.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#FCFBFF">DEEP INK</text>
+<text x="1136" y="333.32" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="26" fill="#FCFBFF">#171327</text>
+<text x="1136" y="361.02" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="11" fill="#FCFBFF" fill-opacity="0.85">RGB 23, 19, 39</text>
+<text x="1136" y="391.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FCFBFF">USAGE: 8% RATIO</text>
+<text x="1346" y="173.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#FFFFFF">MUTED INK</text>
+<text x="1346" y="333.32" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="26" fill="#FFFFFF">#615B73</text>
+<text x="1346" y="361.02" font-family="'IBM Plex Mono', sans-serif" font-weight="400" font-size="11" fill="#FFFFFF" fill-opacity="0.85">RGB 97, 91, 115</text>
+<text x="1346" y="391.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FFFFFF">USAGE: 4% RATIO</text>
+<text x="68" y="497.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7">LIGHT-FIRST PRIMARY APPLICATION (75%+ SURFACE AREA)</text>
+<text x="104" y="695.88" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#171327">Engineered clarity on</text>
+<text x="104" y="733.96" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#171327">airy light surfaces.</text>
+<text x="104" y="780.3" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#615B73">Primary body text uses Deep Ink (#171327)</text>
+<text x="104" y="803.55" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#615B73">with 17.4:1 AAA contrast, paired with</text>
+<text x="104" y="826.8" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#615B73">Muted Ink (#615B73) at 5.82:1 AA.</text>
+<text x="209" y="914.48" font-family="'Inter', sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" text-anchor="middle">Primary Action -&gt;</text>
+<text x="580" y="497.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7">INTENTIONAL DARK-CONTEXT COUNTERPART</text>
+<text x="616" y="695.88" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#FCFBFF">Quiet authority in</text>
+<text x="616" y="733.96" font-family="'Space Grotesk', sans-serif" font-weight="600" font-size="34" fill="#FCFBFF">dark environments.</text>
+<text x="616" y="780.3" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#A39BB8">Used selectively for developer consoles,</text>
+<text x="616" y="803.55" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#A39BB8">code blocks, and dark-mode interfaces</text>
+<text x="616" y="826.8" font-family="'Inter', sans-serif" font-weight="400" font-size="15" fill="#A39BB8">without losing the violet brand DNA.</text>
+<text x="721" y="914.48" font-family="'Inter', sans-serif" font-weight="600" font-size="14" fill="#FFFFFF" text-anchor="middle">Explore System -&gt;</text>
+<text x="1092" y="497.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#5D2BE7">WCAG 2.1 CONTRAST MATRIX</text>
+<text x="1116" y="566.66" font-family="'Inter', sans-serif" font-weight="500" font-size="13" fill="#171327">Ink (#171327) on Surface (#FCFBFF)</text>
+<text x="1440" y="565.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#615B73" text-anchor="end">17.4 : 1</text>
+<text x="1481" y="567.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FFFFFF" text-anchor="middle">AAA</text>
+<text x="1116" y="628.66" font-family="'Inter', sans-serif" font-weight="500" font-size="13" fill="#171327">Surface (#FCFBFF) on Ink (#171327)</text>
+<text x="1440" y="627.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#615B73" text-anchor="end">17.4 : 1</text>
+<text x="1481" y="629.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FFFFFF" text-anchor="middle">AAA</text>
+<text x="1116" y="690.66" font-family="'Inter', sans-serif" font-weight="500" font-size="13" fill="#171327">Ink (#171327) on Lavender (#F2EDFF)</text>
+<text x="1440" y="689.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#615B73" text-anchor="end">15.2 : 1</text>
+<text x="1481" y="691.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FFFFFF" text-anchor="middle">AAA</text>
+<text x="1116" y="752.66" font-family="'Inter', sans-serif" font-weight="500" font-size="13" fill="#171327">Muted Ink (#615B73) on Surface</text>
+<text x="1440" y="751.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#615B73" text-anchor="end">5.82 : 1</text>
+<text x="1481" y="753.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FFFFFF" text-anchor="middle">AA</text>
+<text x="1116" y="814.66" font-family="'Inter', sans-serif" font-weight="500" font-size="13" fill="#171327">White (#FFFFFF) on Violet Deep (#5D2BE7)</text>
+<text x="1440" y="813.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#615B73" text-anchor="end">5.71 : 1</text>
+<text x="1481" y="815.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FFFFFF" text-anchor="middle">AA</text>
+<text x="1116" y="876.66" font-family="'Inter', sans-serif" font-weight="500" font-size="13" fill="#171327">Violet Deep (#5D2BE7) on Surface</text>
+<text x="1440" y="875.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#615B73" text-anchor="end">5.58 : 1</text>
+<text x="1481" y="877.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FFFFFF" text-anchor="middle">AA</text>
+<text x="1116" y="938.66" font-family="'Inter', sans-serif" font-weight="500" font-size="13" fill="#171327">White (#FFFFFF) on Violet Primary</text>
+<text x="1440" y="937.84" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="12" fill="#615B73" text-anchor="end">4.52 : 1</text>
+<text x="1481" y="939.02" font-family="'IBM Plex Mono', sans-serif" font-weight="600" font-size="11" fill="#FFFFFF" text-anchor="middle">AA</text>
+</svg>

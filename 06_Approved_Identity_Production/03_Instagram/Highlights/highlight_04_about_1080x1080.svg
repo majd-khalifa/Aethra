@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+<defs>
+<linearGradient id="aethra-violet-grad" x1="12%" y1="86%" x2="84%" y2="28%"><stop offset="0%" stop-color="#B18CFE"/><stop offset="48%" stop-color="#7446F5"/><stop offset="100%" stop-color="#5D2BE7"/></linearGradient>
+<style>@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap');</style>
+</defs>
+<rect x="0" y="0" width="1080" height="1080" fill="#FCFBFF"/>
+<polygon points="734.4,1080 1036.8,0 1080,0 1080,1080" fill="#F2EAFF" fill-opacity="0.75"/>
+<polygon points="680.4,1080 1080,388.8 1080,1080" fill="#E8DCFF" fill-opacity="0.65"/>
+<polygon points="0,594.0 518.4,1080 0,1080" fill="#F3ECFF" fill-opacity="0.7"/>
+<polygon points="0,820.8 259.2,1080 0,1080" fill="#E6D8FF" fill-opacity="0.65"/>
+<circle cx="540" cy="540" r="440" fill="#FFFFFF" stroke="#E2D9FA" stroke-width="4"/>
+<circle cx="540" cy="540" r="396" fill="none" stroke="#7446F5" stroke-width="2" stroke-opacity="0.35"/>
+<g transform="translate(310,310) scale(0.46)"><path d="M 500.0,140.0 L 900.0,860.0 L 584.0,860.0 L 549.2,797.4 L 792.2,797.4 L 696.2,624.6 L 100.0,860.0 Z M 500.0,269.6 L 253.8,712.8 L 660.9,559.2 Z" fill="url(#aethra-violet-grad)" fill-rule="evenodd"/></g>
+</svg>

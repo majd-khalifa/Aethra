@@ -1,0 +1,155 @@
+{
+  "$schema": "https://tr.designtokens.org/format/",
+  "brand": {
+    "name": "AETHRA",
+    "tagline_primary": "From the unseen to the extraordinary.",
+    "tagline_secondary": "Turning vision into technology.",
+    "industry": "Software Development & Digital Technology Services",
+    "concept": "The Architecture of the Unseen — Phase-Shift from Negative Space (Abstraction) to Geometric Precision (Engineered Structure)"
+  },
+  "color": {
+    "primary": {
+      "aethra_cobalt": {
+        "value": "#1838E0",
+        "rgb": "rgb(24, 56, 224)",
+        "hsl": "hsl(230, 81%, 49%)",
+        "cmyk": "C89 M75 Y0 K12",
+        "role": "Primary brand signature, key structural panels, active interactive states, architectural focal blocks",
+        "recommended_usage_proportion": "20% - 25%"
+      }
+    },
+    "secondary": {
+      "signal_vermilion": {
+        "value": "#E84A27",
+        "rgb": "rgb(232, 74, 39)",
+        "hsl": "hsl(11, 81%, 53%)",
+        "cmyk": "C0 M68 Y83 K9",
+        "role": "Architectural datum lines, phase-shift markers, primary call-to-action triggers, critical highlights",
+        "recommended_usage_proportion": "5% - 8%"
+      }
+    },
+    "neutral": {
+      "warm_alabaster": {
+        "value": "#F5F3EE",
+        "rgb": "rgb(245, 243, 238)",
+        "hsl": "hsl(43, 23%, 95%)",
+        "cmyk": "C0 M1 Y3 K4",
+        "role": "Primary light background surface, editorial canvas, negative-space counterforms, dark-mode primary typography",
+        "recommended_usage_proportion": "35% - 45%"
+      },
+      "carbon_ink": {
+        "value": "#0D1017",
+        "rgb": "rgb(13, 16, 23)",
+        "hsl": "hsl(222, 28%, 7%)",
+        "cmyk": "C43 M30 Y0 K91",
+        "role": "Primary dark background surface, primary typography on light surfaces, monochrome mark, dark-mode interfaces",
+        "recommended_usage_proportion": "25% - 30%"
+      }
+    },
+    "supporting": {
+      "limestone_grid": {
+        "value": "#E4E1D8",
+        "rgb": "rgb(228, 225, 216)",
+        "role": "Structural grid hairlines, subtle container borders, secondary surface cards on Warm Alabaster"
+      },
+      "graphite_slate": {
+        "value": "#5A6072",
+        "rgb": "rgb(90, 96, 114)",
+        "role": "Secondary body copy, captions, technical metadata, muted UI labels on light surfaces"
+      },
+      "obsidian_surface": {
+        "value": "#161B26",
+        "rgb": "rgb(22, 27, 38)",
+        "role": "Elevated modular cards, code blocks, and structural containers on Carbon Ink dark surfaces"
+      },
+      "slate_hairline_dark": {
+        "value": "#232A3B",
+        "rgb": "rgb(35, 42, 59)",
+        "role": "1px structural grid lines and dividers on Carbon Ink dark surfaces"
+      }
+    }
+  },
+  "typography": {
+    "primary_display": {
+      "family": "Space Grotesk",
+      "designer": "Florian Karsten",
+      "license": "SIL Open Font License 1.1 (Commercial & Open-Source Ready)",
+      "weights": [500, 600, 700],
+      "role": "Headlines, display statements, architectural section headers, numeric counters"
+    },
+    "secondary_body": {
+      "family": "Inter",
+      "designer": "Rasmus Andersson",
+      "license": "SIL Open Font License 1.1 (Commercial & Open-Source Ready)",
+      "weights": [400, 500, 600],
+      "role": "Body copy, editorial paragraphs, user interface controls, subheadings"
+    },
+    "technical_monospace": {
+      "family": "IBM Plex Mono",
+      "designer": "Mike Abbink (Bold Monday)",
+      "license": "SIL Open Font License 1.1 (Commercial & Open-Source Ready)",
+      "weights": [400, 500, 600],
+      "role": "Index labels, system architecture diagrams, API specifications, grid coordinates"
+    },
+    "hierarchy": {
+      "display_hero": {
+        "font": "Space Grotesk",
+        "weight": 600,
+        "size": "56px - 72px (3.5rem - 4.5rem)",
+        "line_height": 1.04,
+        "tracking": "-0.03em"
+      },
+      "h1_headline": {
+        "font": "Space Grotesk",
+        "weight": 600,
+        "size": "40px - 48px (2.5rem - 3.0rem)",
+        "line_height": 1.08,
+        "tracking": "-0.025em"
+      },
+      "h2_section": {
+        "font": "Space Grotesk",
+        "weight": 500,
+        "size": "28px - 32px (1.75rem - 2.0rem)",
+        "line_height": 1.15,
+        "tracking": "-0.015em"
+      },
+      "h3_subheading": {
+        "font": "Inter",
+        "weight": 500,
+        "size": "20px - 22px (1.25rem - 1.375rem)",
+        "line_height": 1.35,
+        "tracking": "-0.01em"
+      },
+      "body_regular": {
+        "font": "Inter",
+        "weight": 400,
+        "size": "16px - 18px (1.0rem - 1.125rem)",
+        "line_height": 1.6,
+        "tracking": "0em"
+      },
+      "technical_label": {
+        "font": "IBM Plex Mono",
+        "weight": 500,
+        "size": "12px - 13px (0.75rem - 0.8125rem)",
+        "line_height": 1.4,
+        "tracking": "+0.08em",
+        "transform": "uppercase"
+      }
+    }
+  },
+  "logo_geometry": {
+    "selected_concept": "Concept 01 — The Emergent Counterform (Architectural Cantilever)",
+    "grid_module": "120x120 base coordinate matrix (8u structural sub-grid)",
+    "structural_angle": "69.44 degrees (8:3 vertical-to-horizontal rise ratio)",
+    "phase_channel_width": "12 units (10% of symbol height)",
+    "clear_space_rule": "Minimum clear space around all sides equals X, where X is the height of the cantilevered crossbar (or 25% of total mark height).",
+    "minimum_sizes": {
+      "symbol_only_digital": "16px x 16px (favicon / compact UI)",
+      "symbol_only_print": "5mm x 5mm",
+      "horizontal_lockup_digital": "110px width",
+      "horizontal_lockup_print": "28mm width",
+      "stacked_lockup_digital": "72px width",
+      "stacked_lockup_print": "20mm width"
+    }
+  }
+}
