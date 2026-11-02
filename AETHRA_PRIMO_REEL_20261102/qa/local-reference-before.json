@@ -1,0 +1,2429 @@
+{
+  "reference_root": "D:\\MAJD Files\\Projects\\Collage Projects\\Production_Ready_Projects\\Primo",
+  "frameworks": [
+    "Flutter / Dart (frontend)",
+    "Laravel / PHP (backend)"
+  ],
+  "files": [
+    {
+      "path": "frontend/Primo/lib/core/di/service_locator.dart",
+      "sha256": "ee6b57f159466c4a681cd8ebe1ae56112e1cd0a5a7196cb6df0891ed8e8bd709",
+      "bytes": 25422
+    },
+    {
+      "path": "frontend/Primo/lib/core/helper/app_validators.dart",
+      "sha256": "5e188eaa5d9acd5bb8c733a39b92abcab55176e6ceeec629368ba6ca0ddaed28",
+      "bytes": 2904
+    },
+    {
+      "path": "frontend/Primo/lib/core/helper/navigation.dart",
+      "sha256": "7eeda9b3d6934237ed2ecbfdfc3d9cb80a42deba7ec004fa8b20818a34e6ec3d",
+      "bytes": 1368
+    },
+    {
+      "path": "frontend/Primo/lib/core/helper/phone_helper.dart",
+      "sha256": "70065bb56142eaddde87d6ffd7f97c345beec8dfac944d72ec2b7b06e797f2ef",
+      "bytes": 453
+    },
+    {
+      "path": "frontend/Primo/lib/core/helper/snack_bar_helper.dart",
+      "sha256": "ea3b2218402db1d9d45d826f109a7b30a84c65fc09470aa2fec4154a3d60532a",
+      "bytes": 1904
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/category_model.dart",
+      "sha256": "07d2ee2359387bcab83f6718fdea7f27b085ffafda0b98d3666710d6212f682f",
+      "bytes": 1123
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/category_model.g.dart",
+      "sha256": "32340e3859914a3d0fa4b4a673cdb4d6839fb81d718344933a92a64663943935",
+      "bytes": 693
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/offer_model.dart",
+      "sha256": "ac171ade3a1d769875e269f96434841ec2d0796ca84f361e54fa0887d3c2c4d5",
+      "bytes": 3429
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/offer_model.g.dart",
+      "sha256": "c419226d7338cf4012d4316b1a7eddb89e6b127160490d1a31c044613d2be5fb",
+      "bytes": 1138
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/order_item_model.dart",
+      "sha256": "5ff0eb36c3eccf6a2f5e4d49f04b0b5d1aaaaba144ae6efff3693e4039b6d561",
+      "bytes": 51
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/order_model.dart",
+      "sha256": "6ff128785ecfe175b22d5c27fc9d9cca5b17d9792c4aeea38ae3e91493dd563c",
+      "bytes": 10211
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/product_model.dart",
+      "sha256": "31bbb25b02ef566cbd7960dfe90b6538d8fe989a8cfe2481ce92b72141b95ea4",
+      "bytes": 7489
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/product_model.g.dart",
+      "sha256": "d538dbd7b8ae04dfb99bc3287e6ac82e0367445dc6371bbd356b2e71cb2f1761",
+      "bytes": 1811
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/user_model.dart",
+      "sha256": "852600c478c3b24007be5954215317d032396f26b962275d78f767c85d54e824",
+      "bytes": 1122
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/user_model.g.dart",
+      "sha256": "c3354844c6a11f262da038da340be89104a96e95f0afb3e3ec06c92c1d4e87ad",
+      "bytes": 846
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/variant_model.dart",
+      "sha256": "7fd82cc043a44ce5e0b4d0e251a4b3ce7c513a93b2e06e344fc6e9863514cd89",
+      "bytes": 4336
+    },
+    {
+      "path": "frontend/Primo/lib/core/models/variant_model.g.dart",
+      "sha256": "92a773e1556e66d3b0d5f287944949e8c5fdcd4e64a529540cc6b980ba683900",
+      "bytes": 1457
+    },
+    {
+      "path": "frontend/Primo/lib/core/network/api_constant.dart",
+      "sha256": "5ba49b12ee4647b85391a8673f554804a36e29d15a738be2e59a05f9341e68bf",
+      "bytes": 2832
+    },
+    {
+      "path": "frontend/Primo/lib/core/network/api_consumer.dart",
+      "sha256": "cc35e18f2e83e6001fcacf824c097cbbc6be2df89df14a59f23a782a1c0529d5",
+      "bytes": 4454
+    },
+    {
+      "path": "frontend/Primo/lib/core/network/api_error_handler.dart",
+      "sha256": "ac0f6dc1fe6d2ff73627985a6c72634a338d4b72bcd6da602cb8a5c713182745",
+      "bytes": 5131
+    },
+    {
+      "path": "frontend/Primo/lib/core/network/app_storage.dart",
+      "sha256": "585cda4f0f7bc8b5738defccb27c8fe783661123e088f2ff71ca1530ec4ba2e6",
+      "bytes": 7404
+    },
+    {
+      "path": "frontend/Primo/lib/core/network/dio_factory.dart",
+      "sha256": "10867a6d33086daa36cf7f462f50b7192a43b911661a22e95e6cbbc4ce7cb6a8",
+      "bytes": 3161
+    },
+    {
+      "path": "frontend/Primo/lib/core/routing/app_routes.dart",
+      "sha256": "66a3a56a6df601ef4f2e23bcf20cc5c41e3a2f58e1a81355d91d672859c32216",
+      "bytes": 30259
+    },
+    {
+      "path": "frontend/Primo/lib/core/routing/otp_enum.dart",
+      "sha256": "9b82f18266097462c6e37f8529c2960d2778174ff092065a900120243bdc7508",
+      "bytes": 418
+    },
+    {
+      "path": "frontend/Primo/lib/core/routing/routes.dart",
+      "sha256": "1dbc0134f7aec079d779719c4f88eff91d811c1b1d4a7468438ccd366c09f517",
+      "bytes": 2764
+    },
+    {
+      "path": "frontend/Primo/lib/core/services/firebase_messaging_service.dart",
+      "sha256": "eb983aa85d4f5cab890bb084e727ad826106be0f191c563523079ac762f1e5ef",
+      "bytes": 6198
+    },
+    {
+      "path": "frontend/Primo/lib/core/services/google_maps_service.dart",
+      "sha256": "9cfdf4efba536f1c4dd7dd15978887bdbcec134892ebe007731d3f3ef7425fed",
+      "bytes": 4438
+    },
+    {
+      "path": "frontend/Primo/lib/core/utils/appcolor/app_colors.dart",
+      "sha256": "6a21f13007304f3bc05fabe083f89b8017f712ab762d9fcb43272d8933ee3f4b",
+      "bytes": 2008
+    },
+    {
+      "path": "frontend/Primo/lib/core/utils/apptextstyle/app_text_style.dart",
+      "sha256": "921a02c917400f0b8105736717627b8e2f6fc3fb02948fdb0a1a50b9e397dd5f",
+      "bytes": 1585
+    },
+    {
+      "path": "frontend/Primo/lib/core/utils/theme/app_theme.dart",
+      "sha256": "dae67723a81db131a4a9dafcd4d941934cce4475b3d8b42ecd8b8b6dcd58b537",
+      "bytes": 717
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/admin_drawer.dart",
+      "sha256": "9c59c952cd3d7cafc4c2178b02c46a56c9a7bd486f270ad1d67b3018138d419b",
+      "bytes": 11699
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/app_button.dart",
+      "sha256": "e94bd26687df88368b4d33d3973fd6c73bc9d85eeb4a1ab702275870001b91b0",
+      "bytes": 2444
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/app_cached_network_image.dart",
+      "sha256": "401a8da88f8f19cf131755561f84434f83bd8a31c4e4c5d065ffae92c44dbf90",
+      "bytes": 2110
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/app_empty_state.dart",
+      "sha256": "cdd50906b417558d3db68cd0b97cee46537dc48009cdabd38e33ed46f5b2e744",
+      "bytes": 2602
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/app_error_widget.dart",
+      "sha256": "0c86f993a4f0bfaee74320a63de2af722a532b5d27c9bd5a9b8b6a62f8378507",
+      "bytes": 1614
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/app_shimmer.dart",
+      "sha256": "b783849d14caa87dc7017125f77c0e5cc073ab0d56938380e6185e8799baeef9",
+      "bytes": 1860
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/app_shimmer_skeletons.dart",
+      "sha256": "dd42a9e7a821ffab5bdac229c155dcea7a457956a653e59da63d5f9226f0b6ba",
+      "bytes": 12014
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/app_text_form_field.dart",
+      "sha256": "4fc5ca53cde27111cc4002e0848987826a0989db766c50c3a129e5c754923572",
+      "bytes": 5545
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/custom_app_bar.dart",
+      "sha256": "083a21d06f675cc710c94736fe7adaec2d65a56be6d605708158148d67f24ce1",
+      "bytes": 3257
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/custom_counter.dart",
+      "sha256": "5a7c95aaff322bf28c0e930870e148604747776a57374a370aa9e6ed13f4107f",
+      "bytes": 1965
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/custom_error_retry_widget.dart",
+      "sha256": "f4bd29feec6e04e66cb5ff0d9e0582bae483cdce7be78a68cafb36dc4f3f9b55",
+      "bytes": 2554
+    },
+    {
+      "path": "frontend/Primo/lib/core/widgets/profile_image_holder.dart",
+      "sha256": "4d6d418f665c0010246e1401f8815efb611bd8cf48ea952f0ec5bb568e1dcd91",
+      "bytes": 3542
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/data/models/address_model.dart",
+      "sha256": "0ed7d59ac6080cb908ee345a4fd30fee3f290572838b501f3e71745752722734",
+      "bytes": 2203
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/data/models/address_request_body.dart",
+      "sha256": "8a3691730ea887944e91de6f22385cb3beafcbe0363f3e9abd06fbbbba33a27f",
+      "bytes": 1329
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/data/models/address_response.dart",
+      "sha256": "91e823ce7bb4eb82ce28d6d308df5cb3d493d9a94a64f067aa9cd56c1e45ab0b",
+      "bytes": 1350
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/data/repos/addresses_repo_impl.dart",
+      "sha256": "8f18faa06a5e4a9b493e1c527ea407e9d46e195eaef3e56e17fa6b1a2a9b988f",
+      "bytes": 3144
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/domain/repo/addresses_repo.dart",
+      "sha256": "086ea5feb16b26961195fc8054409501deca23329640f27a1fd01e242a031efd",
+      "bytes": 724
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/domain/usecases/create_address_usecase.dart",
+      "sha256": "8ea04c0e425d73056d3f63076d586f2dcacfa4b937f1db08bb49c6e49daeaf20",
+      "bytes": 474
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/domain/usecases/delete_address_usecase.dart",
+      "sha256": "f3b4cefeb8ac49655f0f455ca1f230cacc6d630bbb5fa293fe2c6b78bf1b5f49",
+      "bytes": 401
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/domain/usecases/get_address_by_id_usecase.dart",
+      "sha256": "7905a2251a2e0536bf2705818cc7ac76abefe98e62a92ae2fde6bddbd260c7cf",
+      "bytes": 404
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/domain/usecases/get_addresses_usecase.dart",
+      "sha256": "2225d65b77fc1a3286d5f4f63b43644707f41e675b7f60f11ef23e3cdd19466e",
+      "bytes": 388
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/domain/usecases/get_default_address_usecase.dart",
+      "sha256": "21bf0484643d35b20866f6893d3ca4c0e7783b1c502ee0164a7ec15a4454ce5b",
+      "bytes": 232
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/domain/usecases/save_default_address_usecase.dart",
+      "sha256": "9830816608cdd87983c57983d0e7d7472644339978d6c519987a158e5ce937db",
+      "bytes": 243
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/domain/usecases/update_address_usecase.dart",
+      "sha256": "f0ff908e877d14e27b7ae3cf74b53e77b6a20d5111a6f908e4db5336887b42b0",
+      "bytes": 486
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/presentation/bloc/adresses_cubit.dart",
+      "sha256": "8071f7a0e592b109168a70f5eff81fa65bc6ea2ab6d76109810382d84aa790d4",
+      "bytes": 6011
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/presentation/bloc/adresses_state.dart",
+      "sha256": "8a89c9c4bcb26ace8782bb900dc52051cdaa85923638d8eb6f40ae4d02134bc8",
+      "bytes": 1225
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/presentation/screen/map_picker_screen.dart",
+      "sha256": "4ce1db4afb022c47626537f1aa475d70b289d4a1a694a86a078faf37c11bdb23",
+      "bytes": 8986
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/presentation/screen/saved_addresses_screen.dart",
+      "sha256": "2e761bf9d1370351e16de582e143096b91ffb2ae1a52fe43492f7115227ea951",
+      "bytes": 6194
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/presentation/widgets/add_edit_address_sheet.dart",
+      "sha256": "44cfa21f1a688fcd042b420c8fb55f6a8426df902bbd3994b540c1ea8cd4240d",
+      "bytes": 17138
+    },
+    {
+      "path": "frontend/Primo/lib/feature/addresses/presentation/widgets/address_card.dart",
+      "sha256": "537f5869cfbcb9535c666175f15a4d767ca0d2b0266e518ed49daee855e08f79",
+      "bytes": 7387
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/data/models/add_category_request_body.dart",
+      "sha256": "ffe38bcc0fe9ac2df2a795569c1ba16d3bdecedca592240162a06c2b45eca39c",
+      "bytes": 515
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/data/models/update_category_request_body.dart",
+      "sha256": "7ea8f704a6b2f5a2e0debff770692ae072828bc7f6421689278d5503e2e1995e",
+      "bytes": 516
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/data/repos/admin_category_repo_impl.dart",
+      "sha256": "e4bd47418dbfb4455e56c730c01e50dbd4defeccd64f53178fe1ea7b453cc3ab",
+      "bytes": 3403
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/domain/repo/admin_category_repo.dart",
+      "sha256": "d50c87fc2dd37cdebf5ec94c98869f6816ecf4cf7c6939eac356eaa7794a0722",
+      "bytes": 786
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/domain/usecases/add_category_usecase.dart",
+      "sha256": "98a95b6ecacf1d0fea3ca691de016f7e330ffbbf6d2b88be234978d2fe85837d",
+      "bytes": 508
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/domain/usecases/manage_category_usecase.dart",
+      "sha256": "a8f80ba3481d957cf001f54089b751b24b9ea040615b0ac2e4c5ff803be27a02",
+      "bytes": 956
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/presentation/cubit/admin_categories_list_cubit.dart",
+      "sha256": "9610d21366a1dde02002e94cf9f34db16ca9905d5242ba0cd8bc1de9d85c8c4e",
+      "bytes": 2900
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/presentation/cubit/admin_categories_list_state.dart",
+      "sha256": "49383e10cd46bc41e9713db1bd7157ce895ccd65621f4808c046b21caf248de4",
+      "bytes": 1022
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/presentation/cubit/admin_category_cubit.dart",
+      "sha256": "5e05dc41c6ad328cf5ce98dae0b72c734663b70663d39725bf1679a048bc87d2",
+      "bytes": 3351
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/presentation/cubit/admin_category_state.dart",
+      "sha256": "707914c119c81a9be4cb5e3f576b836bc1f73086957e14d3cadfaf4e03a0705b",
+      "bytes": 936
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/presentation/screen/add_category_screen.dart",
+      "sha256": "02bba9d43d826e8d10c6538c8375317413e015805f44c1d45b20ccfa7f9b38df",
+      "bytes": 7201
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/presentation/screen/admin_categories_screen.dart",
+      "sha256": "126eb3c92189e602b8af80e66c060c9c723b71cdd3360a8784f6dac846045be0",
+      "bytes": 11554
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/presentation/screen/admin_category_products_screen.dart",
+      "sha256": "5df273c482d665de6c1bad4a78d80a07ded2a7494f29c86ef44ade17fc06c1bf",
+      "bytes": 10947
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/presentation/widgets/category_card.dart",
+      "sha256": "cb8e35f7e104a2a69d5d45ab477d7557b70fb3364234d6942eaede4ab5aeee21",
+      "bytes": 7812
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_categories/presentation/widgets/category_image_upload.dart",
+      "sha256": "eda4038b55942f2782f8d6c19b0974e20f549e8490b34f7f6423da66fed65b38",
+      "bytes": 5471
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/data/models/admin_dashboard_model.dart",
+      "sha256": "09816c723c41695af49b145dd99ceae6858866c7e5a0ac584e3a27c9f5fc3187",
+      "bytes": 3159
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/data/repos/admin_dashboard_repo_impl.dart",
+      "sha256": "931a5d7cacd126ceb0c8ba542c915f3fd071a2117215b5f15c0e8fc080376e18",
+      "bytes": 1063
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/domain/repos/admin_dashboard_repo.dart",
+      "sha256": "502095e24a5ae43c8e2403427c61f705d1784c2da2cfd9b9b202862adbb44773",
+      "bytes": 279
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/domain/usecases/get_admin_dashboard_usecase.dart",
+      "sha256": "5b7e99d0583de13ee1c823ef5561d77bab6010c8b9d5766a9c694fd6c7d50fbf",
+      "bytes": 476
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/cubit/admin_dashboard_cubit.dart",
+      "sha256": "2e833bcafaf71436f954eec486fb063ef44799cef090c4f34d6eaa777a46d095",
+      "bytes": 820
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/cubit/admin_dashboard_state.dart",
+      "sha256": "3d39b7bed9489041091730f34a2b32343ec06666cc43c91c78e2e8ee982ae1ca",
+      "bytes": 761
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/screen/admin_home_screen.dart",
+      "sha256": "48327cc738b71091e1889f9f75288a576d1146f98ac53d82faeb29d902c93dfc",
+      "bytes": 5010
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/widgets/admin_dollar_card.dart",
+      "sha256": "6054ac4e0800a6b45e7bbbbe6f98ee23123590e0a76e7aa7a68096f641a2159c",
+      "bytes": 8778
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/widgets/admin_stats_section.dart",
+      "sha256": "359af1bf14c028241a7237c8625cc3b36364189b4703dcf20796288d5393739d",
+      "bytes": 2074
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/widgets/customer_suggestions_section.dart",
+      "sha256": "05e9ca08e07801b71a25a095ed55f294d6a49a1e65c10688be73c3b5763bf480",
+      "bytes": 2626
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/widgets/incoming_orders_section.dart",
+      "sha256": "e300db36ae5c5002e8512635a3d68c6915c20f5c8d1d36529fd012927a044ed8",
+      "bytes": 3901
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/widgets/order_card.dart",
+      "sha256": "b51322e967bf1e740aea9653eb7a676b9f838dabb0f8b0cba940df3f68ec43a9",
+      "bytes": 6134
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/widgets/section_header.dart",
+      "sha256": "9c25632e4f9550b3f6c214b5513d85f97d488ec0ee688b8e6f410d8a0c0855f6",
+      "bytes": 1053
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/widgets/stat_card.dart",
+      "sha256": "f05cf38aeac6e9ecadbacf5d45947324271589ce79eede1b2c4600cd75ef1100",
+      "bytes": 2516
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_home/presentation/widgets/suggestion_card.dart",
+      "sha256": "3f26c501e9660f751ab057a4d07cc6f13e894645a3b0a3bce6727f6c5f81befc",
+      "bytes": 4180
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_notifications/presentation/screen/admin_notifications_history_screen.dart",
+      "sha256": "26fea5bdd177a194663f28f05916dc25fa87c943f86891f327e6bace556323d9",
+      "bytes": 1092
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/data/models/create_offer_request_body.dart",
+      "sha256": "acef9d6a41db139fdfd99ee8778170c316ab9979727082720087f9bfe7471ebc",
+      "bytes": 990
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/data/models/create_offer_response.dart",
+      "sha256": "d6537b4cfc118751c7b4f8dfd326881f036975f2ea9ef957f16e5d07c7d56b93",
+      "bytes": 1099
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/data/models/create_offer_response.g.dart",
+      "sha256": "f871c11a0975ecedc6dc02e407cfb16869faca5f19d2013570cf9f6d8e6558a6",
+      "bytes": 1377
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/data/models/update_offer_request_body.dart",
+      "sha256": "e92b73b8b75401b0d9edb27cb463c5998cb2fb83c9acd03e540155a5c91ac2e4",
+      "bytes": 1064
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/data/repos/admin_offers_repo_impl.dart",
+      "sha256": "718fe22e9830d4073e9a59e819d13e5d6efbfdeea64c36b5568482d6b253df14",
+      "bytes": 3767
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/domain/repo/admin_offers_repo.dart",
+      "sha256": "6ebed338f7b93f14b6906411ba49617edbfb466a4b3f5d0d20693340af9902ec",
+      "bytes": 879
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/domain/repos/admin_offers_repo.dart",
+      "sha256": "91f0af69fe0c75442ccb0f9ab13696ad49b1b62ea07a81b97fe10109e89ade6d",
+      "bytes": 688
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/domain/usecases/create_offer_usecase.dart",
+      "sha256": "99dae67cd46ed0293c1f28a7c23c5186b9f0a2d39a36c7a556d7c04c6fb616cc",
+      "bytes": 509
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/domain/usecases/manage_offers_usecase.dart",
+      "sha256": "b242e3f1e6f24cb605bc5fbbde5b34869e4691a89fe356451384bad33214ea6f",
+      "bytes": 1272
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/cubit/admin_offers_cubit.dart",
+      "sha256": "bed5a395faf190341a53a41b47fee1ef369e6e1c11a63a1843a859e92fc92a87",
+      "bytes": 12034
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/cubit/admin_offers_list_cubit.dart",
+      "sha256": "5d5d763ee7f93b9be6eb70c41d9b7480e979b12424d119d46473b443046a3bed",
+      "bytes": 3273
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/cubit/admin_offers_list_state.dart",
+      "sha256": "d9320e2bc5ec4ffb28daa9f470e504d1d67c01e69082b2fe4b545b2be1a93ed2",
+      "bytes": 946
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/cubit/admin_offers_state.dart",
+      "sha256": "71c6c5068c1d38109c9309bed84cac94ba760ab354a7009fb1d4b0997c0418a9",
+      "bytes": 1240
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/screen/admin_offers_screen.dart",
+      "sha256": "ef94ef3a91fedb355a9502c9909f1cdf87ca13532b224644b3e29ee39de8a22d",
+      "bytes": 24895
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/screen/create_offer_screen.dart",
+      "sha256": "7cf9dd48dc69720052033cd38ae54c64e59f85615a8d526312ac0370f650de49",
+      "bytes": 7626
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/widgets/calculation_card.dart",
+      "sha256": "ea9b4d04b2dd13177b94ce2d3102fe8aaa97e61ea34a2562a4449064fc078717",
+      "bytes": 4168
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/widgets/offer_date_selection.dart",
+      "sha256": "e7de74cbf40617c3d64c98e3d66f1ec8f12b0420f84765070e2bfb7601b64355",
+      "bytes": 4135
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/widgets/offer_product_dropdown.dart",
+      "sha256": "6c00605c554ef979e8f07b64e00b03826907c02b63123e0f201d1790615d4832",
+      "bytes": 27713
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/widgets/offer_submit_button.dart",
+      "sha256": "618492c01db79372a2eb2e8fc5f68912b416cf16f10711c0b9aba1ca8e2c3b4c",
+      "bytes": 2296
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_offers/presentation/widgets/offer_type_toggle.dart",
+      "sha256": "64475bdb0603966c97bc2caaae50e342cf32d4e087a6071a39b079f1c5888466",
+      "bytes": 3988
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/data/models/update_order_status_request.dart",
+      "sha256": "700c793ee51341acecf6fab9bb0819ae4f3df5b3f90bbc04032c0b644394c51d",
+      "bytes": 56
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/data/repos/admin_orders_repo_impl.dart",
+      "sha256": "1f7d2edf3e8471a125ff5940cf9eef6810ab838b74bdd89cb53272e66880d91d",
+      "bytes": 2906
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/domain/repo/admin_orders_repo.dart",
+      "sha256": "edee5667fb3944a451d879edf70779f20d0b6a3b783696dfd0db70236d7036c1",
+      "bytes": 419
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/domain/usecases/get_admin_order_details_usecase.dart",
+      "sha256": "d3e4124f2d27f98641c8a69bf11c867eddf71628fc92e9f08e426fab263e6b9e",
+      "bytes": 425
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/domain/usecases/get_admin_orders_usecase.dart",
+      "sha256": "f077e5fbe342add58ad3a896c47d123ac98bbf9645c402f4b3e390c5b5b1c8a1",
+      "bytes": 425
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/domain/usecases/update_order_status_usecase.dart",
+      "sha256": "5625bf107a852ae97fdd6d914478d6c4dc7db49d957eaba83080c7ee435c66f9",
+      "bytes": 388
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/presentation/cubit/admin_orders_cubit.dart",
+      "sha256": "cae752f8151203e8f89d69d9834b1d81cb672176a2d13e45dabadcfba6f5745b",
+      "bytes": 6618
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/presentation/cubit/admin_orders_state.dart",
+      "sha256": "016ed68033e0056c5a75710b9a4b2b048006cf826b00f52aac5e0998123c0d7e",
+      "bytes": 1323
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/presentation/screen/admin_order_details_screen.dart",
+      "sha256": "65e886761d7531b448482159a5516b66196284dcdc7d1ad1f7d6d440576c92e8",
+      "bytes": 7512
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/presentation/screen/admin_orders_screen.dart",
+      "sha256": "6b232e35a44a3ca5e7917cab1133e2ea823cab2982200d621d87fafec43d92c5",
+      "bytes": 13136
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/presentation/widgets/cost_summary_card.dart",
+      "sha256": "f555f07c9f8966b8f51dffb046c0c8992f2a2b017d6204a64af4ad13ab0c401a",
+      "bytes": 3308
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/presentation/widgets/customer_info_card.dart",
+      "sha256": "cf8a6a0d0fb933193f96e02ab0d772d89d18faf025bb63975e8b85f83defa58f",
+      "bytes": 6085
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/presentation/widgets/incoming_order_card.dart",
+      "sha256": "a2461c503306774a2b1ef0f20aca73dafe721984106acb1a5a4d1b1b1b09bf9f",
+      "bytes": 19405
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/presentation/widgets/order_status_tracker.dart",
+      "sha256": "f7aad8c6cd592fa6855556d6c688c02324ac6d8b31eeeaf674e48ae481326ba6",
+      "bytes": 7960
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/presentation/widgets/ordered_items_list.dart",
+      "sha256": "b04286205c783779fc4c1edb3219d437c8d547269c7e77f1da203661510ff7b7",
+      "bytes": 6228
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_orders/presentation/widgets/orders_tab_bar.dart",
+      "sha256": "fc70351528644bb78127db77a9e2d9f84fe67bac528ec9a8b1d7f2fc1ab74e14",
+      "bytes": 2096
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/data/models/add_product_request_body.dart",
+      "sha256": "4759880f8944b5be7cf367cc4a8d002c5831789a2a5a9f8fab32fa7c85287fd3",
+      "bytes": 1063
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/data/models/update_product_request_body.dart",
+      "sha256": "0be47a797393b1fdfccfd4b1fec0c3887ddd7df1f71b246de987f6ac098df932",
+      "bytes": 1263
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/data/repos/admin_product_repo_impl.dart",
+      "sha256": "4de013732f883235b3bd55337517af550609ee87244af7c7b630a10e3b87d881",
+      "bytes": 6071
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/domain/repo/admin_product_repo.dart",
+      "sha256": "705f5fb277759862f49b342040a38f9a6fcddd86f1a81a357c20bb6f5abefb8b",
+      "bytes": 1176
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/domain/usecases/get_categories_usecase.dart",
+      "sha256": "78438f20b20002d40a36e068c27c6b452c06ef0f3a0bc0cd33cd38b7b79f5a25",
+      "bytes": 464
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/domain/usecases/get_products_usecase.dart",
+      "sha256": "6e8e8e4721e4b7e21ad862b864483719f3f4301fdeb40886dc5bed474075ab93",
+      "bytes": 537
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/domain/usecases/manage_product_usecase.dart",
+      "sha256": "13d4db29b8a6b8746c2218984900f582df56e8948cce639cf5a4bc417544d814",
+      "bytes": 1392
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/cubit/admin_product_cubit.dart",
+      "sha256": "f74151046230b907ebefa26c81bdd0dc6bf8cb9ff413c54f37642af6f7be4c4c",
+      "bytes": 10145
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/cubit/admin_product_state.dart",
+      "sha256": "f95ddc8629f7aacc91ed9d36d216b60b41cd11e9d17c12873b513437bcea3643",
+      "bytes": 1049
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/cubit/admin_products_list_cubit.dart",
+      "sha256": "47e1615b2bfbcd289374235657663e83899f38cc2f3e553fb4a89d582bd104ab",
+      "bytes": 6382
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/cubit/admin_products_list_state.dart",
+      "sha256": "e6f01bc3261c54f43f3e44e089934db2fd63075e4f96494f609930244c3a22cc",
+      "bytes": 968
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/screen/add_product_screen.dart",
+      "sha256": "0e842cde0435457373ff3790e498c90501392d9138fd1061ff67e4bf808af6d4",
+      "bytes": 6098
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/screen/edit_product_screen.dart",
+      "sha256": "34fa96adc28419a0319d96bc3536629629dbf6db77c3538deec212c2f87bd1ca",
+      "bytes": 6301
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/widgets/bayan_variant_picker_sheet.dart",
+      "sha256": "4dcc4089abd40396dbdc96ffb53d48e80a300fc74e1787f84f64d6d0c344ed25",
+      "bytes": 15418
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/widgets/edit_image_section.dart",
+      "sha256": "c83a8b22cd75547123333cf25ce713876cec91b96f5b0b82aafc5b96ccef4d9a",
+      "bytes": 4541
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/widgets/edit_product_form.dart",
+      "sha256": "695120c2f6fe34cbe420c864b757da8c7bceacdeff936fcda52d40c3b2041ce9",
+      "bytes": 4052
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/widgets/image_upload_widget.dart",
+      "sha256": "691597da0a9e2c36d308904fcbdf7fa1d6310920dc527a40724af935e6dc7f2f",
+      "bytes": 4542
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/widgets/product_form_section.dart",
+      "sha256": "f70c408691bb553e16156fe4c2b0d0e72fc1a25c33ed524dbd2f99b52929684f",
+      "bytes": 4263
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/widgets/product_variants_section.dart",
+      "sha256": "23cbb14af77a8a8de4b8482119c14b7cd88d9771529f43565f6e19683d167c9a",
+      "bytes": 13631
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_product/presentation/widgets/stock_status_toggle.dart",
+      "sha256": "e9bb5933e8701140d783816b79920f123425ab3a299a5cb4d8b1f44664a338e4",
+      "bytes": 4138
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/data/models/store_settings_model.dart",
+      "sha256": "2347327e18ccc90a9ece0e426d04070cf708bccfd86aca5c8e57680900fe5871",
+      "bytes": 714
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/data/repos/admin_dollar_repo_impl.dart",
+      "sha256": "b53064909364c93c1fa2c68125862bbb54f6863888948753c73a26bc85d8222a",
+      "bytes": 1926
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/data/repos/store_settings_repo_impl.dart",
+      "sha256": "844e26b6e50529061f213e96ac081e361ec2cfb142d099db95cd151cc8621bcf",
+      "bytes": 1974
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/domain/repos/admin_dollar_repo.dart",
+      "sha256": "d3def62cdd5e1f7d26155823a89d56a1c21c61f2a8662858bc5b711cee0f39c8",
+      "bytes": 248
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/domain/repos/store_settings_repo.dart",
+      "sha256": "1ddc5a76f5f4a5245bd46f74f5a12d8d2937c7bc88059a896f26b6f49a3779af",
+      "bytes": 429
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/domain/usecases/add_store_address_usecase.dart",
+      "sha256": "3dcca2605defa016ab11fbe6e8b1e1e1f2b7ae2fc8f8e0d047612de0a548eb78",
+      "bytes": 502
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/domain/usecases/get_delivery_price_usecase.dart",
+      "sha256": "9d1546a70fc36c0049680c8b3ce02026e9c394da69711521bff871230fe021e7",
+      "bytes": 482
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/domain/usecases/update_delivery_price_usecase.dart",
+      "sha256": "1de555d127304932defbf549055a7e92267bd8dedcc21391fc7b8049b24348c6",
+      "bytes": 406
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/presentation/cubit/add_store_address_cubit.dart",
+      "sha256": "cf1f793b58f1a9ef59e3a85e0215e10927965cd87d9668b437f1f6cf2ca570b7",
+      "bytes": 1119
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/presentation/cubit/add_store_address_state.dart",
+      "sha256": "fd2393862701e1a931335ad85b97c8eef94080ce17c3abe6f85dc3e36619b084",
+      "bytes": 674
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/presentation/cubit/admin_dollar_cubit.dart",
+      "sha256": "cc8b565ee9b52f108740cf90fa849916b2d4306f8d3eda9404eb23b0b203b28a",
+      "bytes": 1701
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/presentation/cubit/admin_dollar_state.dart",
+      "sha256": "60781000b63d3c6324edb6e0b9f8a3c947c31d4ebcb681aa782012a75e12fc53",
+      "bytes": 650
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/presentation/cubit/admin_general_settings_cubit.dart",
+      "sha256": "f8c63acd017bf23895ceaf76a72a4c9a5ed5ac4a7c6a6de3bedde1e61c28b76b",
+      "bytes": 2394
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/presentation/cubit/admin_general_settings_state.dart",
+      "sha256": "8b3fdd439fea023b0b936b9afa3165b8af82a5a7bedd9bff6298e1333758c3f4",
+      "bytes": 818
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/presentation/cubit/store_settings_cubit.dart",
+      "sha256": "5da3e7e656ded33a7efce465ea37a466480ecbea1afc707abc9b0ad9e7df312a",
+      "bytes": 1321
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/presentation/cubit/store_settings_state.dart",
+      "sha256": "cf54969b238bb891eb592b501a34289e295c17daa99e5d5c11f41e8f6e97f01b",
+      "bytes": 1030
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/presentation/screen/admin_general_settings_screen.dart",
+      "sha256": "f2b49614a6f9a323808acb783a5b2a1e05a86f756f92544a675b5b7b32f2c044",
+      "bytes": 11139
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_settings/presentation/screen/admin_settings_screen.dart",
+      "sha256": "6b72c47afaee05bee6fa85c7f2511c388420bf63ec7769da5fe84a56d4ca4c24",
+      "bytes": 16210
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_suggestions/data/repos/admin_suggestions_repo_impl.dart",
+      "sha256": "de9a39a3e68f2c95a59f70cc13b957ba90eeac4ad274b6c444437ea09978fd8a",
+      "bytes": 2012
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_suggestions/domain/repo/admin_suggestions_repo.dart",
+      "sha256": "0ebbdb2f42ebd4b45665d8aff2b0fc95e4ab0de8055596549bcbc3b781e2d8be",
+      "bytes": 376
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_suggestions/domain/usecases/get_admin_suggestions_usecase.dart",
+      "sha256": "5fd3c219816854b62b565830a0000931e52e4fa00112bf5764eee96435b98047",
+      "bytes": 449
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_suggestions/domain/usecases/update_suggestion_status_usecase.dart",
+      "sha256": "9a6075339077a70291633a37e1d813c2738a3746bc8cc62c427ef4ee23c367a7",
+      "bytes": 417
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_suggestions/presentation/cubit/admin_suggestions_cubit.dart",
+      "sha256": "110fbb821ef8e08c7193bb4c45ac4bc94128ad44382d151bafb078e9ec59330b",
+      "bytes": 3817
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_suggestions/presentation/cubit/admin_suggestions_state.dart",
+      "sha256": "a83bf4f0ac0e4b735d24e07970aaa0a1a14a334d4041369fce865fa40d0c2b9a",
+      "bytes": 1276
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_suggestions/presentation/screen/admin_suggestions_screen.dart",
+      "sha256": "83033490bb3d201dfd8a91deede71d188946eb72b258f0c28c2d5218bb4809f4",
+      "bytes": 8974
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_suggestions/presentation/widgets/suggestion_item_card.dart",
+      "sha256": "df38e897a73f4a67d76e73dc30f568894b34f8e4c8f53ce629a045f96298f737",
+      "bytes": 8138
+    },
+    {
+      "path": "frontend/Primo/lib/feature/admin_suggestions/presentation/widgets/suggestions_filter_tabs.dart",
+      "sha256": "95e01c8cbfe334c280a027c1cb4fc40fdf00e63c3a2fa3b0fc68b42535a337b3",
+      "bytes": 1934
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/forget_password_request_body.dart",
+      "sha256": "042e559d4d39f9cd945fc92e1c2f818b288ac20d18c5a3eabf9f4f65e8eca6ca",
+      "bytes": 245
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/forget_password_response.dart",
+      "sha256": "b1263759a4bf48399f6159640882468e6124948b254ea61131152356b26f0293",
+      "bytes": 506
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/forget_password_response.g.dart",
+      "sha256": "7643a1a8d00e8c608ef517eec2c136e4598ea32c272da4e8e96a5126e62cb142",
+      "bytes": 708
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/login_request_body.dart",
+      "sha256": "6b4d1332d66ac0f91007a968b9a44b2c6c2c999b00aad0855a50e28208d9d51a",
+      "bytes": 519
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/login_response.dart",
+      "sha256": "f2b04c346372d1a54367a44e8fdda14a63d067eeb6a7c43b260160a38751a4e8",
+      "bytes": 1604
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/login_response.g.dart",
+      "sha256": "405dd27e757f1c38f3b768ab47e14592f4f30c753ce8ff26ba701eff9f3a6f79",
+      "bytes": 1580
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/otp_request_body.dart",
+      "sha256": "84d2eb3b4f1c0eb2a3940517e83e200465d480ead60491ea28204d0a46c978a7",
+      "bytes": 275
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/otp_response.dart",
+      "sha256": "3b06d2fcb8286773b9560159c2067c8079a64b0043ee70866d984d5fd20b1e3c",
+      "bytes": 982
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/otp_response.g.dart",
+      "sha256": "40d2e1bd8128481dccb16efecd05780f52386b75006464206e18b7269b1a96e2",
+      "bytes": 1250
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/register_request_body.dart",
+      "sha256": "bc8f496dae64fd6e1e28b62f6a315e4fb8b5d8f7bf8dea614ccdb59aa8fd994e",
+      "bytes": 702
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/register_response_body.dart",
+      "sha256": "dd09ee30a5a5230fa602b88e7cfd3480a6523b09906cf38241a186deb30890ea",
+      "bytes": 933
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/register_response_body.g.dart",
+      "sha256": "8fc2a55f96f7da537bf913b889beb6f3ed3bd5acebcffc18292b88efb1d4624f",
+      "bytes": 1212
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/resend_otp_request_body.dart",
+      "sha256": "3a070a9d89c2947af740408766d8f22c50488f118e28b626c3fe24bf644a7f4c",
+      "bytes": 350
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/models/reset_password_request_body.dart",
+      "sha256": "a4e6d7f90cd2b2fe4aaa2606297022ba0ea237a285d8db2789fae60af21c17c0",
+      "bytes": 467
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/data/repos/auth_repo_impl.dart",
+      "sha256": "55a11ed76288074f783beccbe5dd42ce0fed2a0e20f813c1eac58efdaf324665",
+      "bytes": 7422
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/repo/auth_repo.dart",
+      "sha256": "ed54e500ccd45e348a64c6819240bb282fe80f4ef9ed1554823c7d60113ee532",
+      "bytes": 1948
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/usecases/confirm_login_usecase.dart",
+      "sha256": "6fbf7892fcee7541c0916c60a25193180ef18296726649e8447962385bbedc6f",
+      "bytes": 552
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/usecases/delete_account_usecase.dart",
+      "sha256": "817993c7399303fa40971b671206915fe7e01ff5f11b9bafcf1c6bccdb450f33",
+      "bytes": 360
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/usecases/forgot_password_usecase.dart",
+      "sha256": "8f341a91ab9732487f5520d61275ca3fd03b3366897e5c5d5c4d57176de6613c",
+      "bytes": 637
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/usecases/log_out_usecase.dart",
+      "sha256": "c5e1df7e34ea9331b8618fdbc38ef923030555235f05795e1615ce89cad9fc67",
+      "bytes": 353
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/usecases/login_usecase.dart",
+      "sha256": "7e5efcd5c2860c004c505556b5eb47c239412956443ceaf9b2961bcd5b450269",
+      "bytes": 544
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/usecases/register_usecase.dart",
+      "sha256": "89858f26b5dea8c80534171ef55a0762faeb07f6a6312a1106ba7565c1ce3cf3",
+      "bytes": 576
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/usecases/resend_otp_usecase.dart",
+      "sha256": "71f03488ebab33eaeeeec298b3e40ad50518e1657781dd17d22b2527968dda34",
+      "bytes": 583
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/usecases/reset_password_use_case.dart",
+      "sha256": "1cb858bd83c8879e68dbc063c62f547e7508ea67b66ad37f11a90d33097c4889",
+      "bytes": 642
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/usecases/verify_forget_password_otp_usecase.dart",
+      "sha256": "4154be2ecdb6e2ab9efbae35542d749515951f466998d4a3e0b02e91343ae96e",
+      "bytes": 613
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/domain/usecases/verify_otp_usecase.dart",
+      "sha256": "5efc9f06f861a2030fbcc1efd8c1757d2a2f55bf27fecd5305d70113498005af",
+      "bytes": 557
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/cubit/forgot_password_cubit.dart",
+      "sha256": "b7392217b74e0040f3b7a20bacc84490895fd02ec54e60f9d99737d18a860166",
+      "bytes": 1257
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/cubit/forgot_password_state.dart",
+      "sha256": "b7c46c341a60d927d71ecb22f3dafaf4572d42ee1999e0b2e99f13fe518c66b8",
+      "bytes": 814
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/cubit/login_cubit.dart",
+      "sha256": "a2c0d7b03cbb7e76aecbefe9fc9c6b43b196fb33b5c6efb896cec7eab3a22ba3",
+      "bytes": 4107
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/cubit/login_state.dart",
+      "sha256": "be47de871dd345f353e23ffccfce222b255613cb51c69b5f6b8e2ebe27dd1107",
+      "bytes": 1229
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/cubit/otp_cubit.dart",
+      "sha256": "d52419a4a409e9019a022a9a00b23324a3e2df8ba1255bd8148df445b9663d0f",
+      "bytes": 7093
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/cubit/otp_state.dart",
+      "sha256": "45debf6406fc6e83682446a2cbb44faaeae6b6854340d924341fd53e882b5458",
+      "bytes": 1637
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/cubit/register_cubit.dart",
+      "sha256": "6c865fa3d9511028f66553af1bc377244c838a09189a5ff2a8e9304f94696f66",
+      "bytes": 3513
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/cubit/register_state.dart",
+      "sha256": "832c4c4d209a1ac4e4a5b3ff47d506099d08c021882b1ece7327cd637cb47060",
+      "bytes": 1606
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/cubit/reset_password_cubit.dart",
+      "sha256": "82f92e37f4e368670437a0e7c286f7427cdca213f99f7915cd6ba6a37713a9e2",
+      "bytes": 1830
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/cubit/reset_password_state.dart",
+      "sha256": "7f503a7160654e1a39f790f96850d0a203657dbcdf027b1ea54a1604a3c26b74",
+      "bytes": 1212
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/screens/forgot_password_screen.dart",
+      "sha256": "bec24a1e82a4efc497e5d7ce0fa459a0fadbb9ece676f11016827bb107d8b0e4",
+      "bytes": 8491
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/screens/login_screen.dart",
+      "sha256": "d9031bcb8b64fe5d6d23c0ad9dcf3cf55092053588f9690b4defda1b51263f7a",
+      "bytes": 6158
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/screens/otp_verification_screen.dart",
+      "sha256": "2e08de10b85fd9cc0c57fc09810f906da55df7519d0bb83c74b104d042d06f19",
+      "bytes": 7795
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/screens/register_screen.dart",
+      "sha256": "31608527eb8a266fa15f7c6b803ce75a645ec83d0431ff2a888382690c8378a8",
+      "bytes": 5366
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/screens/reset_password_screen.dart",
+      "sha256": "a3ec4f8a4457a26dcf126cdbf0d6a415c5553fddc9e58098f88c46f2b4c7520b",
+      "bytes": 9275
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/widgets/auth_password_field.dart",
+      "sha256": "6e3a03d8d00fd1b2fc5548b47a7dc98a7e238a5d87286f3b5c4b81555bd1ad6f",
+      "bytes": 3403
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/widgets/log_in_form.dart",
+      "sha256": "261648be086a697f9ffb71c7cf76998258512c0579952179f9c8f6a5e4c2156b",
+      "bytes": 5023
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/widgets/otp_input_row.dart",
+      "sha256": "bd9a7d9ce0bfcd7832af8782ef35c11136ec7e14b285937fe1d23d2f4713c9e7",
+      "bytes": 2808
+    },
+    {
+      "path": "frontend/Primo/lib/feature/auth/presentation/widgets/register_form.dart",
+      "sha256": "5a332386380cbdcd451712a165270101d071421496ef6902b525a533608a3c25",
+      "bytes": 9819
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/data/models/cart_item_model.dart",
+      "sha256": "5aadc7197afabfaa154a41f3182abf4765c246fa48113c0038f5422ad764609a",
+      "bytes": 3691
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/data/repos/cart_repo_impl.dart",
+      "sha256": "66d67520a500eefea7035de5eb06d31a8066a3e062cf0ced7bdc2c5a5c614c8c",
+      "bytes": 3263
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/domain/repos/cart_repo.dart",
+      "sha256": "374f39aa7bf39fe96002e3507b5d22907ac59d7f0e644beaa576e4ec34dcbf9c",
+      "bytes": 530
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/domain/usecases/add_to_cart_usecase.dart",
+      "sha256": "1879b49f0b8e9b9176b67a837c4aad8e1ebd4958c3a1367900cb1f550144cb64",
+      "bytes": 421
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/domain/usecases/delete_from_cart_usecase.dart",
+      "sha256": "b342049efe1f2508cbcbab8563e715b54a4b26c06d98ff938c2b9ea35e14b1e9",
+      "bytes": 366
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/domain/usecases/get_cart_usecase.dart",
+      "sha256": "c9cf44d54d89e0c66b5b364a71b8a9cdaa1f513aab5f9d88ebbb29ff0ad35679",
+      "bytes": 412
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/domain/usecases/update_cart_quantity_usecase.dart",
+      "sha256": "463e11f4fcc577c2a88e45ba2de297e80bd30b58f50a298317758f9630be7503",
+      "bytes": 442
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/presentation/cubit/cart_cubit.dart",
+      "sha256": "78b1bf23e6b775393bf639cf43b436216df666ddcabaa61ffb05c71964410a49",
+      "bytes": 5713
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/presentation/cubit/cart_state.dart",
+      "sha256": "4c01ac33ec09fb615fe651ab7c602e1947ce107875d164e9130e72003e3cd514",
+      "bytes": 791
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/presentation/screens/cart.dart",
+      "sha256": "e5fad2ea929e69669574efa4ac130492d89741bc233919c104abe73b6ca5df36",
+      "bytes": 7020
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/presentation/widgets/cart_item_card.dart",
+      "sha256": "08ff14ab52923c78de0932d4be6643d78c0b58fa49796c68535f53dd5a700b35",
+      "bytes": 9373
+    },
+    {
+      "path": "frontend/Primo/lib/feature/cart/presentation/widgets/cart_item_list.dart",
+      "sha256": "58940aa9a011eae2f80d25096187c4c45d835dcd2a4be29e1bf6e57cb6c8b547",
+      "bytes": 880
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/data/repos/user_categories_repo_impl.dart",
+      "sha256": "fc3eb5c5c16b984e64e6205efbb4284d6ab18c90dbe8ab0ff2d77f36ef1284b2",
+      "bytes": 2536
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/domain/repo/user_categories_repo.dart",
+      "sha256": "f2d915774ca6ae0e0ab69de6c68032f9c9f7df973ca317af0f78d6bd3afd1066",
+      "bytes": 420
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/domain/usecases/get_category_products_usecase.dart",
+      "sha256": "34547ae8b3c2381c3e98beb1c27e8fbb42c6ec2624e95493cfab411c0c5fc61a",
+      "bytes": 524
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/domain/usecases/get_user_categories_usecase.dart",
+      "sha256": "29b5feedf5a714d5ac42eb51ea9f1b2d6bcdad661d0b6f8c1f0a80d5c1e1ae05",
+      "bytes": 457
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/presentation/cubit/category_products_cubit.dart",
+      "sha256": "f85857e8ecbe68fbae5aab6b3fc55359345ed60a17f057f46b7ff345b7b40dd4",
+      "bytes": 794
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/presentation/cubit/category_products_state.dart",
+      "sha256": "7ea346e3b98e4ee775779bbf3ae4b5321c18faa00ce0c8cdefdf89191be55d08",
+      "bytes": 502
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/presentation/cubit/user_categories_cubit.dart",
+      "sha256": "9a2e354fbbcd2f8dfbf9833ed5cc19b15508e0e7025818a82dfa5f298e7e5046",
+      "bytes": 1925
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/presentation/cubit/user_categories_state.dart",
+      "sha256": "4c452738a0be7848af093e4215393973e5c3400c0150ca0075ea73d886909830",
+      "bytes": 486
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/presentation/screen/all_categories_screen.dart",
+      "sha256": "9b50e2f09a4b1b38e9cbb1ca212a5593a550caa45dfff6b114e8f1818ccf1cf0",
+      "bytes": 5218
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/presentation/screen/category_products_screen.dart",
+      "sha256": "6d762715105962a2b1dc690fa23324bdc992464f421259a4a24fb9b4b247ca24",
+      "bytes": 6225
+    },
+    {
+      "path": "frontend/Primo/lib/feature/categories/presentation/widgets/category_grid_card.dart",
+      "sha256": "48a60a712e78188350d27ab405accd7a50a35c083ae43109b1e816d815acaac6",
+      "bytes": 3232
+    },
+    {
+      "path": "frontend/Primo/lib/feature/direct_orders/presentation/screen/direct_orders_screen.dart",
+      "sha256": "0c5aa92cfdc0f5a78bcf66dba04b7f17a4c27507bb13d8ef0a38368773575b95",
+      "bytes": 6644
+    },
+    {
+      "path": "frontend/Primo/lib/feature/direct_orders/presentation/widgets/active_order_card.dart",
+      "sha256": "691748f25ad38a79f0087b8def38cb9b1717740edd29902262168b3b73c8bdf4",
+      "bytes": 13475
+    },
+    {
+      "path": "frontend/Primo/lib/feature/direct_orders/presentation/widgets/order_filter_tabs.dart",
+      "sha256": "1262c2472867b20fc535996cb14957e3da1a39bb0d39875ffb07b7a4ef26a84e",
+      "bytes": 1811
+    },
+    {
+      "path": "frontend/Primo/lib/feature/favorites/data/repos/favorites_repo_impl.dart",
+      "sha256": "e81cba46c965741a4261aa1c8c7ec256706a53d1089892aa7a4c8f0332d60460",
+      "bytes": 1490
+    },
+    {
+      "path": "frontend/Primo/lib/feature/favorites/domain/repo/favorites_repo.dart",
+      "sha256": "eacf679bc77f6cf288f5152848a9369e45c81294878fcd45900c9c6a0227c0a6",
+      "bytes": 309
+    },
+    {
+      "path": "frontend/Primo/lib/feature/favorites/domain/usecases/get_favorites_usecase.dart",
+      "sha256": "e8e403bd933a0c0994d7a5393817ff1cf716fa5b6b9405268facc0f463fdc5d8",
+      "bytes": 428
+    },
+    {
+      "path": "frontend/Primo/lib/feature/favorites/domain/usecases/toggle_favorite_usecase.dart",
+      "sha256": "7ee5b0dd0224176d4a04647800f0f5016b50eaa50c3b6ad7b93bc84d0d038751",
+      "bytes": 387
+    },
+    {
+      "path": "frontend/Primo/lib/feature/favorites/presentation/cubit/favorites_cubit.dart",
+      "sha256": "08ae25bcb9378d3629ba92eab794eaf7270d28b4198fae9233b3245c771a63b4",
+      "bytes": 4193
+    },
+    {
+      "path": "frontend/Primo/lib/feature/favorites/presentation/cubit/favorites_state.dart",
+      "sha256": "c7e56829cdfcb2812e2b4f57b15dc2023d60fbaa5da94f9100a440231c890f09",
+      "bytes": 629
+    },
+    {
+      "path": "frontend/Primo/lib/feature/favorites/presentation/screens/favorites_screen.dart",
+      "sha256": "2c7812505368ddcf3e4e438150b97c42cbeea46030b2090d5470d54c440f460c",
+      "bytes": 8149
+    },
+    {
+      "path": "frontend/Primo/lib/feature/favorites/presentation/widgets/favorite_product_card.dart",
+      "sha256": "962bcb083ef444d794499871cd5899117c4fec62f6f7d2580f83daa0cff03742",
+      "bytes": 5085
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/data/models/home_data_model.dart",
+      "sha256": "259e21de33892e2ced667d59e07e927799cb6336aef73f58b7df68487cb83a2d",
+      "bytes": 1253
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/data/repos/home_repo_impl.dart",
+      "sha256": "28240a8b6916c702ac119ae7623086517d64d6e8e5d413025e93d7323ebc98f6",
+      "bytes": 1981
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/domain/repo/home_repo.dart",
+      "sha256": "5185d9a5d06a8c4df80ee2b89bcb64421195e2e16a8fc6c9e5576c56b909f521",
+      "bytes": 266
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/domain/usecases/get_home_data_usecase.dart",
+      "sha256": "d1a9c69961619f0de0691e31e6b0651d886ad52018808a7f5cb1c02f059c896a",
+      "bytes": 450
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/presentation/cubit/home_cubit.dart",
+      "sha256": "7a343418f9773e0b70d07a99c03d5442e6abe129621aaa2248f85ecdcd1cb2ab",
+      "bytes": 1777
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/presentation/cubit/home_state.dart",
+      "sha256": "6a274b57c9730a7618a0ed0d278db89378e7c2695463e21a833481158b4c3388",
+      "bytes": 372
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/presentation/screen/home.dart",
+      "sha256": "c5cb4627598c155db8e55b68577416f3779d598568f2b3d138ac4987f29dd05b",
+      "bytes": 9221
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/presentation/widgets/activities_list.dart",
+      "sha256": "dc0c1d48b3e5b5558b3ccd47ca146ca08c9c85da510408fc789fd2e1bafe1a8b",
+      "bytes": 1518
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/presentation/widgets/activity_card.dart",
+      "sha256": "fb9d8d211e8b0a360c35991c376da1990f573a310644e75f37b806e1cfe0b434",
+      "bytes": 4851
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/presentation/widgets/catigory_chip.dart",
+      "sha256": "fd26da183b521059a938c754550a3c0708971914c3032d6427a44c82cb98271b",
+      "bytes": 1988
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/presentation/widgets/catigory_section.dart",
+      "sha256": "eac27fe3b8a13e8809beef695b32cb43c5f3f3e46522979d1ceb950435df8cea",
+      "bytes": 2972
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/presentation/widgets/latest_product.dart",
+      "sha256": "df5cd1667e3641f02fbf584e5f6967dbdc9e024cbe31df5dfc28a6b5f9e64441",
+      "bytes": 2723
+    },
+    {
+      "path": "frontend/Primo/lib/feature/home/presentation/widgets/product_card.dart",
+      "sha256": "543a59569d02773af026ce0b2fbb4b9e6964dcb7a7eb4e04b4e2d14292feb797",
+      "bytes": 7725
+    },
+    {
+      "path": "frontend/Primo/lib/feature/inventory/presentation/screen/inventory_screen.dart",
+      "sha256": "a079c3dea3523addc7585fa60a5c6c83a14b7c7fd912c19eb2c6701fb793c1b5",
+      "bytes": 12073
+    },
+    {
+      "path": "frontend/Primo/lib/feature/inventory/presentation/widgets/custom_status_switch.dart",
+      "sha256": "41204218ea80fe3287d4751dadf0237a61bab7f0639f0bd9af414453687b04ce",
+      "bytes": 1495
+    },
+    {
+      "path": "frontend/Primo/lib/feature/inventory/presentation/widgets/inventory_product_card.dart",
+      "sha256": "4b1895e95585f8e70c5915c6223f5d9f180dde13e2e8989fe10b1a2b6a9bc38a",
+      "bytes": 13467
+    },
+    {
+      "path": "frontend/Primo/lib/feature/inventory/presentation/widgets/search_and_filter_widget.dart",
+      "sha256": "98476aa807222483c9d8cad586a86632f4245d3791d6330146d98fdee1885b51",
+      "bytes": 5152
+    },
+    {
+      "path": "frontend/Primo/lib/feature/inventory/presentation/widgets/unlinked_bayan_variants_sheet.dart",
+      "sha256": "66df96a204b396bb277f2bc392fce62df10189db414348b36813fd4fca1227bf",
+      "bytes": 16251
+    },
+    {
+      "path": "frontend/Primo/lib/feature/main_layout/presentation/cubit/main_layout_cubit.dart",
+      "sha256": "bc19b00bcffbcb8e499c7380ae150dceb88f4ccfada252035d985c735f721bfb",
+      "bytes": 612
+    },
+    {
+      "path": "frontend/Primo/lib/feature/main_layout/presentation/cubit/main_layout_state.dart",
+      "sha256": "f5ef257a73406b4a7ec6e699f971713ce48100fc492d0d582fa32bcc82bd91f8",
+      "bytes": 440
+    },
+    {
+      "path": "frontend/Primo/lib/feature/main_layout/presentation/screen/user_main_layout.dart",
+      "sha256": "bae14af76bb8e85a45e91cc3c7e2ab423f6aab292c592ffc9fbfbb9a63c5d6ee",
+      "bytes": 6887
+    },
+    {
+      "path": "frontend/Primo/lib/feature/main_layout/widgets/floating_circular_nav_bar.dart",
+      "sha256": "31c854cdc396d13d73058ae4e3816dfede127911aa6c60c5c8a79aeaee4c8a45",
+      "bytes": 14410
+    },
+    {
+      "path": "frontend/Primo/lib/feature/main_layout/widgets/semi_circule_divider.dart",
+      "sha256": "bc2199b7c46857e955111f363644d2665410d368f3de2016cbd3a582e4cc085c",
+      "bytes": 1926
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/data/models/notification_model.dart",
+      "sha256": "8fd797e0fb09a1ddb9176035e7ef390a9c4445144bcec41270a8c04cbceef6cc",
+      "bytes": 1090
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/data/models/notification_settings_model.dart",
+      "sha256": "7d5f13846a9786b42cb35b9d1ee4a586e23c04fa5bc6f681c4d0b9075df439fe",
+      "bytes": 1209
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/data/repos/notification_settings_repo_impl.dart",
+      "sha256": "cd16d4dce7df783a26ade5673b1f84b6382578e10070a2ff9548b4d43d5ca403",
+      "bytes": 3485
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/domain/repos/notification_settings_repo.dart",
+      "sha256": "fe7ab1458006450071774874df51304381a3e72a66c8b6a8ef2d0a7555681dcb",
+      "bytes": 746
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/domain/usecases/get_last_seen_notification_usecase.dart",
+      "sha256": "9122d2eb8a984b56f64c06ae217d2b0573e4ff69ccc5276ae3e75206fc21bf34",
+      "bytes": 326
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/domain/usecases/get_notification_settings_usecase.dart",
+      "sha256": "0d695bccae9afc20138230ee7f7706b776369c2495775b1f402d88cd18c9d5e5",
+      "bytes": 529
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/domain/usecases/get_notifications_usecase.dart",
+      "sha256": "c12b4970894f39ab8861f9c9a89b2700b6198554a514bd9eb60ffe37f1233378",
+      "bytes": 488
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/domain/usecases/save_last_seen_notification_usecase.dart",
+      "sha256": "fc6b0271d80690df121acc96c39c6660411a471543d8cde7eb7e41bdc98d8797",
+      "bytes": 338
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/domain/usecases/update_notification_settings_usecase.dart",
+      "sha256": "767985875287890e7114a55d2eb9dde34c2d651a85a5202d079ee7956843c35e",
+      "bytes": 580
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/presentation/cubit/notificatins_state.dart",
+      "sha256": "8892e27d65572a70369c962a9a543fc9dc988d7998ae30de94ef9c7ebad97439",
+      "bytes": 488
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/presentation/cubit/notification_settings_cubit.dart",
+      "sha256": "811a9bbaaec8d754f600557d94d877e8eff543d5afd22dee15f888a91bbe05b1",
+      "bytes": 2127
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/presentation/cubit/notification_settings_state.dart",
+      "sha256": "b78a1f2c75ba11c0db6d588039b9f155370a8b3ae9c5f91e048b934c04b8b871",
+      "bytes": 1375
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/presentation/cubit/notifications_cubit.dart",
+      "sha256": "8947117d0adb535d6df27854248c5fa160f40f966743aab0db6d9906e1daadd8",
+      "bytes": 3375
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/presentation/screen/notification_settings_screen.dart",
+      "sha256": "31a83c0e7cdeb88de4125ac2f9d65a17a89913a924910ae323d4a2960088fe0c",
+      "bytes": 10133
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/presentation/screen/notifications_screen.dart",
+      "sha256": "fc658f08a7cd38caf8e10fa450d096737f8f50b80dbd6208fb0fa71fd4aab55e",
+      "bytes": 6752
+    },
+    {
+      "path": "frontend/Primo/lib/feature/notifications/presentation/widgets/notification_card.dart",
+      "sha256": "215bcea1045749a6b0cc42c92f665a80b025e878413a31ab4fb054950465e172",
+      "bytes": 4461
+    },
+    {
+      "path": "frontend/Primo/lib/feature/onboarding/onboardingscreen.dart",
+      "sha256": "54540214bbd01e7a897cf73bc942bcb3f7c07df649cb9c4c78ffebcf370c78d8",
+      "bytes": 9348
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/data/repos/orders_repo_impl.dart",
+      "sha256": "71d0088fa886616e89d2527d5b16bee8b6790c0aeac14663a0bbdc5a7e135203",
+      "bytes": 4264
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/domain/repos/orders_repo.dart",
+      "sha256": "a2242f4338051fa458c33c2acfe8d6181824731b85a50d9144b77510c9d19911",
+      "bytes": 586
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/domain/usecases/confirm_order_usecase.dart",
+      "sha256": "ab6f7aca1478762845139ee13f814d7d8e15be3fe0a1b99e1e4197e12cb2bea5",
+      "bytes": 461
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/domain/usecases/get_order_by_id_usecase.dart",
+      "sha256": "70b2a2fd022ee172f5d18bec83cec151454c96ad99a3aea4830c45de9a5a5bed",
+      "bytes": 415
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/domain/usecases/get_order_price_usecase.dart",
+      "sha256": "4fbbe2699aeae395612ec9418bceb290865ab5d765aa5ed4746b7d4d3a97b09d",
+      "bytes": 469
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/domain/usecases/get_orders_usecase.dart",
+      "sha256": "c1002c862194fc211f00a752dc94ecf132b4a3d4d1cfdc7958234347ab2ff3be",
+      "bytes": 434
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/domain/usecases/rate_product_in_order_usecase.dart",
+      "sha256": "dd3472a69a75e183cec99171ffe91e979fb51e6e75c56e224a550e1c8c246324",
+      "bytes": 432
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/bloc/checkout_cubit.dart",
+      "sha256": "9be504b9d34920c755587072985e22cf4a23873c874d84ac80fa0391ea9e0b9d",
+      "bytes": 5974
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/bloc/checkout_state.dart",
+      "sha256": "a2bafd91991177d031dbc9a591b52bf3094cdf2691d60bd5ce1e6d73b6d0f517",
+      "bytes": 1108
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/bloc/orders_cubit.dart",
+      "sha256": "06b404f353be114fd5de78ed9332df37971d84c80e7639c31b65852198cf66d4",
+      "bytes": 4772
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/bloc/orders_state.dart",
+      "sha256": "30b7ec393af187ac86f166efc432fdf9fad1226d40b8f9fa5b9451ea85d00b47",
+      "bytes": 967
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/screens/checkout.dart",
+      "sha256": "471b9c2597da1e126e4c4fcd781a957fb9307cdbf5ce0caec9ef6f33114823dd",
+      "bytes": 19445
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/screens/order_details_screen.dart",
+      "sha256": "1fddf31e8d94e4708cd39d01b56c0a3fe400f0dbf95f147d86b68f73a79a62a1",
+      "bytes": 10961
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/screens/order_history_screen.dart",
+      "sha256": "9e3ddc7f055a170be770c0f00b427004ae288e8d4ac36cdc6fa1f7a49609ec24",
+      "bytes": 9075
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/screens/order_tracking.dart",
+      "sha256": "535b0b3cb89ab3b895f36703455c04b5daf9dbdf25134a1a2cb1aa64e2a1bb26",
+      "bytes": 3440
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/additional_options.dart",
+      "sha256": "62f6030ba3b9e9e6ba3935e4d47533c9b1c43768c14a1ffd57003206d02b74dd",
+      "bytes": 1419
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/adress_selection.dart",
+      "sha256": "767ef0223b3e2834c64a3a487c624d17804fd358383c8d1218196a15ad84fd25",
+      "bytes": 5102
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/adress_selection_sheet.dart",
+      "sha256": "9dacb5907fa450e6f0a5e291fbe5243f258353575922b152caee5d0c51e1b253",
+      "bytes": 9903
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/build_summary_row.dart",
+      "sha256": "185f6d427ecfa1cba13fa7b07b84ae4dfe55712763302af01e6b525e0199dfc0",
+      "bytes": 1303
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/delivery_method_card.dart",
+      "sha256": "f7f063b80a9358dbc26522968890e6aa6763b995ee1399d62c1992ee6376d03e",
+      "bytes": 2463
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/order_history_card.dart",
+      "sha256": "aee2c399798bcdcd965a72d9fb560061111f2586b9e63b611b526fa25fd7e993",
+      "bytes": 9248
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/order_info.dart",
+      "sha256": "836fbcae0947e3621cb7b045b31e4b9acb857c84dc4acc87e1f6a1d7a8e8c778",
+      "bytes": 5422
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/order_info_card.dart",
+      "sha256": "aae5e2a0221fa955e4c085f41b768e05a33e42646201918a71513f49d67469e5",
+      "bytes": 4969
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/order_item_card.dart",
+      "sha256": "1428d5608e88254404ec75e726e2dc812e03b8f32467af3d5e69e18b41a0892f",
+      "bytes": 7548
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/order_state.dart",
+      "sha256": "fffe069714959c92669f00d83ef481bb5742095bbf034e5ed56e197afa4e841f",
+      "bytes": 7556
+    },
+    {
+      "path": "frontend/Primo/lib/feature/orders/presentation/widgets/summary_row.dart",
+      "sha256": "c2b7a22eefa05901e917b2d1f0ee4dcc04790caa9e204fe6d7f36f266d79828d",
+      "bytes": 1322
+    },
+    {
+      "path": "frontend/Primo/lib/feature/product/data/repos/product_repo_impl.dart",
+      "sha256": "1ff1e7e7fca8aa8a9b4283376b819c9e52335351418bacd2f049e804ce5b5ad7",
+      "bytes": 925
+    },
+    {
+      "path": "frontend/Primo/lib/feature/product/domain/repo/product_repo.dart",
+      "sha256": "f32a4e04c48f5396e2f75cdd8114b1f8989848a4f53d36f364ce70052d1834ad",
+      "bytes": 256
+    },
+    {
+      "path": "frontend/Primo/lib/feature/product/domain/usecases/get_product_details_usecase.dart",
+      "sha256": "1d300f97bd0a41681cff5ff9966010f701ec0b70cc00a6b5f0995ab012a354f2",
+      "bytes": 453
+    },
+    {
+      "path": "frontend/Primo/lib/feature/product/presentation/cubit/product_cubit.dart",
+      "sha256": "3ec0057295aa1d029e7d1f0e28b4d92bf94948a38547d6817b38ecb6eb736b56",
+      "bytes": 2415
+    },
+    {
+      "path": "frontend/Primo/lib/feature/product/presentation/cubit/product_state.dart",
+      "sha256": "f085dce88a445a9acea7e15a91fcb19bc97f4e2acc02b0e2fd6194f5e1da73b8",
+      "bytes": 554
+    },
+    {
+      "path": "frontend/Primo/lib/feature/product/presentation/screen/product_details.dart",
+      "sha256": "e77d65291a2b43f92e739cb82fabacc42485ebf3d16bf3ffcdfc921ffab85c13",
+      "bytes": 32187
+    },
+    {
+      "path": "frontend/Primo/lib/feature/product/presentation/widgets/description_section.dart",
+      "sha256": "4a5889c7c7529dad98a0d5e8e883d6ed314ca07751bc7aec0e6b94cb4db5d6d1",
+      "bytes": 3166
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/data/models/change_password_request_body.dart",
+      "sha256": "a97d68f3c2adbf54834ed4fb8d98a97b8ddb90d7427aaa156300b3a3e294024b",
+      "bytes": 534
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/data/models/help_center_model.dart",
+      "sha256": "9ea55e45ac21750ab96378206b14630cfb31e4d5d38bb635122e5ff5b8028165",
+      "bytes": 2160
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/data/models/profile_response.dart",
+      "sha256": "168d13b4ab3b5563823a123f25086269ed0d05f4cc0f85f204785e47a3defed4",
+      "bytes": 612
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/data/models/profile_response.g.dart",
+      "sha256": "3406f3d99b8db43a6c82ac80de74b435f0cd75ce0a064a85dfabe87b8d523c5d",
+      "bytes": 1275
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/data/models/update_profile_request_body.dart",
+      "sha256": "6969402416ecf9ca82a03235e75037c506266fef2eb0d90bbeb3e34c5f728bea",
+      "bytes": 693
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/data/repos/profile_repo_impl.dart",
+      "sha256": "45a4e04bfaa6d20596453604a75c171ef866c621a54421ad6c6af98a88870f7e",
+      "bytes": 2146
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/domain/repo/profile_repo.dart",
+      "sha256": "0659535947b8e18375b6cdb1baaeb4c5fb281cc2096f98e7e79505a3d2335898",
+      "bytes": 541
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/domain/usecases/change_password_usecase.dart",
+      "sha256": "02fb87f7cf0e59fd43b4d72b6a2b4c39f09f4bd55939e62b54a30c03f0b059c4",
+      "bytes": 443
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/domain/usecases/get_profile_usecase.dart",
+      "sha256": "dd0e62f5eddce1e92691868fd0e16dc3670644487ae904bdec492217ded8a50f",
+      "bytes": 394
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/domain/usecases/update_profile_usecase.dart",
+      "sha256": "5d4ed5ca99e28e5dcc432759a6c0d7940b13500de092b883053599e071007c38",
+      "bytes": 497
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/cubit/help_center_cubit.dart",
+      "sha256": "b6afa0f0404115ff56cd0d8f2181bd927f33efc6f9c78c63249a6de5c641f67d",
+      "bytes": 1259
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/cubit/help_center_state.dart",
+      "sha256": "199ea3897500e6377c4c1d7861c0ed6f8e94106e5bb9cd2bfbfc7b044dc950e2",
+      "bytes": 477
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/cubit/profile_cubit.dart",
+      "sha256": "7fad12ab9004cde98afbe50bb8a260a944ef047df4355c7318bf45e8bf5aff65",
+      "bytes": 5465
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/cubit/profile_state.dart",
+      "sha256": "9b61a1da1d848ca6fa94caa3ab02aa6cbb2a48d510496086b7a7b5e252b4c828",
+      "bytes": 2399
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/screen/change_password_screen.dart",
+      "sha256": "403ad53b934548664b8c4f48f2841e72d4bad42b47db05f4ca6c9a392e3df41a",
+      "bytes": 9128
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/screen/edit_profile.dart",
+      "sha256": "aec89ba45ceac3e31d28ce59b89541e994a4632726289df3f883057b3ae04505",
+      "bytes": 2731
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/screen/help_center_screen.dart",
+      "sha256": "af972e644f8061ee6f389ffd0d635b7a6709dd0471d1844f2116efdede0767ef",
+      "bytes": 16816
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/screen/privacy_policy_screen.dart",
+      "sha256": "70622c39cde424b54475997ad399294a26f2802719d7ef7dfd7f6daa179e9281",
+      "bytes": 5105
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/screen/profile.dart",
+      "sha256": "466a8ca998948184aa2d0e8edd436c88c88f684b3c35709dd293e7a225895f92",
+      "bytes": 7877
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/screen/settings_screen.dart",
+      "sha256": "2ac449357ea91bf189b5313faf35eb3521d6d57a9323449c769ca623ecc02e46",
+      "bytes": 11736
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/screen/terms_of_use_screen.dart",
+      "sha256": "602f7393dcc01474d75164c80f59725de01abc68757ddadb2398297dbc2e5829",
+      "bytes": 4663
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/widgets/edit_profile_form.dart",
+      "sha256": "0b620c04a18f0e2f5c157beedd294381242034a8d584d729bc4052fe74f921f3",
+      "bytes": 6101
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/widgets/info_card.dart",
+      "sha256": "d8ab598f0c2077e09f9482f415178b5dc449895b75ace9ffe0267806fc21b4a0",
+      "bytes": 2367
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/widgets/password_input_field.dart",
+      "sha256": "f2b31aa4cc8c55e83f0b8f262a6c668077b54bbe088df198f9856bc9504578cf",
+      "bytes": 3915
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/widgets/settings_link_item.dart",
+      "sha256": "6d554f290c1bcdf7ce8cacaef4d7953f9625adc9bd008e9e4ca3853151fc4211",
+      "bytes": 2800
+    },
+    {
+      "path": "frontend/Primo/lib/feature/profile/presentation/widgets/settings_toggle_item.dart",
+      "sha256": "9bd4f127c8743940270a3f2103a751d672ba4cd07a8bbf3c907b558fced3a650",
+      "bytes": 2535
+    },
+    {
+      "path": "frontend/Primo/lib/feature/search/presentation/cubit/search_cubit.dart",
+      "sha256": "8faa4a9ecb9862427c606fe31e27cec91cd2d81ae5f193da8042546dd885e04f",
+      "bytes": 2046
+    },
+    {
+      "path": "frontend/Primo/lib/feature/search/presentation/cubit/search_state.dart",
+      "sha256": "26bb62d63fe39a908a67dcd0aa77815d2a5755aa5cf4927ebcb9fc5be070d423",
+      "bytes": 392
+    },
+    {
+      "path": "frontend/Primo/lib/feature/search/presentation/screen/search_results_screen.dart",
+      "sha256": "1b64c37db0afe4e98e5a68a7600b770c38d3f60f4d4bc68fb0ebf577db6bcb0c",
+      "bytes": 16148
+    },
+    {
+      "path": "frontend/Primo/lib/feature/search/presentation/widgets/request_product_section.dart",
+      "sha256": "55874a3c576ceb5f65680d2a1978df640ca152d064c49fa23148097425bb5f6a",
+      "bytes": 2731
+    },
+    {
+      "path": "frontend/Primo/lib/feature/search/presentation/widgets/search_filter_chips.dart",
+      "sha256": "739df106359632066e6b6c1ae61e358c2ea6167df5c56f1ea251985ee88b43dc",
+      "bytes": 2471
+    },
+    {
+      "path": "frontend/Primo/lib/feature/search/presentation/widgets/user_product_card.dart",
+      "sha256": "6377c73ef0ad77854db6a32d0996dedf70dfff8774078ec6802d39b711fd9be1",
+      "bytes": 7536
+    },
+    {
+      "path": "frontend/Primo/lib/feature/splash_screen/splash_screen.dart",
+      "sha256": "2cb3f881133670b609d1ee683fb647123fdfd77af843585f95b604aec95df1ec",
+      "bytes": 4350
+    },
+    {
+      "path": "frontend/Primo/lib/feature/suggestions/data/repos/suggestions_repo_impl.dart",
+      "sha256": "bac0ce030597ae40f97543e5f28e13738ce5d934f68c0652825a895bc3d78abe",
+      "bytes": 1189
+    },
+    {
+      "path": "frontend/Primo/lib/feature/suggestions/domain/repos/suggestions_repo.dart",
+      "sha256": "5a2e552912085e790fccf55ad5362d59df6c5f3967cd803ff469147e43a1b39b",
+      "bytes": 247
+    },
+    {
+      "path": "frontend/Primo/lib/feature/suggestions/domain/usecases/send_suggestion_usecase.dart",
+      "sha256": "9519e3040b4b3036f351886497033f3a3d4c105f9038258985a0d31ae3888992",
+      "bytes": 471
+    },
+    {
+      "path": "frontend/Primo/lib/feature/suggestions/presentation/cubit/suggestions_cubit.dart",
+      "sha256": "fdcfee2c7385e957f9497cb839e9580bdbd9a3e3e9f76c75bd607939e82c045d",
+      "bytes": 1073
+    },
+    {
+      "path": "frontend/Primo/lib/feature/suggestions/presentation/cubit/suggestions_state.dart",
+      "sha256": "7085b74c0dbfd124ff2c7321d44b4b316858169c994aae454208c43e0aa80c5c",
+      "bytes": 629
+    },
+    {
+      "path": "frontend/Primo/lib/feature/suggestions/presentation/screens/suggest_product_page.dart",
+      "sha256": "bab45cd45f68ecf0abf989d95e2a8225dd64b54d49ed83f3f036b9290497cdb1",
+      "bytes": 8257
+    },
+    {
+      "path": "frontend/Primo/lib/main.dart",
+      "sha256": "822a9e5514c98e78c9748f2efa1d51dc310d36f8d78e87946a3c19b49f97e736",
+      "bytes": 700
+    },
+    {
+      "path": "frontend/Primo/lib/my_app.dart",
+      "sha256": "ac231a6f62db7863f4e7f13b71d0abb172c68425a3c2c9f6af47fd427330ce67",
+      "bytes": 1341
+    },
+    {
+      "path": "frontend/Primo/assets/fonts/Cairo-Bold.ttf",
+      "sha256": "a0e58d71b85b15902ea87914d8e31a6d22da48ac2db70213dcfd1a7dad3f198a",
+      "bytes": 94652
+    },
+    {
+      "path": "frontend/Primo/assets/fonts/Cairo-ExtraBold.ttf",
+      "sha256": "67526b4f18bb9bb568e81135df9eec813a15cc1252ae784ea505236e75a5b56e",
+      "bytes": 94708
+    },
+    {
+      "path": "frontend/Primo/assets/fonts/Cairo-Medium.ttf",
+      "sha256": "64c7cab8e2cf003c3fc4edca1820e7e1b0ee667373cf8500060bca97262a2b65",
+      "bytes": 94644
+    },
+    {
+      "path": "frontend/Primo/assets/fonts/Cairo-Regular.ttf",
+      "sha256": "44786a38e27c58262cbd65341beda4fa4f6c7085ec42e830b35ba1ae37807030",
+      "bytes": 94480
+    },
+    {
+      "path": "frontend/Primo/assets/fonts/Cairo-SemiBold.ttf",
+      "sha256": "3fe2e182a88a5d64a96b289fd1c518bdc9b14ec91525a03990c35e91f7863a2a",
+      "bytes": 94688
+    },
+    {
+      "path": "frontend/Primo/assets/images/beverages.png",
+      "sha256": "e0e6697ddf38e75a42acbd4abde25d579596040a1b50c84e942f4d057a8d46b1",
+      "bytes": 324118
+    },
+    {
+      "path": "frontend/Primo/assets/images/canns.png",
+      "sha256": "3870c74cc5abf2e2e88328d72af70eacceb81b348cea93dfacf19cc8b480cd9f",
+      "bytes": 304351
+    },
+    {
+      "path": "frontend/Primo/assets/images/coffe.png",
+      "sha256": "6217e3c59c4b7b4556a78061bb499d0b35544c2bda5e0825b0a7fc3af1fe4ec4",
+      "bytes": 44209
+    },
+    {
+      "path": "frontend/Primo/assets/images/groceries.jpg",
+      "sha256": "161353b91f7784a249922509977389d97155c54afe81bb098766b2bdf297fb66",
+      "bytes": 2794
+    },
+    {
+      "path": "frontend/Primo/assets/images/honey.png",
+      "sha256": "dce724d3c409ef0e7c291458fb28e90fd392cf473362c39d2bebfae514dbd5b5",
+      "bytes": 288912
+    },
+    {
+      "path": "frontend/Primo/assets/images/logo.png",
+      "sha256": "9b03862bc18d8afc1fab74172327a06cfc0435f3b6655f0c3306013c7561b5a5",
+      "bytes": 546817
+    },
+    {
+      "path": "frontend/Primo/assets/images/oil.jpg",
+      "sha256": "1acc04d40427be01ff8b713f2f1ac61b7875a6e406467c1f587e3dfbbc0bc611",
+      "bytes": 3151
+    },
+    {
+      "path": "frontend/Primo/assets/images/onboarding1.png",
+      "sha256": "caccfffdefb0ffd3f5d0ab81abc7f93e4f37091ccb03ebb6bc719e4c63211798",
+      "bytes": 1233925
+    },
+    {
+      "path": "frontend/Primo/assets/images/onboarding2.png",
+      "sha256": "6ab3708a87bd314bb240277fbe53ed8a49afc47299fcde693ea674124d8526e7",
+      "bytes": 523309
+    },
+    {
+      "path": "frontend/Primo/assets/images/product_image.png",
+      "sha256": "65f4bbb310372558e1d523b83185d48922b3e60107385ff35212c88d300d0052",
+      "bytes": 25083
+    },
+    {
+      "path": "frontend/Primo/assets/images/profile_image.jpg",
+      "sha256": "1410653d4285ecc3d8dce5e6831e6cb66345a6d9ae2e994ab15013bcdf632986",
+      "bytes": 5644
+    },
+    {
+      "path": "frontend/Primo/assets/images/snacks.png",
+      "sha256": "939fc7a6f2a2b1a8535bc3ae62ab638cd8b3187a144716b73e550831b1c535f2",
+      "bytes": 343911
+    },
+    {
+      "path": "frontend/Primo/assets/images/SpecialOffer.png",
+      "sha256": "1e991f14a5422c5069caac598691324edafdde86cd809b2067f19486e5c37562",
+      "bytes": 878528
+    },
+    {
+      "path": "frontend/Primo/assets/images/suggest.png",
+      "sha256": "8a666218e033d8c50f6d9e33f416a9e1dbfed1b4bee1c2755e132ac07c00dd1c",
+      "bytes": 85642
+    },
+    {
+      "path": "frontend/Primo/assets/images/tomato.png",
+      "sha256": "5a6294cfca82d3544f0e373b6c880cae5603b1ef3973c7b6d7adb1f6bca262f8",
+      "bytes": 369582
+    },
+    {
+      "path": "frontend/Primo/assets/images/vegetables.png",
+      "sha256": "c1011b485e64fa393b4f3d4eccae8bc8cc93b61a58a38205b9a42e47cac0269c",
+      "bytes": 361371
+    },
+    {
+      "path": "backend/primo/app/Console/Commands/SyncBayanProducts.php",
+      "sha256": "4d8f954edb6b6ebf8de37cd149f3a4a6699fab7383fabc875c31b783587f12b8",
+      "bytes": 2054
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/AddressController.php",
+      "sha256": "17cc570a3584cce6274374ab914ea0f4d6d2eb6602adf16a34981a4f804d78f1",
+      "bytes": 2669
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/CartController.php",
+      "sha256": "fe10810328f460eb2ebdec7dd747506031cf9a81ef0791dcbfe5999adf34ce58",
+      "bytes": 2830
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/CategorieController.php",
+      "sha256": "d9771c9878f7f6329ffd2472de9ca70bd09fae18244e3967b21f9bcc2527c793",
+      "bytes": 2058
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/Controller.php",
+      "sha256": "32fbdee8e4b09eb45f65a2d53e3b602dbcf9efb5d97feffd46fdd0cd672b7ad3",
+      "bytes": 2387
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/GeneralSettingController.php",
+      "sha256": "ef9c3df2d648979115064a9bb4880f80359fa11b5fc480a30f2f7cf8db5ab5d9",
+      "bytes": 1110
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/HomeController.php",
+      "sha256": "ff7c9eaf2eab2df7946b8e12856ce6553cbc17b7b087499ec4f7d8a1758a4891",
+      "bytes": 823
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/NotificationController.php",
+      "sha256": "c03021d662634b0bd5393ea37e699114705e32089c819b8f25ac147dd6960871",
+      "bytes": 824
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/OfferController.php",
+      "sha256": "4021a12d304c787c0abfc63e9148996449d327872f04322923bec69edf435f98",
+      "bytes": 1816
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/OrdarController.php",
+      "sha256": "cd73ccca83592e1147700ae6cb80ccd108c89eca7de8a359295b97ce82240bac",
+      "bytes": 2194
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/ProductController.php",
+      "sha256": "c96d31d3426a25a0eb228ceab86cddab5c9fc1d5093bf10f0228651b1ae71875",
+      "bytes": 3336
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/SettingController.php",
+      "sha256": "ae777aabed03907dba6fd9a4d616dca55fbc6a84f8ac90e888641e79d9c97d40",
+      "bytes": 1504
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/SuggestionController.php",
+      "sha256": "6a0b26a24336abeac528352abc6f5bc60170186450bc2bdfed9c0769b4a6e9fb",
+      "bytes": 1991
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/UserController.php",
+      "sha256": "77884334ec96fc4b89eee484a81b7db1848abbf6f35deb5a2ff08afc417d363e",
+      "bytes": 3541
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/UserManagementController.php",
+      "sha256": "e39bfecce6170815e03be09962d24d75a8ad4b38dd3e8adc386b4590b43fe4fd",
+      "bytes": 9028
+    },
+    {
+      "path": "backend/primo/app/Http/Controllers/VariantController.php",
+      "sha256": "8831859e22d5f7e1e7a12fa49fbbcc0d4318d75b361c41acc5258ac5ad9d00e6",
+      "bytes": 2776
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/AddressRequests/StoreAddressRequest.php",
+      "sha256": "e3444f0a39c3dd04a5cbd235c60393277603f9725f93192c523530145233a7f0",
+      "bytes": 2029
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/AddressRequests/UpdateAddressRequest.php",
+      "sha256": "8770df6172a72b4a80b9b78b27250ef1b6c06aab4fd2bd3254665db34cb14d91",
+      "bytes": 1757
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/CartRequests/AddCartItemRequest.php",
+      "sha256": "bea79133f5805b7e69daf6df3c001ca459ae2d9aa960a86f4423e7cdd542a10b",
+      "bytes": 1051
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/CartRequests/UpdateCartItemRequest.php",
+      "sha256": "22f64f180e5a94b2bf5fad4f8f893ffee1eb33dcf213fc963afffa4309d73a13",
+      "bytes": 881
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/CategorieRequests/StoreCategorieRequest.php",
+      "sha256": "3250513abe3b5e74f127f463f78a43aaff9eeb8c706fb1e624619a4d45b05047",
+      "bytes": 1196
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/CategorieRequests/UpdateCategorieRequest.php",
+      "sha256": "27d1c3c6dc3699201bdae2b0179b531eb4ae458e58cd1751022325e2c1706c00",
+      "bytes": 1197
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/HomeRequest.php",
+      "sha256": "7cb2e56900dadff1855fbb14e0635872c0b32f91fbcedfac82d8a174e8b405c0",
+      "bytes": 309
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/OfferRequests/StoreOfferRequest.php",
+      "sha256": "8da48fc9976995687c6ed87796c2d481cc92ad8be112e94c309ff4b00a903156",
+      "bytes": 2251
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/OfferRequests/UpdateOfferRequest.php",
+      "sha256": "52a4de766737e74107acdf264edc1f4bea9aedc1f08eeadb71bf958a77ab2dcd",
+      "bytes": 2183
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/OrdarRequests/AdminOrdarFilterRequest.php",
+      "sha256": "4529157f0328af4d03f6569e8f6c24deb780d10d0d2ce028e8cdf3f2db038f60",
+      "bytes": 695
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/OrdarRequests/ConfirmOrdarRequest.php",
+      "sha256": "384dda523183ded215a602c6eee48683e89802f274fcc23414239ea36ba1e40d",
+      "bytes": 804
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/OrdarRequests/OrdarPriceRequest.php",
+      "sha256": "a934ab56ea893f73c33140c225d1df72634ce61821e2e46228c80d35cbfcf3ed",
+      "bytes": 1028
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/ProductRequests/StoreProductRequest.php",
+      "sha256": "03281aa3248911ceb1c6fb9af95fa6fd770b442e779eb869983beae89a3a9e2b",
+      "bytes": 2286
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/ProductRequests/UpdateProductRequest.php",
+      "sha256": "1de4b02b8af9413782d669d1528098a828f25fa45ec6e85465b35c2d5aadac8e",
+      "bytes": 2643
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/SettingRequests/UpdateDeliveryPriceRequest.php",
+      "sha256": "2fdd88d2d47d8ce25c12b0c9b81c914be3f9d25481badf30d8cdc31d60b15e8e",
+      "bytes": 734
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/SettingRequests/UpdateDollarValueRequest.php",
+      "sha256": "f8cb503838b3d90cc86f7092783bd9d6bb2150a99fb6b57c1617d6f122c74a45",
+      "bytes": 818
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/SettingRequests/UpdateGeneralSettingsRequest.php",
+      "sha256": "ba8422e95cf7153c55ef86e52fb22c2ea116b2b04c6e2c05caa1acc723acd9e2",
+      "bytes": 1719
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/StoreSuggestionRequest.php",
+      "sha256": "aa87029a679d651cb4f8d2ff6d9afd51808e616c69ad58c8ce35c4c17add0125",
+      "bytes": 959
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/suggestionRequests/ChangeSuggestionStatusRequest.php",
+      "sha256": "ef6cd75cbb693a4bb7f56a7da03d4e0a27a007a61e588be75f1a412afbec98ca",
+      "bytes": 1111
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/ChangePasswordUserRequest.php",
+      "sha256": "0b32017a6e0df2882cfb59ef0cb8b7d3c575378e0a19fce9eae4f79177167c9d",
+      "bytes": 1216
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/ConfirmForgotPasswordRequest.php",
+      "sha256": "bf2b4fbec413120b9691e4a68536e96cfbf63c886af4d695ab204db641c3623c",
+      "bytes": 1444
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/ConfirmLoginRequest.php",
+      "sha256": "7cd566a83be04dfdd881097ad51c1bb94e8e9ed446888d5485e8c146155b28df",
+      "bytes": 1301
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/ConfirmRegistrationRequest.php",
+      "sha256": "8f47f303681180c7eaf77b978faa4814df62f0cd39f65f4749140c79149c48f6",
+      "bytes": 663
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/ForgotPasswordRequest.php",
+      "sha256": "e1b676be02d8b6648831bee887c3c5b85eeeb7e20a5ac6e570f48153972d2888",
+      "bytes": 1133
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/LoginRequest.php",
+      "sha256": "eef8afaae49b8fdaf4127c88a5b716b5c2a82891b9f0b2c21d952d15ae8922e2",
+      "bytes": 1882
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/LogoutRequest.php",
+      "sha256": "02a8defac7fbb3feac08070caf9affd269bf619a870c95f8be3a090401d3a186",
+      "bytes": 979
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/RateProductRequest.php",
+      "sha256": "deb16cf116979064be45dc893861d5a52cc3538e7cba81997121a768d1d3746b",
+      "bytes": 605
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/ResendOTPRequest.php",
+      "sha256": "a44bd22e15358a9aebbf6570a5f7c3d17d374e6a5228d28d80d0f55d348cce95",
+      "bytes": 1447
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/ResetPasswordRequest.php",
+      "sha256": "905521d15b9375dafe982a0c35c1ebadcbba20dc3c8bf72b2b7f908163c9ba84",
+      "bytes": 1891
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/StoreUserFormRequest.php",
+      "sha256": "5e955dfea877f8cb098554e4848d550f195347bda8c69b8ee802d9e2f4386289",
+      "bytes": 3000
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/UpdateNotificationSettingsRequest.php",
+      "sha256": "f55d85b39c6c02fcf58c7c1354e255b281da30a8e11067eb13e6479f4ec6f5a1",
+      "bytes": 914
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/UpdateProfileUserRequest.php",
+      "sha256": "6ff842cb725fd4fb6a2ce65e2da9aa4fbadad789dc57c0e84b06902a0466288d",
+      "bytes": 1601
+    },
+    {
+      "path": "backend/primo/app/Http/Requests/UserManagementRequests/UpdateUserProfileRequest.php",
+      "sha256": "4354abdea9a190d8174ee0a2abaf382182f6eb79549241478b23ebec3844177d",
+      "bytes": 3291
+    },
+    {
+      "path": "backend/primo/app/Jobs/OfferCreatedNotificationJob.php",
+      "sha256": "bbb91ef3f61ea82330075fab2701058041de7a48bafd061e09b53b7f53a2546a",
+      "bytes": 1046
+    },
+    {
+      "path": "backend/primo/app/Models/Address.php",
+      "sha256": "d4701f2c8fcf799ab7d6925e2ebd8cabb0ae107e1bab6dfe10746ea1567abecb",
+      "bytes": 423
+    },
+    {
+      "path": "backend/primo/app/Models/Cart.php",
+      "sha256": "3df66a2e999ba9b45632a14d1a84ad14dd6ad18f662d57aa7f88d9cfe6660534",
+      "bytes": 483
+    },
+    {
+      "path": "backend/primo/app/Models/Categorie.php",
+      "sha256": "bb6899a5ab26633cd7b4a75bbf282ab0e17a492be8d1a7bcfa73ac8c2db08174",
+      "bytes": 317
+    },
+    {
+      "path": "backend/primo/app/Models/Device.php",
+      "sha256": "e1bac6590d9e201e1e9b83c6adf8157c1fa8e888d3f2a531caa022c6100a5660",
+      "bytes": 4364
+    },
+    {
+      "path": "backend/primo/app/Models/Favorite.php",
+      "sha256": "8909ad78937c64e1307a11ab2f1c3f9f800c9619c26d973e4c5a508bd05f273b",
+      "bytes": 434
+    },
+    {
+      "path": "backend/primo/app/Models/Notification.php",
+      "sha256": "2d186cc31aff4e06f2abd183377c8e814fcdc9c54b0fe7a552ae679b7e7c14fa",
+      "bytes": 538
+    },
+    {
+      "path": "backend/primo/app/Models/Offer.php",
+      "sha256": "e99d8f00222f4e8bd55273a3a9c64b366a3610a8388f2199597c9bc6d7e162f8",
+      "bytes": 618
+    },
+    {
+      "path": "backend/primo/app/Models/Ordar.php",
+      "sha256": "888a4a9e4600003e0a5a145832635395a35378e910ecf6c7e8bfe08be353884f",
+      "bytes": 772
+    },
+    {
+      "path": "backend/primo/app/Models/OrdarItam.php",
+      "sha256": "670cd5633217de37e2e635ccc6bc5a507df69d8de7be89063389328a19a30f43",
+      "bytes": 523
+    },
+    {
+      "path": "backend/primo/app/Models/OTPCode.php",
+      "sha256": "37944e33949cbf57642c2ab79d509092fc66127f57caee38f4efd31c8866c3f7",
+      "bytes": 332
+    },
+    {
+      "path": "backend/primo/app/Models/Product.php",
+      "sha256": "503e1433323eabe3cd39059478234ea86d183a9fa392d04fbdcde2444150b775",
+      "bytes": 962
+    },
+    {
+      "path": "backend/primo/app/Models/Rating.php",
+      "sha256": "563ef2b7f4028605a488483da1b4cd8eb8f5cba234582f2a8a254a9c4d0f7bec",
+      "bytes": 434
+    },
+    {
+      "path": "backend/primo/app/Models/Setting.php",
+      "sha256": "c6d06ddc9a3f057ade421db434ee134fce840423daabe9d932713ad779591c35",
+      "bytes": 743
+    },
+    {
+      "path": "backend/primo/app/Models/Suggestion.php",
+      "sha256": "88774008e9ec1f4b3107306ae85190d479dd4a514f9088fdb24baf2eb519e21e",
+      "bytes": 379
+    },
+    {
+      "path": "backend/primo/app/Models/User.php",
+      "sha256": "79c6803722aa47b0f48867b19b53dba4bf853ebdfe91c6ab0b3f366e76ec601b",
+      "bytes": 2572
+    },
+    {
+      "path": "backend/primo/app/Models/Variant.php",
+      "sha256": "82b05063a159abd22f50dc016113446881492b9197e884d68f8b019b44b76949",
+      "bytes": 2346
+    },
+    {
+      "path": "backend/primo/app/Providers/AppServiceProvider.php",
+      "sha256": "caf306ef6a25a547bbb7edd5508a39b51c365083eb6dd58378cf2242018e94c7",
+      "bytes": 361
+    },
+    {
+      "path": "backend/primo/app/Services/AddressService.php",
+      "sha256": "dbb6ef0fd7ed5702597d908cd60fef3ee7ca8a4ca35be6c2bb781d7d53f8970f",
+      "bytes": 3836
+    },
+    {
+      "path": "backend/primo/app/Services/BayanProductSyncService.php",
+      "sha256": "fd0fbf513d3eb26faf881f23fd6280cbfa21731593ad9b2b505565a61eca35aa",
+      "bytes": 16653
+    },
+    {
+      "path": "backend/primo/app/Services/CartService.php",
+      "sha256": "db312c02f7e23dacaf7c3d2966d63cffc976a73272bc3872828bf4df7a9cd920",
+      "bytes": 7410
+    },
+    {
+      "path": "backend/primo/app/Services/CategorieService.php",
+      "sha256": "2023dc9a7fa304c0066244bc0ff70311ee165063922ab54f90c16d94eee998d4",
+      "bytes": 2128
+    },
+    {
+      "path": "backend/primo/app/Services/FcmService.php",
+      "sha256": "7d3de7b6e14d83c5b90779b8fe88a4dc50bf03049c0335c8492a693c6a252c28",
+      "bytes": 5319
+    },
+    {
+      "path": "backend/primo/app/Services/FileStorage.php",
+      "sha256": "d2780645d21128f9b1194def6f5e4c82770834b7758947a116ae8f516effafd7",
+      "bytes": 6263
+    },
+    {
+      "path": "backend/primo/app/Services/HomeService.php",
+      "sha256": "782bf23b53fe0c7192c389b040b68bd24a39e43ba08a82ae22f5e8d7bea2e512",
+      "bytes": 7495
+    },
+    {
+      "path": "backend/primo/app/Services/NotificationService.php",
+      "sha256": "866947bb7d817e6b386bccc2a778f3e56a141eedffc3b84404305ff3e1c82c76",
+      "bytes": 4591
+    },
+    {
+      "path": "backend/primo/app/Services/OfferService.php",
+      "sha256": "80cc3a5a93158282e1cb720ef2708252104f168e304830cd25bb4204a4ae937f",
+      "bytes": 4475
+    },
+    {
+      "path": "backend/primo/app/Services/OrdarService.php",
+      "sha256": "38a00322c99e95a23535ef0dfbf2bbb2433e8575421aa9775432219d15bf9a8d",
+      "bytes": 10313
+    },
+    {
+      "path": "backend/primo/app/Services/ProductService.php",
+      "sha256": "7d99fcffbdfb6517309376d26b1b276568323841d66c844e29f58719668c665f",
+      "bytes": 8811
+    },
+    {
+      "path": "backend/primo/app/Services/Service.php",
+      "sha256": "b3d8ed5d0b93c02d5d651478a1a953d06f9c7020a9b96b5936d7d0d83fbcd53a",
+      "bytes": 974
+    },
+    {
+      "path": "backend/primo/app/Services/SettingService.php",
+      "sha256": "5cdcae9c5121fb4bdc82e04a2751e97d562c954a1cb753d4d5f0cdf107368bb6",
+      "bytes": 3917
+    },
+    {
+      "path": "backend/primo/app/Services/SuggestionService.php",
+      "sha256": "48e912f52d1fb0b2a52d7c11349a368341635546b76ef955aa643e357f7f42d5",
+      "bytes": 3785
+    },
+    {
+      "path": "backend/primo/app/Services/UserManagementServices/OTPService.php",
+      "sha256": "97e32671ddc7c5360cdeb62a27daab677f0a9948e94a87988c5ae1d5f038a985",
+      "bytes": 3844
+    },
+    {
+      "path": "backend/primo/app/Services/UserManagementServices/ProviderService.php",
+      "sha256": "cddda1ee4d14be72906931c3d66eb435eae1754f2c42e8d496f461f694243358",
+      "bytes": 2995
+    },
+    {
+      "path": "backend/primo/app/Services/UserManagementServices/SMSService.php",
+      "sha256": "f94b33b3afdd0dcbd698f5f709b0eca12e9ba62e9bae0523a1292f454148ff4c",
+      "bytes": 2681
+    },
+    {
+      "path": "backend/primo/app/Services/UserManagementServices/TelegramService.php",
+      "sha256": "d2d9ac62dd7149074da2f2ca4ef656ec58afe33eb25bdd1e8dac5e100adc5814",
+      "bytes": 7124
+    },
+    {
+      "path": "backend/primo/app/Services/UserManagementServices/UserManagementService.php",
+      "sha256": "60d2d4f61c76848309fa7ac572f4e13565f604cb4d96888ea87d9d7cbfb24832",
+      "bytes": 18012
+    },
+    {
+      "path": "backend/primo/app/Services/UserManagementServices/WhatsAppService.php",
+      "sha256": "4211572a4b50909db28963f4e81c5f9483988c697b8a30f8f9dc36b0bb0e0140",
+      "bytes": 4570
+    },
+    {
+      "path": "backend/primo/app/Services/UserService.php",
+      "sha256": "3a504d82d6c69eb17e559ed7b8d66077d424f34140e5036cd1384ac851e7518d",
+      "bytes": 7680
+    },
+    {
+      "path": "backend/primo/app/Traits/DistanceTrait.php",
+      "sha256": "fd0128ba97524a8c9094f90b90cb568f1ff99582060fa9388053fefc5afe569b",
+      "bytes": 3358
+    },
+    {
+      "path": "backend/primo/routes/api.php",
+      "sha256": "3de428352b2b4a4a4a4478a0a5882a907b4e4ca2fc13e0493ea4edee2c2da384",
+      "bytes": 7020
+    },
+    {
+      "path": "backend/primo/routes/console.php",
+      "sha256": "3be040ffd898009e1a4b2586445a609ce667477919e29f3e897174f0f1822189",
+      "bytes": 375
+    },
+    {
+      "path": "backend/primo/routes/web.php",
+      "sha256": "7f3f3e276d1936154c9cb0be0e43c3b5cd6b392d1d8e1f61f99a8832582dadf4",
+      "bytes": 280
+    },
+    {
+      "path": "frontend/Primo/pubspec.yaml",
+      "sha256": "8cfb724cdaa5c3909df0772cd77c0ddd8f5396659bb9232a8b7b9d61a4452b4c",
+      "bytes": 5047
+    },
+    {
+      "path": "frontend/Primo/pubspec.lock",
+      "sha256": "aefb4a25aa676d567d15ff29334b3e7805884f71771065608c2412e004029eec",
+      "bytes": 48990
+    },
+    {
+      "path": "frontend/Primo/android/app/src/main/AndroidManifest.xml",
+      "sha256": "8ce44e53fec3c914530e0e0e1141ae75f82f3c76a2c8b18e43fa84392f1e607c",
+      "bytes": 2515
+    },
+    {
+      "path": "backend/primo/composer.json",
+      "sha256": "3802d4d487eb77eeeebe7b0390735acb5b42e998b14b334163ab6e8a6e2090f3",
+      "bytes": 2979
+    }
+  ]
+}

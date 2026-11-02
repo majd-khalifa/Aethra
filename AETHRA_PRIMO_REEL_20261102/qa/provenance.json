@@ -1,0 +1,52 @@
+{
+  "apk": {
+    "path": "C:\\Users\\MVJD\\Desktop\\Primo_References\\primo-reference.apk",
+    "sha256": "656929936f13034d43370deafdcc90d9d009d484068408b7ced596f81c6c533e",
+    "bytes": 68042866,
+    "package": "com.primo.app",
+    "versionName": "1.0.0",
+    "versionCode": 3,
+    "minSdk": 24,
+    "targetSdk": 36,
+    "activity": "com.primo.app.MainActivity",
+    "included_in_repository": false
+  },
+  "primo_reference": {
+    "repository": "majd-khalifa/Primo-market",
+    "commit": "c5595dcca76d37a16b18e3210934fe9af53cee3f",
+    "tracked_status": ""
+  },
+  "brands": [
+    {
+      "file": "public\\brand\\primo-original.png",
+      "sha256": "9b03862bc18d8afc1fab74172327a06cfc0435f3b6655f0c3306013c7561b5a5",
+      "unchanged_from_repo_and_apk": true
+    },
+    {
+      "file": "public\\brand\\aethra-approved.png",
+      "sha256": "6231566d4a442acf1cbcb8b3164191b0c6f849a7b93014b204fe0840e194635e",
+      "unchanged_from_approved_master": true
+    }
+  ],
+  "screens": [
+    {
+      "file": "public\\app\\01-onboarding.png",
+      "sha256": "8d73c878f6178d6879dd3e99c771581831ffcf593fe7c384d75260e4b5cdb970",
+      "source": "adb screencap, supplied unmodified APK on Pixel_7 emulator",
+      "edited": false
+    },
+    {
+      "file": "public\\app\\02-onboarding.png",
+      "sha256": "e2931af8fd2bcb0badbe53016579805566526f820b7456e04020140b2ebbfcb5",
+      "source": "adb screencap, supplied unmodified APK on Pixel_7 emulator",
+      "edited": false
+    },
+    {
+      "file": "public\\app\\03-login.png",
+      "sha256": "eb34aaa65d04896a76a12f077492e3caec1d3c796893aabb1f5d35fa6a8b9d29",
+      "source": "adb screencap, supplied unmodified APK on Pixel_7 emulator",
+      "edited": false
+    }
+  ],
+  "voice": "No authenticated Syrian actor available; subtitle-led version, original music and procedural Foley. Daughter has only synthesized nonverbal sigh."
+}

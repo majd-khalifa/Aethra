@@ -1,0 +1,46 @@
+@font-face {
+  font-family: Cairo;
+  src: url("../public/fonts/Cairo-Bold.ttf");
+  font-weight: 700;
+  font-display: block;
+}
+@font-face {
+  font-family: Cairo;
+  src: url("../public/fonts/Cairo-Regular.ttf");
+  font-weight: 400;
+  font-display: block;
+}
+@font-face {
+  font-family: Cairo;
+  src: url("../public/fonts/Cairo-Medium.ttf");
+  font-weight: 500;
+  font-display: block;
+}
+@font-face {
+  font-family: Cairo;
+  src: url("../public/fonts/Cairo-SemiBold.ttf");
+  font-weight: 600;
+  font-display: block;
+}
+@font-face {
+  font-family: Material;
+  src: url("../public/fonts/MaterialIcons-Regular.otf");
+  font-display: block;
+}
+@font-face {
+  font-family: Space;
+  src: url("../public/fonts/SpaceGrotesk-700.ttf");
+  font-weight: 700;
+  font-display: block;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.arabic {
+  font-family: Cairo, sans-serif;
+  font-weight: 700;
+  direction: rtl;
+}

@@ -1,0 +1,13 @@
+{
+  "status": "STOPPED_BY_USER",
+  "characters_and_illustration_style": "REJECTED_NOT_APPROVED_REFERENCE",
+  "lint": "PASS: eslint src and tsc; no rendering performed",
+  "local_reference_files_checked": 484,
+  "local_reference_changed_files": [],
+  "verified_ui_assets_unchanged": true,
+  "original_brand_assets_unchanged": true,
+  "final_mp4_exists": false,
+  "final_visual_qa": "NOT_PERFORMED; no final export",
+  "runtime_activities": "STOPPED",
+  "rendering_redesign_and_new_scenes": "STOPPED"
+}

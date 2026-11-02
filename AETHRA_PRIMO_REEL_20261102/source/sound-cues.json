@@ -1,0 +1,142 @@
+[
+  {
+    "frame": 67,
+    "seconds": 2.2333333333333334,
+    "name": "controller button"
+  },
+  {
+    "frame": 78,
+    "seconds": 2.6,
+    "name": "controller button"
+  },
+  {
+    "frame": 96,
+    "seconds": 3.2,
+    "name": "controller button"
+  },
+  {
+    "frame": 114,
+    "seconds": 3.8,
+    "name": "football bounce"
+  },
+  {
+    "frame": 136,
+    "seconds": 4.533333333333333,
+    "name": "football bounce"
+  },
+  {
+    "frame": 153,
+    "seconds": 5.1,
+    "name": "comic woodblock reaction"
+  },
+  {
+    "frame": 175,
+    "seconds": 5.833333333333333,
+    "name": "second woodblock"
+  },
+  {
+    "frame": 227,
+    "seconds": 7.566666666666666,
+    "name": "AETHRA nonverbal sigh / synthesized breath"
+  },
+  {
+    "frame": 243,
+    "seconds": 8.1,
+    "name": "soft footstep"
+  },
+  {
+    "frame": 253,
+    "seconds": 8.433333333333334,
+    "name": "soft footstep"
+  },
+  {
+    "frame": 266,
+    "seconds": 8.866666666666667,
+    "name": "door closes"
+  },
+  {
+    "frame": 272,
+    "seconds": 9.066666666666666,
+    "name": "sticker peel"
+  },
+  {
+    "frame": 304,
+    "seconds": 10.133333333333333,
+    "name": "phone tap"
+  },
+  {
+    "frame": 341,
+    "seconds": 11.366666666666667,
+    "name": "phone tap"
+  },
+  {
+    "frame": 377,
+    "seconds": 12.566666666666666,
+    "name": "phone tap"
+  },
+  {
+    "frame": 398,
+    "seconds": 13.266666666666667,
+    "name": "gentle phone chime"
+  },
+  {
+    "frame": 407,
+    "seconds": 13.566666666666666,
+    "name": "fast clock tick"
+  },
+  {
+    "frame": 415,
+    "seconds": 13.833333333333334,
+    "name": "fast clock tick"
+  },
+  {
+    "frame": 423,
+    "seconds": 14.1,
+    "name": "fast clock tick"
+  },
+  {
+    "frame": 436,
+    "seconds": 14.533333333333333,
+    "name": "doorbell first note"
+  },
+  {
+    "frame": 443,
+    "seconds": 14.766666666666667,
+    "name": "doorbell second note"
+  },
+  {
+    "frame": 459,
+    "seconds": 15.3,
+    "name": "grocery bag rustle"
+  },
+  {
+    "frame": 476,
+    "seconds": 15.866666666666667,
+    "name": "warm resolution chime"
+  },
+  {
+    "frame": 482,
+    "seconds": 16.066666666666666,
+    "name": "warm resolution chime"
+  },
+  {
+    "frame": 488,
+    "seconds": 16.266666666666666,
+    "name": "warm resolution chime"
+  },
+  {
+    "frame": 514,
+    "seconds": 17.133333333333333,
+    "name": "warm resolution chime"
+  },
+  {
+    "frame": 520,
+    "seconds": 17.333333333333332,
+    "name": "warm resolution chime"
+  },
+  {
+    "frame": 526,
+    "seconds": 17.533333333333335,
+    "name": "warm resolution chime"
+  }
+]

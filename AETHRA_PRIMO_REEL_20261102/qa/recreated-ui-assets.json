@@ -1,0 +1,50 @@
+[
+  {
+    "asset": "public\\primo\\beverages.png",
+    "source": "assets\\images\\beverages.png",
+    "sha256": "e0e6697ddf38e75a42acbd4abde25d579596040a1b50c84e942f4d057a8d46b1",
+    "byte_identical": true
+  },
+  {
+    "asset": "public\\primo\\canns.png",
+    "source": "assets\\images\\canns.png",
+    "sha256": "3870c74cc5abf2e2e88328d72af70eacceb81b348cea93dfacf19cc8b480cd9f",
+    "byte_identical": true
+  },
+  {
+    "asset": "public\\primo\\groceries.jpg",
+    "source": "assets\\images\\groceries.jpg",
+    "sha256": "161353b91f7784a249922509977389d97155c54afe81bb098766b2bdf297fb66",
+    "byte_identical": true
+  },
+  {
+    "asset": "public\\primo\\oil.jpg",
+    "source": "assets\\images\\oil.jpg",
+    "sha256": "1acc04d40427be01ff8b713f2f1ac61b7875a6e406467c1f587e3dfbbc0bc611",
+    "byte_identical": true
+  },
+  {
+    "asset": "public\\primo\\snacks.png",
+    "source": "assets\\images\\snacks.png",
+    "sha256": "939fc7a6f2a2b1a8535bc3ae62ab638cd8b3187a144716b73e550831b1c535f2",
+    "byte_identical": true
+  },
+  {
+    "asset": "public\\primo\\tomato.png",
+    "source": "assets\\images\\tomato.png",
+    "sha256": "5a6294cfca82d3544f0e373b6c880cae5603b1ef3973c7b6d7adb1f6bca262f8",
+    "byte_identical": true
+  },
+  {
+    "asset": "public\\primo\\vegetables.png",
+    "source": "assets\\images\\vegetables.png",
+    "sha256": "c1011b485e64fa393b4f3d4eccae8bc8cc93b61a58a38205b9a42e47cac0269c",
+    "byte_identical": true
+  },
+  {
+    "asset": "public/brand/primo-original.png",
+    "source": "assets/images/logo.png",
+    "sha256": "9b03862bc18d8afc1fab74172327a06cfc0435f3b6655f0c3306013c7561b5a5",
+    "byte_identical": true
+  }
+]
