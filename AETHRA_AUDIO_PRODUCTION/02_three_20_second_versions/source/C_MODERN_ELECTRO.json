@@ -1,0 +1,3356 @@
+{
+  "name": "MODERN ELECTRO",
+  "bpm": 126,
+  "meter": "4/4 plus a two-beat closing coda",
+  "seed": 2303,
+  "swing": "tight syncopated sixteenth-note electro with short call-and-response phrases",
+  "character": "bright, youthful, crisp and energetic without a drop",
+  "harmony": [
+    {
+      "start": 0.0,
+      "chord": "Bm9",
+      "notes": [
+        59,
+        62,
+        66,
+        69,
+        73
+      ],
+      "bass": 47
+    },
+    {
+      "start": 1.9047619047619047,
+      "chord": "D6/9",
+      "notes": [
+        50,
+        54,
+        57,
+        59,
+        64
+      ],
+      "bass": 38
+    },
+    {
+      "start": 3.8095238095238093,
+      "chord": "Aadd9",
+      "notes": [
+        57,
+        61,
+        64,
+        71
+      ],
+      "bass": 45
+    },
+    {
+      "start": 5.7142857142857135,
+      "chord": "Em7",
+      "notes": [
+        52,
+        55,
+        59,
+        62
+      ],
+      "bass": 40
+    },
+    {
+      "start": 7.619047619047619,
+      "chord": "Gmaj9",
+      "notes": [
+        55,
+        59,
+        62,
+        66,
+        69
+      ],
+      "bass": 43
+    },
+    {
+      "start": 9.523809523809524,
+      "chord": "F#m7",
+      "notes": [
+        54,
+        57,
+        61,
+        64
+      ],
+      "bass": 42
+    },
+    {
+      "start": 11.428571428571427,
+      "chord": "Bm9",
+      "notes": [
+        59,
+        62,
+        66,
+        69,
+        73
+      ],
+      "bass": 47
+    },
+    {
+      "start": 13.333333333333332,
+      "chord": "Asus2",
+      "notes": [
+        57,
+        59,
+        64,
+        69
+      ],
+      "bass": 45
+    },
+    {
+      "start": 15.238095238095237,
+      "chord": "D6/9",
+      "notes": [
+        50,
+        54,
+        57,
+        59,
+        64
+      ],
+      "bass": 38
+    },
+    {
+      "start": 17.142857142857142,
+      "chord": "Bmadd9",
+      "notes": [
+        59,
+        62,
+        66,
+        73
+      ],
+      "bass": 47
+    }
+  ],
+  "events": [
+    {
+      "start": 0.0,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 59,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 0.0,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 62,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 0.0,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 66,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 0.0,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 69,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 0.0,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 73,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 0.0,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 47,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 0.0,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.083,
+      "pan": 0
+    },
+    {
+      "start": 0.0,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 0.0,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 71,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 0.23809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 0.23809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 0.23809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 0.23809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 85,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 0.23809524,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 0.35714286,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 59,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 0.35714286,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 74,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 0.47619048,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 0.47619048,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 0.5952381,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 78,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 0.71428571,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 0.71428571,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 0.71428571,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 0.71428571,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 85,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 0.71428571,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 47,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 0.71428571,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.058,
+      "pan": 0
+    },
+    {
+      "start": 0.71428571,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 0.83333333,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 81,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 0.95238095,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 1.19047619,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 1.19047619,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 78,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 1.30952381,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 1.30952381,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 1.30952381,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 1.30952381,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 85,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 1.30952381,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 54,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 1.30952381,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.07,
+      "pan": 0
+    },
+    {
+      "start": 1.42857143,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 1.42857143,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 1.54761905,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 76,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 1.66666667,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 59,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 1.66666667,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.042,
+      "pan": 0
+    },
+    {
+      "start": 1.66666667,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 1.9047619,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 50,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 1.9047619,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 54,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 1.9047619,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 57,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 1.9047619,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 59,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 1.9047619,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 64,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 1.9047619,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 38,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 1.9047619,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.083,
+      "pan": 0
+    },
+    {
+      "start": 1.9047619,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 2.14285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 66,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 2.14285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 69,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 2.14285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 2.14285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 2.14285714,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 2.14285714,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 73,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 2.26190476,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 50,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 2.38095238,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 2.38095238,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 2.61904762,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 66,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 2.61904762,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 69,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 2.61904762,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 2.61904762,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 2.61904762,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 38,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 2.61904762,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.058,
+      "pan": 0
+    },
+    {
+      "start": 2.61904762,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 2.85714286,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 2.97619048,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 3.0952381,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 3.0952381,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 3.21428571,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 66,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 3.21428571,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 69,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 3.21428571,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 3.21428571,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 3.21428571,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 45,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 3.21428571,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.07,
+      "pan": 0
+    },
+    {
+      "start": 3.21428571,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 3.21428571,
+      "duration": 0.32,
+      "sound": "C_lead",
+      "midi": 74,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 3.33333333,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 3.33333333,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 3.57142857,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 50,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 3.57142857,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.042,
+      "pan": 0
+    },
+    {
+      "start": 3.57142857,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 3.80952381,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 57,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 3.80952381,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 61,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 3.80952381,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 64,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 3.80952381,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 71,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 3.80952381,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 45,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 3.80952381,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.083,
+      "pan": 0
+    },
+    {
+      "start": 3.80952381,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 3.80952381,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 74,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 4.04761905,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 73,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 4.04761905,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 4.04761905,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 83,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 4.04761905,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 4.16666667,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 57,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 4.16666667,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 78,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 4.28571429,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 4.28571429,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 4.4047619,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 81,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 4.52380952,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 73,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 4.52380952,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 4.52380952,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 83,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 4.52380952,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 45,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 4.52380952,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.058,
+      "pan": 0
+    },
+    {
+      "start": 4.52380952,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 4.64285714,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 83,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 4.76190476,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 5.0,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 5.0,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 81,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 5.11904762,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 73,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 5.11904762,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 5.11904762,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 83,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 5.11904762,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 52,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 5.11904762,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.07,
+      "pan": 0
+    },
+    {
+      "start": 5.23809524,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 5.23809524,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 5.35714286,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 78,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 5.47619048,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 57,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 5.47619048,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.042,
+      "pan": 0
+    },
+    {
+      "start": 5.47619048,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 5.71428571,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 52,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 5.71428571,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 55,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 5.71428571,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 59,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 5.71428571,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 62,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 5.71428571,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 40,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 5.71428571,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.083,
+      "pan": 0
+    },
+    {
+      "start": 5.71428571,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 5.95238095,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 67,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 5.95238095,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 5.95238095,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 5.95238095,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 5.95238095,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 76,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 6.07142857,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 52,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 6.19047619,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 6.19047619,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 6.42857143,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 67,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 6.42857143,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 6.42857143,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 6.42857143,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 40,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 6.42857143,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.058,
+      "pan": 0
+    },
+    {
+      "start": 6.42857143,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 6.66666667,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 6.78571429,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 6.9047619,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 6.9047619,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 7.02380952,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 67,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 7.02380952,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 7.02380952,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 7.02380952,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 47,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 7.02380952,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.07,
+      "pan": 0
+    },
+    {
+      "start": 7.02380952,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 7.02380952,
+      "duration": 0.32,
+      "sound": "C_lead",
+      "midi": 74,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 7.14285714,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 7.14285714,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 7.38095238,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 52,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 7.38095238,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.042,
+      "pan": 0
+    },
+    {
+      "start": 7.38095238,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 7.61904762,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 55,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 7.61904762,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 59,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 7.61904762,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 62,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 7.61904762,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 66,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 7.61904762,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 69,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 7.61904762,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 43,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 7.61904762,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.083,
+      "pan": 0
+    },
+    {
+      "start": 7.61904762,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 7.61904762,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 71,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 7.85714286,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 7.85714286,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 7.85714286,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 7.85714286,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 7.85714286,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 7.97619048,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 55,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 7.97619048,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 74,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 8.0952381,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 8.0952381,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 8.21428571,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 78,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 8.33333333,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 8.33333333,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 8.33333333,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 8.33333333,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 8.33333333,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 43,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 8.33333333,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.058,
+      "pan": 0
+    },
+    {
+      "start": 8.33333333,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 8.45238095,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 81,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 8.57142857,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 8.80952381,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 8.80952381,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 83,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 8.92857143,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 8.92857143,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 8.92857143,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 8.92857143,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 8.92857143,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 50,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 8.92857143,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.07,
+      "pan": 0
+    },
+    {
+      "start": 9.04761905,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 9.04761905,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 9.16666667,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 81,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 9.28571429,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 55,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 9.28571429,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.042,
+      "pan": 0
+    },
+    {
+      "start": 9.28571429,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 9.52380952,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 54,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 9.52380952,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 57,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 9.52380952,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 61,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 9.52380952,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 64,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 9.52380952,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 42,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 9.52380952,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.083,
+      "pan": 0
+    },
+    {
+      "start": 9.52380952,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 9.76190476,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 69,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 9.76190476,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 73,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 9.76190476,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 9.76190476,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 9.76190476,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 78,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 9.88095238,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 54,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 10.0,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 10.0,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 10.23809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 69,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 10.23809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 73,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 10.23809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 10.23809524,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 42,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 10.23809524,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.058,
+      "pan": 0
+    },
+    {
+      "start": 10.23809524,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 10.47619048,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 10.5952381,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 10.71428571,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 10.71428571,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 69,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 73,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 49,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.07,
+      "pan": 0
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.32,
+      "sound": "C_lead",
+      "midi": 76,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 10.95238095,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 10.95238095,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 11.19047619,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 54,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 11.19047619,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.042,
+      "pan": 0
+    },
+    {
+      "start": 11.19047619,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 11.42857143,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 59,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 11.42857143,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 62,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 11.42857143,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 66,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 11.42857143,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 69,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 11.42857143,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 73,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 11.42857143,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 47,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 11.42857143,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.083,
+      "pan": 0
+    },
+    {
+      "start": 11.42857143,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 11.42857143,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 73,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 11.66666667,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 11.66666667,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 11.66666667,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 11.66666667,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 85,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 11.66666667,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 11.78571429,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 59,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 11.78571429,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 76,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 11.9047619,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 11.9047619,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 12.02380952,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 81,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 12.14285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 12.14285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 12.14285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 12.14285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 85,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 12.14285714,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 47,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 12.14285714,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.058,
+      "pan": 0
+    },
+    {
+      "start": 12.14285714,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 12.26190476,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 78,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 12.38095238,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 12.61904762,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 12.61904762,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 76,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 12.73809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 12.73809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 12.73809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 12.73809524,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 85,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 12.73809524,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 54,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 12.73809524,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.07,
+      "pan": 0
+    },
+    {
+      "start": 12.85714286,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 12.85714286,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 12.97619048,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 74,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 13.0952381,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 59,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 13.0952381,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.042,
+      "pan": 0
+    },
+    {
+      "start": 13.0952381,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 13.33333333,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 57,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 13.33333333,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 59,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 13.33333333,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 64,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 13.33333333,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 69,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 13.33333333,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 45,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 13.33333333,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.083,
+      "pan": 0
+    },
+    {
+      "start": 13.33333333,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 13.57142857,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 13.57142857,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 13.57142857,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 13.57142857,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 13.57142857,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 73,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 13.69047619,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 57,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 13.80952381,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 13.80952381,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 14.04761905,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 14.04761905,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 14.04761905,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 14.04761905,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 45,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 14.04761905,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.058,
+      "pan": 0
+    },
+    {
+      "start": 14.04761905,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 14.28571429,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 14.4047619,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 14.52380952,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 14.52380952,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 14.64285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 14.64285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 14.64285714,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 81,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 14.64285714,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 52,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 14.64285714,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.07,
+      "pan": 0
+    },
+    {
+      "start": 14.64285714,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 14.64285714,
+      "duration": 0.32,
+      "sound": "C_lead",
+      "midi": 71,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 14.76190476,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 14.76190476,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 15.0,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 57,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 15.0,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.042,
+      "pan": 0
+    },
+    {
+      "start": 15.0,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 15.23809524,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 50,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 15.23809524,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 54,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 15.23809524,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 57,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 15.23809524,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 59,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 15.23809524,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 64,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 15.23809524,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 38,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 15.23809524,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.083,
+      "pan": 0
+    },
+    {
+      "start": 15.23809524,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 15.23809524,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 74,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 15.47619048,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 66,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 15.47619048,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 69,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 15.47619048,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 15.47619048,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 15.47619048,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 15.5952381,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 50,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 15.5952381,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 78,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 15.71428571,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 15.71428571,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 15.83333333,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 81,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 15.95238095,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 66,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 15.95238095,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 69,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 15.95238095,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 15.95238095,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 15.95238095,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 38,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 15.95238095,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.058,
+      "pan": 0
+    },
+    {
+      "start": 15.95238095,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 16.07142857,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 83,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 16.19047619,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 16.42857143,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 16.42857143,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 81,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 16.54761905,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 66,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 16.54761905,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 69,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 16.54761905,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 71,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 16.54761905,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 76,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 16.54761905,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 45,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 16.54761905,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.07,
+      "pan": 0
+    },
+    {
+      "start": 16.66666667,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 16.66666667,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 16.78571429,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 78,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 16.9047619,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 50,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 16.9047619,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.042,
+      "pan": 0
+    },
+    {
+      "start": 16.9047619,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 17.14285714,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 59,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 17.14285714,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 62,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 17.14285714,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 66,
+      "level": 0.006,
+      "pan": 0.2
+    },
+    {
+      "start": 17.14285714,
+      "duration": 2.0,
+      "sound": "C_pad",
+      "midi": 73,
+      "level": 0.006,
+      "pan": -0.2
+    },
+    {
+      "start": 17.14285714,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 47,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 17.14285714,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.083,
+      "pan": 0
+    },
+    {
+      "start": 17.14285714,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 17.38095238,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 17.38095238,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 17.38095238,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 85,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 17.38095238,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 17.38095238,
+      "duration": 0.18,
+      "sound": "C_lead",
+      "midi": 76,
+      "level": 0.035,
+      "pan": 0.12
+    },
+    {
+      "start": 17.5,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 59,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 17.61904762,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 17.61904762,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 17.85714286,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 17.85714286,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 17.85714286,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 85,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 17.85714286,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 47,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 17.85714286,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.058,
+      "pan": 0
+    },
+    {
+      "start": 17.85714286,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 18.0952381,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 18.21428571,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 18.33333333,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 18.33333333,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 18.45238095,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 74,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 18.45238095,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 78,
+      "level": 0.011,
+      "pan": -0.2
+    },
+    {
+      "start": 18.45238095,
+      "duration": 0.18,
+      "sound": "C_chord",
+      "midi": 85,
+      "level": 0.011,
+      "pan": 0.2
+    },
+    {
+      "start": 18.45238095,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 54,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 18.45238095,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.07,
+      "pan": 0
+    },
+    {
+      "start": 18.45238095,
+      "duration": 0.035,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.007,
+      "pan": 0.2
+    },
+    {
+      "start": 18.45238095,
+      "duration": 0.32,
+      "sound": "C_lead",
+      "midi": 73,
+      "level": 0.035,
+      "pan": -0.12
+    },
+    {
+      "start": 18.5,
+      "duration": 0.2,
+      "sound": "C_lead",
+      "midi": 78,
+      "level": 0.03,
+      "pan": 0
+    },
+    {
+      "start": 18.57142857,
+      "duration": 0.12,
+      "sound": "clap_c",
+      "midi": 60,
+      "level": 0.04,
+      "pan": -0.05
+    },
+    {
+      "start": 18.57142857,
+      "duration": 0.045,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.15
+    },
+    {
+      "start": 18.77,
+      "duration": 0.2,
+      "sound": "C_lead",
+      "midi": 76,
+      "level": 0.03,
+      "pan": 0
+    },
+    {
+      "start": 18.80952381,
+      "duration": 0.21,
+      "sound": "C_bass",
+      "midi": 59,
+      "level": 0.061,
+      "pan": 0
+    },
+    {
+      "start": 18.80952381,
+      "duration": 0.14,
+      "sound": "kick_c",
+      "midi": 60,
+      "level": 0.042,
+      "pan": 0
+    },
+    {
+      "start": 18.80952381,
+      "duration": 0.072,
+      "sound": "hat_c",
+      "midi": 60,
+      "level": 0.014,
+      "pan": -0.15
+    },
+    {
+      "start": 18.95,
+      "duration": 0.99,
+      "sound": "C_pad",
+      "midi": 59,
+      "level": 0.01,
+      "pan": 0
+    },
+    {
+      "start": 18.95,
+      "duration": 0.99,
+      "sound": "C_pad",
+      "midi": 62,
+      "level": 0.01,
+      "pan": 0
+    },
+    {
+      "start": 18.95,
+      "duration": 0.99,
+      "sound": "C_pad",
+      "midi": 66,
+      "level": 0.01,
+      "pan": 0
+    },
+    {
+      "start": 18.95,
+      "duration": 0.99,
+      "sound": "C_pad",
+      "midi": 73,
+      "level": 0.01,
+      "pan": 0
+    },
+    {
+      "start": 19.05,
+      "duration": 0.25,
+      "sound": "C_lead",
+      "midi": 74,
+      "level": 0.03,
+      "pan": 0
+    },
+    {
+      "start": 19.35,
+      "duration": 0.62,
+      "sound": "C_lead",
+      "midi": 71,
+      "level": 0.03,
+      "pan": 0
+    }
+  ],
+  "version": "C",
+  "sample_rate": 48000,
+  "duration_seconds": 20,
+  "target_lufs": -15.5,
+  "source_policy": "Independent new composition; no prior music recording, arrangement or melodic phrase is reused."
+}

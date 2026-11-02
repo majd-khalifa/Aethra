@@ -1,0 +1,19 @@
+{
+  "approved_pcm_bytes": 4320000,
+  "approved_pcm_sha256": "6081265208a684af16930c1ea1948a808eb9981437b8bc8e4584ec0c89a9f9e4",
+  "extended_prefix_sha256": "6081265208a684af16930c1ea1948a808eb9981437b8bc8e4584ec0c89a9f9e4",
+  "original_15s_pcm_bit_identical": true,
+  "original_30_cues_unchanged": true,
+  "new_cues": [
+    {
+      "frame": 487,
+      "seconds": 16.233333333333334,
+      "description": "Quiet airy glint follows the first visible CTA edge light."
+    },
+    {
+      "frame": 582,
+      "seconds": 19.4,
+      "description": "Soft tonal settle accompanies the end of the closing group movement."
+    }
+  ]
+}

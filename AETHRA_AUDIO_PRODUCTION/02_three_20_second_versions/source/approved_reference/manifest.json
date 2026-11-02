@@ -1,0 +1,31 @@
+{
+  "origin_repo": "majd-khalifa/Aethra",
+  "origin_pr": 3,
+  "origin_commit": "169add7944f7b4c2bf484f44a0f2e37c6185943b",
+  "files": {
+    "approved_30_cues.json": {
+      "bytes": 11164,
+      "sha256": "dc48acabf9c0d167df6955d42a34a4e7daa1098c697b75ad3bc6cf3294a96241"
+    },
+    "LOCKED_15S_PICTURE.mp4": {
+      "bytes": 1842039,
+      "sha256": "906086dde88186f391e4a63a9304f15b5a779daca7be732dbc0939b585e079d5"
+    },
+    "AETHRA_SFX_15S_APPROVED.wav": {
+      "bytes": 4320044,
+      "sha256": "98c7dba4629013ac3b2ac2fe9464876f66098926ac377e560f4f25148e7dafdd"
+    },
+    "ending_frame_449.png": {
+      "bytes": 158044,
+      "sha256": "b164125381df697aba8d610a053bcb2a31f5182c97985aa065c124e841febcc9"
+    },
+    "APPROVED_15S_SOUND_CUE_SHEET.md": {
+      "bytes": 7694,
+      "sha256": "d960b2aefefaf1edff47a415f9c059283e55fd993392fdeb1dbb84b9ebe299b4"
+    },
+    "source_identity.json": {
+      "bytes": 76628,
+      "sha256": "9e38b625a3df9914d2f15faf63c7b8fc3824287bc0a87e34a8a0f2bd8898d292"
+    }
+  }
+}

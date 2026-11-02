@@ -1,0 +1,145 @@
+{
+  "common_sfx": {
+    "input_i": "-18.69",
+    "input_tp": "-2.07",
+    "input_lra": "6.20",
+    "input_thresh": "-30.37",
+    "output_i": "-15.00",
+    "output_tp": "-1.50",
+    "output_lra": "3.70",
+    "output_thresh": "-26.51",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.50"
+  },
+  "versions": {
+    "A": {
+      "name": "TECH_GROOVE",
+      "bpm": 108,
+      "music_gain_db": 19.172,
+      "music_only_peak_control_max_reduction_db": 6.5544975720274685,
+      "mix_wav": {
+        "input_i": "-15.47",
+        "input_tp": "-1.85",
+        "input_lra": "3.90",
+        "input_thresh": "-25.58",
+        "output_i": "-15.70",
+        "output_tp": "-2.21",
+        "output_lra": "1.60",
+        "output_thresh": "-25.76",
+        "normalization_type": "dynamic",
+        "target_offset": "0.20"
+      },
+      "aac_in_mp4": {
+        "input_i": "-15.48",
+        "input_tp": "-1.85",
+        "input_lra": "3.80",
+        "input_thresh": "-25.59",
+        "output_i": "-15.70",
+        "output_tp": "-2.22",
+        "output_lra": "1.60",
+        "output_thresh": "-25.76",
+        "normalization_type": "dynamic",
+        "target_offset": "0.20"
+      },
+      "music_wav": {
+        "input_i": "-16.56",
+        "input_tp": "-1.85",
+        "input_lra": "2.30",
+        "input_thresh": "-26.64",
+        "output_i": "-15.69",
+        "output_tp": "-1.50",
+        "output_lra": "1.40",
+        "output_thresh": "-25.74",
+        "normalization_type": "dynamic",
+        "target_offset": "0.19"
+      },
+      "approved_sfx_processing": "none; original PCM samples and all 30 cue timings retained exactly"
+    },
+    "B": {
+      "name": "FUTURE_PULSE",
+      "bpm": 96,
+      "music_gain_db": 20.67599999999999,
+      "music_only_peak_control_max_reduction_db": 15.490886393468003,
+      "mix_wav": {
+        "input_i": "-15.54",
+        "input_tp": "-1.85",
+        "input_lra": "2.70",
+        "input_thresh": "-25.57",
+        "output_i": "-15.21",
+        "output_tp": "-1.50",
+        "output_lra": "2.10",
+        "output_thresh": "-25.23",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.29"
+      },
+      "aac_in_mp4": {
+        "input_i": "-15.53",
+        "input_tp": "-1.85",
+        "input_lra": "2.60",
+        "input_thresh": "-25.58",
+        "output_i": "-15.21",
+        "output_tp": "-1.50",
+        "output_lra": "2.10",
+        "output_thresh": "-25.23",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.29"
+      },
+      "music_wav": {
+        "input_i": "-16.58",
+        "input_tp": "-1.85",
+        "input_lra": "3.40",
+        "input_thresh": "-26.62",
+        "output_i": "-15.05",
+        "output_tp": "-1.50",
+        "output_lra": "2.80",
+        "output_thresh": "-25.07",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.45"
+      },
+      "approved_sfx_processing": "none; original PCM samples and all 30 cue timings retained exactly"
+    },
+    "C": {
+      "name": "MODERN_ELECTRO",
+      "bpm": 126,
+      "music_gain_db": 18.530000000000005,
+      "music_only_peak_control_max_reduction_db": 4.26717065728343,
+      "mix_wav": {
+        "input_i": "-15.51",
+        "input_tp": "-1.85",
+        "input_lra": "2.00",
+        "input_thresh": "-25.66",
+        "output_i": "-15.42",
+        "output_tp": "-1.55",
+        "output_lra": "1.60",
+        "output_thresh": "-25.53",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.08"
+      },
+      "aac_in_mp4": {
+        "input_i": "-15.51",
+        "input_tp": "-1.77",
+        "input_lra": "2.00",
+        "input_thresh": "-25.66",
+        "output_i": "-15.42",
+        "output_tp": "-1.55",
+        "output_lra": "1.60",
+        "output_thresh": "-25.53",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.08"
+      },
+      "music_wav": {
+        "input_i": "-16.52",
+        "input_tp": "-1.71",
+        "input_lra": "2.40",
+        "input_thresh": "-26.67",
+        "output_i": "-15.47",
+        "output_tp": "-1.50",
+        "output_lra": "2.10",
+        "output_thresh": "-25.60",
+        "normalization_type": "dynamic",
+        "target_offset": "-0.03"
+      },
+      "approved_sfx_processing": "none; original PCM samples and all 30 cue timings retained exactly"
+    }
+  }
+}

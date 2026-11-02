@@ -1,0 +1,803 @@
+{
+  "background_palette": [
+    [
+      251,
+      250,
+      255
+    ],
+    [
+      242,
+      237,
+      255
+    ],
+    [
+      237,
+      231,
+      254
+    ]
+  ],
+  "plane_edge_fits_x_from_y": [
+    [
+      -0.7276375776694841,
+      1549.7423597370373
+    ],
+    [
+      -0.5155303676212452,
+      1577.1730350903592
+    ]
+  ],
+  "motion": [
+    {
+      "output_frame": 450,
+      "seconds": 15.0,
+      "foreground_y_translation_px": -0.0
+    },
+    {
+      "output_frame": 451,
+      "seconds": 15.033333333333333,
+      "foreground_y_translation_px": -0.0009371118048401004
+    },
+    {
+      "output_frame": 452,
+      "seconds": 15.066666666666666,
+      "foreground_y_translation_px": -0.0073175540050624665
+    },
+    {
+      "output_frame": 453,
+      "seconds": 15.1,
+      "foreground_y_translation_px": -0.024099306065153623
+    },
+    {
+      "output_frame": 454,
+      "seconds": 15.133333333333333,
+      "foreground_y_translation_px": -0.05572670251824856
+    },
+    {
+      "output_frame": 455,
+      "seconds": 15.166666666666666,
+      "foreground_y_translation_px": -0.10614784465871889
+    },
+    {
+      "output_frame": 456,
+      "seconds": 15.2,
+      "foreground_y_translation_px": -0.17883201223476106
+    },
+    {
+      "output_frame": 457,
+      "seconds": 15.233333333333333,
+      "foreground_y_translation_px": -0.2767870751409846
+    },
+    {
+      "output_frame": 458,
+      "seconds": 15.266666666666667,
+      "foreground_y_translation_px": -0.4025769051110001
+    },
+    {
+      "output_frame": 459,
+      "seconds": 15.3,
+      "foreground_y_translation_px": -0.5583387874100076
+    },
+    {
+      "output_frame": 460,
+      "seconds": 15.333333333333334,
+      "foreground_y_translation_px": -0.745800832527385
+    },
+    {
+      "output_frame": 461,
+      "seconds": 15.366666666666667,
+      "foreground_y_translation_px": -0.9662993878692754
+    },
+    {
+      "output_frame": 462,
+      "seconds": 15.4,
+      "foreground_y_translation_px": -1.2207964494511763
+    },
+    {
+      "output_frame": 463,
+      "seconds": 15.433333333333334,
+      "foreground_y_translation_px": -1.509897073590528
+    },
+    {
+      "output_frame": 464,
+      "seconds": 15.466666666666667,
+      "foreground_y_translation_px": -1.833866788599299
+    },
+    {
+      "output_frame": 465,
+      "seconds": 15.5,
+      "foreground_y_translation_px": -2.1926490064765782
+    },
+    {
+      "output_frame": 466,
+      "seconds": 15.533333333333333,
+      "foreground_y_translation_px": -2.5858824346011606
+    },
+    {
+      "output_frame": 467,
+      "seconds": 15.566666666666666,
+      "foreground_y_translation_px": -3.0129184874241366
+    },
+    {
+      "output_frame": 468,
+      "seconds": 15.6,
+      "foreground_y_translation_px": -3.47283869816148
+    },
+    {
+      "output_frame": 469,
+      "seconds": 15.633333333333333,
+      "foreground_y_translation_px": -3.9644721304866337
+    },
+    {
+      "output_frame": 470,
+      "seconds": 15.666666666666666,
+      "foreground_y_translation_px": -4.486412790223103
+    },
+    {
+      "output_frame": 471,
+      "seconds": 15.7,
+      "foreground_y_translation_px": -5.037037037037036
+    },
+    {
+      "output_frame": 472,
+      "seconds": 15.733333333333333,
+      "foreground_y_translation_px": -5.614520996129824
+    },
+    {
+      "output_frame": 473,
+      "seconds": 15.766666666666667,
+      "foreground_y_translation_px": -6.216857969930679
+    },
+    {
+      "output_frame": 474,
+      "seconds": 15.8,
+      "foreground_y_translation_px": -6.8418758497892185
+    },
+    {
+      "output_frame": 475,
+      "seconds": 15.833333333333334,
+      "foreground_y_translation_px": -7.487254527668071
+    },
+    {
+      "output_frame": 476,
+      "seconds": 15.866666666666667,
+      "foreground_y_translation_px": -8.15054330783545
+    },
+    {
+      "output_frame": 477,
+      "seconds": 15.9,
+      "foreground_y_translation_px": -8.829178318557744
+    },
+    {
+      "output_frame": 478,
+      "seconds": 15.933333333333334,
+      "foreground_y_translation_px": -9.520499923792103
+    },
+    {
+      "output_frame": 479,
+      "seconds": 15.966666666666667,
+      "foreground_y_translation_px": -10.22177013487904
+    },
+    {
+      "output_frame": 480,
+      "seconds": 16.0,
+      "foreground_y_translation_px": -10.930190022235003
+    },
+    {
+      "output_frame": 481,
+      "seconds": 16.033333333333335,
+      "foreground_y_translation_px": -11.64291712704497
+    },
+    {
+      "output_frame": 482,
+      "seconds": 16.066666666666666,
+      "foreground_y_translation_px": -12.357082872955031
+    },
+    {
+      "output_frame": 483,
+      "seconds": 16.1,
+      "foreground_y_translation_px": -13.069809977764997
+    },
+    {
+      "output_frame": 484,
+      "seconds": 16.133333333333333,
+      "foreground_y_translation_px": -13.778229865120958
+    },
+    {
+      "output_frame": 485,
+      "seconds": 16.166666666666668,
+      "foreground_y_translation_px": -14.479500076207897
+    },
+    {
+      "output_frame": 486,
+      "seconds": 16.2,
+      "foreground_y_translation_px": -15.170821681442257
+    },
+    {
+      "output_frame": 487,
+      "seconds": 16.233333333333334,
+      "foreground_y_translation_px": -15.849456692164551
+    },
+    {
+      "output_frame": 488,
+      "seconds": 16.266666666666666,
+      "foreground_y_translation_px": -16.512745472331925
+    },
+    {
+      "output_frame": 489,
+      "seconds": 16.3,
+      "foreground_y_translation_px": -17.15812415021078
+    },
+    {
+      "output_frame": 490,
+      "seconds": 16.333333333333332,
+      "foreground_y_translation_px": -17.783142030069325
+    },
+    {
+      "output_frame": 491,
+      "seconds": 16.366666666666667,
+      "foreground_y_translation_px": -18.385479003870174
+    },
+    {
+      "output_frame": 492,
+      "seconds": 16.4,
+      "foreground_y_translation_px": -18.962962962962965
+    },
+    {
+      "output_frame": 493,
+      "seconds": 16.433333333333334,
+      "foreground_y_translation_px": -19.5135872097769
+    },
+    {
+      "output_frame": 494,
+      "seconds": 16.466666666666665,
+      "foreground_y_translation_px": -20.035527869513363
+    },
+    {
+      "output_frame": 495,
+      "seconds": 16.5,
+      "foreground_y_translation_px": -20.527161301838515
+    },
+    {
+      "output_frame": 496,
+      "seconds": 16.533333333333335,
+      "foreground_y_translation_px": -20.98708151257586
+    },
+    {
+      "output_frame": 497,
+      "seconds": 16.566666666666666,
+      "foreground_y_translation_px": -21.41411756539884
+    },
+    {
+      "output_frame": 498,
+      "seconds": 16.6,
+      "foreground_y_translation_px": -21.807350993523418
+    },
+    {
+      "output_frame": 499,
+      "seconds": 16.633333333333333,
+      "foreground_y_translation_px": -22.166133211400698
+    },
+    {
+      "output_frame": 500,
+      "seconds": 16.666666666666668,
+      "foreground_y_translation_px": -22.490102926409484
+    },
+    {
+      "output_frame": 501,
+      "seconds": 16.7,
+      "foreground_y_translation_px": -22.779203550548836
+    },
+    {
+      "output_frame": 502,
+      "seconds": 16.733333333333334,
+      "foreground_y_translation_px": -23.03370061213073
+    },
+    {
+      "output_frame": 503,
+      "seconds": 16.766666666666666,
+      "foreground_y_translation_px": -23.254199167472613
+    },
+    {
+      "output_frame": 504,
+      "seconds": 16.8,
+      "foreground_y_translation_px": -23.441661212590002
+    },
+    {
+      "output_frame": 505,
+      "seconds": 16.833333333333332,
+      "foreground_y_translation_px": -23.597423094889006
+    },
+    {
+      "output_frame": 506,
+      "seconds": 16.866666666666667,
+      "foreground_y_translation_px": -23.723212924859
+    },
+    {
+      "output_frame": 507,
+      "seconds": 16.9,
+      "foreground_y_translation_px": -23.821167987765214
+    },
+    {
+      "output_frame": 508,
+      "seconds": 16.933333333333334,
+      "foreground_y_translation_px": -23.893852155341293
+    },
+    {
+      "output_frame": 509,
+      "seconds": 16.966666666666665,
+      "foreground_y_translation_px": -23.944273297481747
+    },
+    {
+      "output_frame": 510,
+      "seconds": 17.0,
+      "foreground_y_translation_px": -23.975900693934843
+    },
+    {
+      "output_frame": 511,
+      "seconds": 17.03333333333333,
+      "foreground_y_translation_px": -23.992682445994916
+    },
+    {
+      "output_frame": 512,
+      "seconds": 17.066666666666666,
+      "foreground_y_translation_px": -23.99906288819518
+    },
+    {
+      "output_frame": 513,
+      "seconds": 17.1,
+      "foreground_y_translation_px": -24.0
+    },
+    {
+      "output_frame": 514,
+      "seconds": 17.133333333333333,
+      "foreground_y_translation_px": -23.99982130409331
+    },
+    {
+      "output_frame": 515,
+      "seconds": 17.166666666666668,
+      "foreground_y_translation_px": -23.99860164439709
+    },
+    {
+      "output_frame": 516,
+      "seconds": 17.2,
+      "foreground_y_translation_px": -23.995384646219133
+    },
+    {
+      "output_frame": 517,
+      "seconds": 17.233333333333334,
+      "foreground_y_translation_px": -23.989303702888886
+    },
+    {
+      "output_frame": 518,
+      "seconds": 17.266666666666666,
+      "foreground_y_translation_px": -23.97957921366447
+    },
+    {
+      "output_frame": 519,
+      "seconds": 17.3,
+      "foreground_y_translation_px": -23.96551582163971
+    },
+    {
+      "output_frame": 520,
+      "seconds": 17.333333333333332,
+      "foreground_y_translation_px": -23.946499651651163
+    },
+    {
+      "output_frame": 521,
+      "seconds": 17.366666666666667,
+      "foreground_y_translation_px": -23.92199554818514
+    },
+    {
+      "output_frame": 522,
+      "seconds": 17.4,
+      "foreground_y_translation_px": -23.891544313284733
+    },
+    {
+      "output_frame": 523,
+      "seconds": 17.433333333333334,
+      "foreground_y_translation_px": -23.85475994445684
+    },
+    {
+      "output_frame": 524,
+      "seconds": 17.46666666666667,
+      "foreground_y_translation_px": -23.8113268725792
+    },
+    {
+      "output_frame": 525,
+      "seconds": 17.5,
+      "foreground_y_translation_px": -23.760997199807406
+    },
+    {
+      "output_frame": 526,
+      "seconds": 17.53333333333333,
+      "foreground_y_translation_px": -23.703587937481938
+    },
+    {
+      "output_frame": 527,
+      "seconds": 17.566666666666666,
+      "foreground_y_translation_px": -23.638978244035183
+    },
+    {
+      "output_frame": 528,
+      "seconds": 17.6,
+      "foreground_y_translation_px": -23.56710666289848
+    },
+    {
+      "output_frame": 529,
+      "seconds": 17.633333333333333,
+      "foreground_y_translation_px": -23.487968360409123
+    },
+    {
+      "output_frame": 530,
+      "seconds": 17.666666666666668,
+      "foreground_y_translation_px": -23.401612363717398
+    },
+    {
+      "output_frame": 531,
+      "seconds": 17.7,
+      "foreground_y_translation_px": -23.308138798693605
+    },
+    {
+      "output_frame": 532,
+      "seconds": 17.733333333333334,
+      "foreground_y_translation_px": -23.207696127835096
+    },
+    {
+      "output_frame": 533,
+      "seconds": 17.766666666666666,
+      "foreground_y_translation_px": -23.10047838817328
+    },
+    {
+      "output_frame": 534,
+      "seconds": 17.8,
+      "foreground_y_translation_px": -22.98672242918067
+    },
+    {
+      "output_frame": 535,
+      "seconds": 17.833333333333332,
+      "foreground_y_translation_px": -22.866705150677898
+    },
+    {
+      "output_frame": 536,
+      "seconds": 17.866666666666667,
+      "foreground_y_translation_px": -22.74074074074074
+    },
+    {
+      "output_frame": 537,
+      "seconds": 17.9,
+      "foreground_y_translation_px": -22.60917791360715
+    },
+    {
+      "output_frame": 538,
+      "seconds": 17.933333333333334,
+      "foreground_y_translation_px": -22.472397147584285
+    },
+    {
+      "output_frame": 539,
+      "seconds": 17.96666666666667,
+      "foreground_y_translation_px": -22.330807922955515
+    },
+    {
+      "output_frame": 540,
+      "seconds": 18.0,
+      "foreground_y_translation_px": -22.18484595988747
+    },
+    {
+      "output_frame": 541,
+      "seconds": 18.03333333333333,
+      "foreground_y_translation_px": -22.034970456337064
+    },
+    {
+      "output_frame": 542,
+      "seconds": 18.066666666666666,
+      "foreground_y_translation_px": -21.881661325958497
+    },
+    {
+      "output_frame": 543,
+      "seconds": 18.1,
+      "foreground_y_translation_px": -21.725416436010324
+    },
+    {
+      "output_frame": 544,
+      "seconds": 18.133333333333333,
+      "foreground_y_translation_px": -21.56674884526244
+    },
+    {
+      "output_frame": 545,
+      "seconds": 18.166666666666668,
+      "foreground_y_translation_px": -21.406184041903114
+    },
+    {
+      "output_frame": 546,
+      "seconds": 18.2,
+      "foreground_y_translation_px": -21.244257181446045
+    },
+    {
+      "output_frame": 547,
+      "seconds": 18.233333333333334,
+      "foreground_y_translation_px": -21.08151032463736
+    },
+    {
+      "output_frame": 548,
+      "seconds": 18.266666666666666,
+      "foreground_y_translation_px": -20.91848967536264
+    },
+    {
+      "output_frame": 549,
+      "seconds": 18.3,
+      "foreground_y_translation_px": -20.755742818553955
+    },
+    {
+      "output_frame": 550,
+      "seconds": 18.333333333333332,
+      "foreground_y_translation_px": -20.593815958096886
+    },
+    {
+      "output_frame": 551,
+      "seconds": 18.366666666666667,
+      "foreground_y_translation_px": -20.433251154737565
+    },
+    {
+      "output_frame": 552,
+      "seconds": 18.4,
+      "foreground_y_translation_px": -20.274583563989676
+    },
+    {
+      "output_frame": 553,
+      "seconds": 18.433333333333334,
+      "foreground_y_translation_px": -20.118338674041503
+    },
+    {
+      "output_frame": 554,
+      "seconds": 18.46666666666667,
+      "foreground_y_translation_px": -19.96502954366294
+    },
+    {
+      "output_frame": 555,
+      "seconds": 18.5,
+      "foreground_y_translation_px": -19.81515404011253
+    },
+    {
+      "output_frame": 556,
+      "seconds": 18.53333333333333,
+      "foreground_y_translation_px": -19.669192077044485
+    },
+    {
+      "output_frame": 557,
+      "seconds": 18.566666666666666,
+      "foreground_y_translation_px": -19.52760285241572
+    },
+    {
+      "output_frame": 558,
+      "seconds": 18.6,
+      "foreground_y_translation_px": -19.39082208639285
+    },
+    {
+      "output_frame": 559,
+      "seconds": 18.633333333333333,
+      "foreground_y_translation_px": -19.25925925925926
+    },
+    {
+      "output_frame": 560,
+      "seconds": 18.666666666666668,
+      "foreground_y_translation_px": -19.133294849322105
+    },
+    {
+      "output_frame": 561,
+      "seconds": 18.7,
+      "foreground_y_translation_px": -19.01327757081933
+    },
+    {
+      "output_frame": 562,
+      "seconds": 18.733333333333334,
+      "foreground_y_translation_px": -18.89952161182672
+    },
+    {
+      "output_frame": 563,
+      "seconds": 18.766666666666666,
+      "foreground_y_translation_px": -18.792303872164904
+    },
+    {
+      "output_frame": 564,
+      "seconds": 18.8,
+      "foreground_y_translation_px": -18.691861201306395
+    },
+    {
+      "output_frame": 565,
+      "seconds": 18.833333333333332,
+      "foreground_y_translation_px": -18.598387636282602
+    },
+    {
+      "output_frame": 566,
+      "seconds": 18.866666666666667,
+      "foreground_y_translation_px": -18.512031639590877
+    },
+    {
+      "output_frame": 567,
+      "seconds": 18.9,
+      "foreground_y_translation_px": -18.432893337101522
+    },
+    {
+      "output_frame": 568,
+      "seconds": 18.933333333333334,
+      "foreground_y_translation_px": -18.361021755964813
+    },
+    {
+      "output_frame": 569,
+      "seconds": 18.96666666666667,
+      "foreground_y_translation_px": -18.296412062518062
+    },
+    {
+      "output_frame": 570,
+      "seconds": 19.0,
+      "foreground_y_translation_px": -18.239002800192598
+    },
+    {
+      "output_frame": 571,
+      "seconds": 19.03333333333333,
+      "foreground_y_translation_px": -18.188673127420802
+    },
+    {
+      "output_frame": 572,
+      "seconds": 19.066666666666666,
+      "foreground_y_translation_px": -18.14524005554316
+    },
+    {
+      "output_frame": 573,
+      "seconds": 19.1,
+      "foreground_y_translation_px": -18.10845568671527
+    },
+    {
+      "output_frame": 574,
+      "seconds": 19.133333333333333,
+      "foreground_y_translation_px": -18.078004451814863
+    },
+    {
+      "output_frame": 575,
+      "seconds": 19.166666666666668,
+      "foreground_y_translation_px": -18.053500348348834
+    },
+    {
+      "output_frame": 576,
+      "seconds": 19.2,
+      "foreground_y_translation_px": -18.034484178360287
+    },
+    {
+      "output_frame": 577,
+      "seconds": 19.233333333333334,
+      "foreground_y_translation_px": -18.020420786335528
+    },
+    {
+      "output_frame": 578,
+      "seconds": 19.266666666666666,
+      "foreground_y_translation_px": -18.010696297111117
+    },
+    {
+      "output_frame": 579,
+      "seconds": 19.3,
+      "foreground_y_translation_px": -18.004615353780864
+    },
+    {
+      "output_frame": 580,
+      "seconds": 19.333333333333332,
+      "foreground_y_translation_px": -18.001398355602905
+    },
+    {
+      "output_frame": 581,
+      "seconds": 19.366666666666667,
+      "foreground_y_translation_px": -18.000178695906698
+    },
+    {
+      "output_frame": 582,
+      "seconds": 19.4,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 583,
+      "seconds": 19.433333333333334,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 584,
+      "seconds": 19.46666666666667,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 585,
+      "seconds": 19.5,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 586,
+      "seconds": 19.53333333333333,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 587,
+      "seconds": 19.566666666666666,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 588,
+      "seconds": 19.6,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 589,
+      "seconds": 19.633333333333333,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 590,
+      "seconds": 19.666666666666668,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 591,
+      "seconds": 19.7,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 592,
+      "seconds": 19.733333333333334,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 593,
+      "seconds": 19.766666666666666,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 594,
+      "seconds": 19.8,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 595,
+      "seconds": 19.833333333333332,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 596,
+      "seconds": 19.866666666666667,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 597,
+      "seconds": 19.9,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 598,
+      "seconds": 19.933333333333334,
+      "foreground_y_translation_px": -18.0
+    },
+    {
+      "output_frame": 599,
+      "seconds": 19.96666666666667,
+      "foreground_y_translation_px": -18.0
+    }
+  ],
+  "new_motion": [
+    {
+      "start_frame": 450,
+      "end_frame": 513,
+      "description": "Original logo, invitation and CTA gently lift together by 24 pixels; exact proportions and original text are retained."
+    },
+    {
+      "start_frame": 487,
+      "end_frame": 528,
+      "description": "A soft travelling edge light follows the existing purple CTA border; there is no press or new claim."
+    },
+    {
+      "start_frame": 513,
+      "end_frame": 582,
+      "description": "The closing group settles six pixels to a final 18-pixel lift."
+    },
+    {
+      "start_frame": 582,
+      "end_frame": 599,
+      "description": "Brief final stable reading hold (0.6 seconds), not a five-second freeze."
+    }
+  ]
+}

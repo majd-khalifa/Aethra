@@ -1,0 +1,3204 @@
+{
+  "name": "TECH GROOVE",
+  "bpm": 108,
+  "meter": "4/4",
+  "seed": 2101,
+  "swing": "delayed off-eighths and syncopated bass/chord stabs",
+  "character": "confident, tactile, warm and rhythmic",
+  "harmony": [
+    {
+      "start": 0.0,
+      "chord": "Gmaj9",
+      "notes": [
+        55,
+        59,
+        62,
+        66,
+        69
+      ],
+      "bass": 43
+    },
+    {
+      "start": 2.2222222222222223,
+      "chord": "A9sus4",
+      "notes": [
+        57,
+        62,
+        64,
+        67,
+        71
+      ],
+      "bass": 45
+    },
+    {
+      "start": 4.444444444444445,
+      "chord": "F#m7",
+      "notes": [
+        54,
+        57,
+        61,
+        64
+      ],
+      "bass": 42
+    },
+    {
+      "start": 6.666666666666667,
+      "chord": "Bm9",
+      "notes": [
+        59,
+        62,
+        66,
+        69,
+        73
+      ],
+      "bass": 47
+    },
+    {
+      "start": 8.88888888888889,
+      "chord": "Em9",
+      "notes": [
+        52,
+        55,
+        59,
+        62,
+        66
+      ],
+      "bass": 40
+    },
+    {
+      "start": 11.11111111111111,
+      "chord": "A13",
+      "notes": [
+        57,
+        61,
+        67,
+        71,
+        78
+      ],
+      "bass": 45
+    },
+    {
+      "start": 13.333333333333334,
+      "chord": "Dmaj9",
+      "notes": [
+        50,
+        57,
+        61,
+        64,
+        66
+      ],
+      "bass": 38
+    },
+    {
+      "start": 15.555555555555557,
+      "chord": "Em9",
+      "notes": [
+        52,
+        55,
+        59,
+        62,
+        66
+      ],
+      "bass": 40
+    },
+    {
+      "start": 17.77777777777778,
+      "chord": "D6/9",
+      "notes": [
+        50,
+        54,
+        57,
+        59,
+        64
+      ],
+      "bass": 38
+    }
+  ],
+  "events": [
+    {
+      "start": 0.0,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 55,
+      "level": 0.0075,
+      "pan": -0.32
+    },
+    {
+      "start": 0.0,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 59,
+      "level": 0.0075,
+      "pan": 0.25
+    },
+    {
+      "start": 0.0,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 62,
+      "level": 0.0075,
+      "pan": -0.1
+    },
+    {
+      "start": 0.0,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 66,
+      "level": 0.0075,
+      "pan": 0.35
+    },
+    {
+      "start": 0.0,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 69,
+      "level": 0.0075,
+      "pan": 0
+    },
+    {
+      "start": 0.0,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 43,
+      "level": 0.068,
+      "pan": 0
+    },
+    {
+      "start": 0.0,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.086,
+      "pan": 0
+    },
+    {
+      "start": 0.0,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 0.27777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 0.27777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 0.27777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 0.27777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 81,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 0.30444444,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 0.4,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 66,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 0.41666667,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 55,
+      "level": 0.036,
+      "pan": 0
+    },
+    {
+      "start": 0.46666667,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 0.55555556,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 0.55555556,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 0.8,
+      "duration": 0.31,
+      "sound": "A_pluck",
+      "midi": 69,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 0.86,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 0.97222222,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 0.97222222,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 0.97222222,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 0.97222222,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 81,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 0.97222222,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 50,
+      "level": 0.045,
+      "pan": 0
+    },
+    {
+      "start": 0.97222222,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 1.11111111,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 1.23333333,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 71,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 1.38888889,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 43,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 1.38888889,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.071,
+      "pan": 0
+    },
+    {
+      "start": 1.41555556,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 1.52777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 1.52777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 1.52777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 1.52777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 81,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 1.57777778,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 1.66666667,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 1.66666667,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 1.76666667,
+      "duration": 0.38,
+      "sound": "A_pluck",
+      "midi": 76,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 1.80555556,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 55,
+      "level": 0.04,
+      "pan": 0
+    },
+    {
+      "start": 1.80555556,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.046,
+      "pan": 0
+    },
+    {
+      "start": 1.94444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 1.94444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 1.94444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 1.94444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 81,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 1.97111111,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 2.22222222,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 57,
+      "level": 0.0075,
+      "pan": -0.32
+    },
+    {
+      "start": 2.22222222,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 62,
+      "level": 0.0075,
+      "pan": 0.25
+    },
+    {
+      "start": 2.22222222,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 64,
+      "level": 0.0075,
+      "pan": -0.1
+    },
+    {
+      "start": 2.22222222,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 67,
+      "level": 0.0075,
+      "pan": 0.35
+    },
+    {
+      "start": 2.22222222,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 71,
+      "level": 0.0075,
+      "pan": 0
+    },
+    {
+      "start": 2.22222222,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 45,
+      "level": 0.068,
+      "pan": 0
+    },
+    {
+      "start": 2.22222222,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.086,
+      "pan": 0
+    },
+    {
+      "start": 2.22222222,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 2.5,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 2.5,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 2.5,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 79,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 2.5,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 83,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 2.52666667,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 2.62222222,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 74,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 2.63888889,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 57,
+      "level": 0.036,
+      "pan": 0
+    },
+    {
+      "start": 2.68888889,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 2.77777778,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 2.77777778,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 3.02222222,
+      "duration": 0.31,
+      "sound": "A_pluck",
+      "midi": 73,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 3.08222222,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 3.19444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 3.19444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 3.19444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 79,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 3.19444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 83,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 3.19444444,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 52,
+      "level": 0.045,
+      "pan": 0
+    },
+    {
+      "start": 3.19444444,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 3.33333333,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 3.45555556,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 69,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 3.61111111,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 45,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 3.61111111,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.071,
+      "pan": 0
+    },
+    {
+      "start": 3.63777778,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 3.75,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 3.75,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 3.75,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 79,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 3.75,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 83,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 3.8,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 3.88888889,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 3.88888889,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 3.98888889,
+      "duration": 0.38,
+      "sound": "A_pluck",
+      "midi": 66,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 4.02777778,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 57,
+      "level": 0.04,
+      "pan": 0
+    },
+    {
+      "start": 4.02777778,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.046,
+      "pan": 0
+    },
+    {
+      "start": 4.16666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 4.16666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 4.16666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 79,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 4.16666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 83,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 4.19333333,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 4.44444444,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 54,
+      "level": 0.0075,
+      "pan": -0.32
+    },
+    {
+      "start": 4.44444444,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 57,
+      "level": 0.0075,
+      "pan": 0.25
+    },
+    {
+      "start": 4.44444444,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 61,
+      "level": 0.0075,
+      "pan": -0.1
+    },
+    {
+      "start": 4.44444444,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 64,
+      "level": 0.0075,
+      "pan": 0.35
+    },
+    {
+      "start": 4.44444444,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 42,
+      "level": 0.068,
+      "pan": 0
+    },
+    {
+      "start": 4.44444444,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.086,
+      "pan": 0
+    },
+    {
+      "start": 4.44444444,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 4.72222222,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 4.72222222,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 4.72222222,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 4.74888889,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 4.84444444,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 66,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 4.86111111,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 54,
+      "level": 0.036,
+      "pan": 0
+    },
+    {
+      "start": 4.91111111,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 5.0,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 5.0,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 5.24444444,
+      "duration": 0.31,
+      "sound": "A_pluck",
+      "midi": 69,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 5.30444444,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 5.41666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 5.41666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 5.41666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 5.41666667,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 49,
+      "level": 0.045,
+      "pan": 0
+    },
+    {
+      "start": 5.41666667,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 5.55555556,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 5.67777778,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 73,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 5.83333333,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 42,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 5.83333333,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.071,
+      "pan": 0
+    },
+    {
+      "start": 5.86,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 5.97222222,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 5.97222222,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 5.97222222,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 6.02222222,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 6.11111111,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 6.11111111,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 6.21111111,
+      "duration": 0.38,
+      "sound": "A_pluck",
+      "midi": 76,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 6.25,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 54,
+      "level": 0.04,
+      "pan": 0
+    },
+    {
+      "start": 6.25,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.046,
+      "pan": 0
+    },
+    {
+      "start": 6.38888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 6.38888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 6.38888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 6.41555556,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 6.66666667,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 59,
+      "level": 0.0075,
+      "pan": -0.32
+    },
+    {
+      "start": 6.66666667,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 62,
+      "level": 0.0075,
+      "pan": 0.25
+    },
+    {
+      "start": 6.66666667,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 66,
+      "level": 0.0075,
+      "pan": -0.1
+    },
+    {
+      "start": 6.66666667,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 69,
+      "level": 0.0075,
+      "pan": 0.35
+    },
+    {
+      "start": 6.66666667,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 73,
+      "level": 0.0075,
+      "pan": 0
+    },
+    {
+      "start": 6.66666667,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 47,
+      "level": 0.068,
+      "pan": 0
+    },
+    {
+      "start": 6.66666667,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.086,
+      "pan": 0
+    },
+    {
+      "start": 6.66666667,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 6.94444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 6.94444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 6.94444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 81,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 6.94444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 85,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 6.97111111,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 7.06666667,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 78,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 7.08333333,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 59,
+      "level": 0.036,
+      "pan": 0
+    },
+    {
+      "start": 7.13333333,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 7.22222222,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 7.22222222,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 7.46666667,
+      "duration": 0.31,
+      "sound": "A_pluck",
+      "midi": 76,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 7.52666667,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 7.63888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 7.63888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 7.63888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 81,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 7.63888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 85,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 7.63888889,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 54,
+      "level": 0.045,
+      "pan": 0
+    },
+    {
+      "start": 7.63888889,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 7.77777778,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 7.9,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 74,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 8.05555556,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 47,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 8.05555556,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.071,
+      "pan": 0
+    },
+    {
+      "start": 8.08222222,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 8.19444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 8.19444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 8.19444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 81,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 8.19444444,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 85,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 8.24444444,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 8.33333333,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 8.33333333,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 8.43333333,
+      "duration": 0.38,
+      "sound": "A_pluck",
+      "midi": 71,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 8.47222222,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 59,
+      "level": 0.04,
+      "pan": 0
+    },
+    {
+      "start": 8.47222222,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.046,
+      "pan": 0
+    },
+    {
+      "start": 8.61111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 8.61111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 8.61111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 81,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 8.61111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 85,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 8.63777778,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 8.88888889,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 52,
+      "level": 0.0075,
+      "pan": -0.32
+    },
+    {
+      "start": 8.88888889,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 55,
+      "level": 0.0075,
+      "pan": 0.25
+    },
+    {
+      "start": 8.88888889,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 59,
+      "level": 0.0075,
+      "pan": -0.1
+    },
+    {
+      "start": 8.88888889,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 62,
+      "level": 0.0075,
+      "pan": 0.35
+    },
+    {
+      "start": 8.88888889,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 66,
+      "level": 0.0075,
+      "pan": 0
+    },
+    {
+      "start": 8.88888889,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 40,
+      "level": 0.068,
+      "pan": 0
+    },
+    {
+      "start": 8.88888889,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.086,
+      "pan": 0
+    },
+    {
+      "start": 8.88888889,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 9.16666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 67,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 9.16666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 9.16666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 9.16666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 9.19333333,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 9.28888889,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 67,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 9.30555556,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 52,
+      "level": 0.036,
+      "pan": 0
+    },
+    {
+      "start": 9.35555556,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 9.44444444,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 9.44444444,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 9.68888889,
+      "duration": 0.31,
+      "sound": "A_pluck",
+      "midi": 71,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 9.74888889,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 9.86111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 67,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 9.86111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 9.86111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 9.86111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 9.86111111,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 47,
+      "level": 0.045,
+      "pan": 0
+    },
+    {
+      "start": 9.86111111,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 10.0,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 10.12222222,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 74,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 10.27777778,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 40,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 10.27777778,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.071,
+      "pan": 0
+    },
+    {
+      "start": 10.30444444,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 10.41666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 67,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 10.41666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 10.41666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 10.41666667,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 10.46666667,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 10.55555556,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 10.55555556,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 10.65555556,
+      "duration": 0.38,
+      "sound": "A_pluck",
+      "midi": 78,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 10.69444444,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 52,
+      "level": 0.04,
+      "pan": 0
+    },
+    {
+      "start": 10.69444444,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.046,
+      "pan": 0
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 67,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 10.83333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 10.86,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 11.11111111,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 57,
+      "level": 0.0075,
+      "pan": -0.32
+    },
+    {
+      "start": 11.11111111,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 61,
+      "level": 0.0075,
+      "pan": 0.25
+    },
+    {
+      "start": 11.11111111,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 67,
+      "level": 0.0075,
+      "pan": -0.1
+    },
+    {
+      "start": 11.11111111,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 71,
+      "level": 0.0075,
+      "pan": 0.35
+    },
+    {
+      "start": 11.11111111,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 78,
+      "level": 0.0075,
+      "pan": 0
+    },
+    {
+      "start": 11.11111111,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 45,
+      "level": 0.068,
+      "pan": 0
+    },
+    {
+      "start": 11.11111111,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.086,
+      "pan": 0
+    },
+    {
+      "start": 11.11111111,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 11.38888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 11.38888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 79,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 11.38888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 83,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 11.38888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 90,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 11.41555556,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 11.51111111,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 76,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 11.52777778,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 57,
+      "level": 0.036,
+      "pan": 0
+    },
+    {
+      "start": 11.57777778,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 11.66666667,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 11.66666667,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 11.91111111,
+      "duration": 0.31,
+      "sound": "A_pluck",
+      "midi": 73,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 11.97111111,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 12.08333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 12.08333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 79,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 12.08333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 83,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 12.08333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 90,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 12.08333333,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 52,
+      "level": 0.045,
+      "pan": 0
+    },
+    {
+      "start": 12.08333333,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 12.22222222,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 12.34444444,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 71,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 12.5,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 45,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 12.5,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.071,
+      "pan": 0
+    },
+    {
+      "start": 12.52666667,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 12.63888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 12.63888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 79,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 12.63888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 83,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 12.63888889,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 90,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 12.68888889,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 12.77777778,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 12.77777778,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 12.87777778,
+      "duration": 0.38,
+      "sound": "A_pluck",
+      "midi": 69,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 12.91666667,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 57,
+      "level": 0.04,
+      "pan": 0
+    },
+    {
+      "start": 12.91666667,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.046,
+      "pan": 0
+    },
+    {
+      "start": 13.05555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 13.05555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 79,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 13.05555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 83,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 13.05555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 90,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 13.08222222,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 13.33333333,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 50,
+      "level": 0.0075,
+      "pan": -0.32
+    },
+    {
+      "start": 13.33333333,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 57,
+      "level": 0.0075,
+      "pan": 0.25
+    },
+    {
+      "start": 13.33333333,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 61,
+      "level": 0.0075,
+      "pan": -0.1
+    },
+    {
+      "start": 13.33333333,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 64,
+      "level": 0.0075,
+      "pan": 0.35
+    },
+    {
+      "start": 13.33333333,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 66,
+      "level": 0.0075,
+      "pan": 0
+    },
+    {
+      "start": 13.33333333,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 38,
+      "level": 0.068,
+      "pan": 0
+    },
+    {
+      "start": 13.33333333,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.086,
+      "pan": 0
+    },
+    {
+      "start": 13.33333333,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 13.61111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 13.61111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 13.61111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 13.61111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 13.63777778,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 13.73333333,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 66,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 13.75,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 50,
+      "level": 0.036,
+      "pan": 0
+    },
+    {
+      "start": 13.8,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 13.88888889,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 13.88888889,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 14.13333333,
+      "duration": 0.31,
+      "sound": "A_pluck",
+      "midi": 69,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 14.19333333,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 14.30555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 14.30555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 14.30555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 14.30555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 14.30555556,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 45,
+      "level": 0.045,
+      "pan": 0
+    },
+    {
+      "start": 14.30555556,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 14.44444444,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 14.56666667,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 76,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 14.72222222,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 38,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 14.72222222,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.071,
+      "pan": 0
+    },
+    {
+      "start": 14.74888889,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 14.86111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 14.86111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 14.86111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 14.86111111,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 14.91111111,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 15.0,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 15.0,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 15.1,
+      "duration": 0.38,
+      "sound": "A_pluck",
+      "midi": 74,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 15.13888889,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 50,
+      "level": 0.04,
+      "pan": 0
+    },
+    {
+      "start": 15.13888889,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.046,
+      "pan": 0
+    },
+    {
+      "start": 15.27777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 15.27777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 73,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 15.27777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 15.27777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 15.30444444,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 15.55555556,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 52,
+      "level": 0.0075,
+      "pan": -0.32
+    },
+    {
+      "start": 15.55555556,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 55,
+      "level": 0.0075,
+      "pan": 0.25
+    },
+    {
+      "start": 15.55555556,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 59,
+      "level": 0.0075,
+      "pan": -0.1
+    },
+    {
+      "start": 15.55555556,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 62,
+      "level": 0.0075,
+      "pan": 0.35
+    },
+    {
+      "start": 15.55555556,
+      "duration": 2.38888889,
+      "sound": "A_pad",
+      "midi": 66,
+      "level": 0.0075,
+      "pan": 0
+    },
+    {
+      "start": 15.55555556,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 40,
+      "level": 0.068,
+      "pan": 0
+    },
+    {
+      "start": 15.55555556,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.086,
+      "pan": 0
+    },
+    {
+      "start": 15.55555556,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 15.83333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 67,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 15.83333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 15.83333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 15.83333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 15.86,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 15.95555556,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 67,
+      "level": 0.041,
+      "pan": -0.18
+    },
+    {
+      "start": 15.97222222,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 52,
+      "level": 0.036,
+      "pan": 0
+    },
+    {
+      "start": 16.02222222,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 16.11111111,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 16.11111111,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 16.35555556,
+      "duration": 0.31,
+      "sound": "A_pluck",
+      "midi": 66,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 16.41555556,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 16.52777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 67,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 16.52777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 16.52777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 16.52777778,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 16.52777778,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 47,
+      "level": 0.045,
+      "pan": 0
+    },
+    {
+      "start": 16.52777778,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 16.66666667,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 16.78888889,
+      "duration": 0.23,
+      "sound": "A_pluck",
+      "midi": 64,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 16.94444444,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 40,
+      "level": 0.057,
+      "pan": 0
+    },
+    {
+      "start": 16.94444444,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.071,
+      "pan": 0
+    },
+    {
+      "start": 16.97111111,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 17.08333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 67,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 17.08333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 17.08333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 17.08333333,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 17.13333333,
+      "duration": 0.04,
+      "sound": "shaker_a",
+      "midi": 60,
+      "level": 0.007,
+      "pan": -0.2
+    },
+    {
+      "start": 17.22222222,
+      "duration": 0.13,
+      "sound": "rim_a",
+      "midi": 60,
+      "level": 0.049,
+      "pan": 0.06
+    },
+    {
+      "start": 17.22222222,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.01,
+      "pan": 0.2
+    },
+    {
+      "start": 17.32222222,
+      "duration": 0.38,
+      "sound": "A_pluck",
+      "midi": 62,
+      "level": 0.041,
+      "pan": 0.18
+    },
+    {
+      "start": 17.36111111,
+      "duration": 0.28,
+      "sound": "A_bass",
+      "midi": 52,
+      "level": 0.04,
+      "pan": 0
+    },
+    {
+      "start": 17.36111111,
+      "duration": 0.16,
+      "sound": "kick_a",
+      "midi": 60,
+      "level": 0.046,
+      "pan": 0
+    },
+    {
+      "start": 17.5,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 67,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 17.5,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 17.5,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 74,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 17.5,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 78,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 17.52666667,
+      "duration": 0.065,
+      "sound": "hat_a",
+      "midi": 60,
+      "level": 0.013,
+      "pan": -0.2
+    },
+    {
+      "start": 17.77777778,
+      "duration": 2.222222219999999,
+      "sound": "A_pad",
+      "midi": 50,
+      "level": 0.0075,
+      "pan": -0.32
+    },
+    {
+      "start": 17.77777778,
+      "duration": 2.222222219999999,
+      "sound": "A_pad",
+      "midi": 54,
+      "level": 0.0075,
+      "pan": 0.25
+    },
+    {
+      "start": 17.77777778,
+      "duration": 2.222222219999999,
+      "sound": "A_pad",
+      "midi": 57,
+      "level": 0.0075,
+      "pan": -0.1
+    },
+    {
+      "start": 17.77777778,
+      "duration": 2.222222219999999,
+      "sound": "A_pad",
+      "midi": 59,
+      "level": 0.0075,
+      "pan": 0.35
+    },
+    {
+      "start": 17.77777778,
+      "duration": 2.222222219999999,
+      "sound": "A_pad",
+      "midi": 64,
+      "level": 0.0075,
+      "pan": 0
+    },
+    {
+      "start": 17.8,
+      "duration": 1.3,
+      "sound": "A_bass",
+      "midi": 38,
+      "level": 0.038,
+      "pan": 0
+    },
+    {
+      "start": 18.02,
+      "duration": 0.28,
+      "sound": "A_pluck",
+      "midi": 69,
+      "level": 0.036,
+      "pan": 0.1
+    },
+    {
+      "start": 18.05555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 66,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 18.05555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 18.05555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 18.05555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 18.35,
+      "duration": 0.3,
+      "sound": "A_pluck",
+      "midi": 71,
+      "level": 0.036,
+      "pan": 0.1
+    },
+    {
+      "start": 18.68,
+      "duration": 0.35,
+      "sound": "A_pluck",
+      "midi": 76,
+      "level": 0.036,
+      "pan": 0.1
+    },
+    {
+      "start": 18.75,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 66,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 18.75,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 18.75,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 18.75,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 19.12,
+      "duration": 0.86,
+      "sound": "A_pluck",
+      "midi": 74,
+      "level": 0.036,
+      "pan": 0.1
+    },
+    {
+      "start": 19.30555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 66,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 19.30555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 69,
+      "level": 0.0105,
+      "pan": -0.23
+    },
+    {
+      "start": 19.30555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 71,
+      "level": 0.0105,
+      "pan": 0.23
+    },
+    {
+      "start": 19.30555556,
+      "duration": 0.31,
+      "sound": "A_keys",
+      "midi": 76,
+      "level": 0.0105,
+      "pan": -0.23
+    }
+  ],
+  "version": "A",
+  "sample_rate": 48000,
+  "duration_seconds": 20,
+  "target_lufs": -15.5,
+  "source_policy": "Independent new composition; no prior music recording, arrangement or melodic phrase is reused."
+}

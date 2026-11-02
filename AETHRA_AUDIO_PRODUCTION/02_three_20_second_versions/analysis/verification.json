@@ -1,0 +1,161 @@
+{
+  "versions": {
+    "A": {
+      "frames": 600,
+      "duration": 20.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "video_annexb_sha256": "5cee718047970c65119cfd024abee9ae6dddadfb7b3d4668b99e9f831ed1657d",
+      "decoded_frame_identity_to_shared_picture": true,
+      "original_450_frames_preserved": true,
+      "full_decode_errors": 0,
+      "black_segments": 0,
+      "wav_samples": 960000,
+      "wav_bit_depth": 24,
+      "stems_recombine_sample_exactly": true,
+      "clipped_pcm_samples": 0,
+      "audio_gap_10ms_windows_excluding_50ms_fades": 0,
+      "stereo_correlation": 0.9828868856909533,
+      "mono_fold_down_change_db": -0.03747400057544981,
+      "aac_uncompensated_delay_samples": 0,
+      "aac_pcm_sync_correlations": {
+        "15": 0.9999957111224215,
+        "287": 0.9999979011148251,
+        "296": 0.9999315224225218,
+        "305": 0.9999783564739796,
+        "398": 0.9999987885353575,
+        "487": 0.9999825394039243,
+        "582": 0.9999965033179871
+      },
+      "aac_lufs": -15.48,
+      "aac_true_peak_db": -1.85
+    },
+    "B": {
+      "frames": 600,
+      "duration": 20.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "video_annexb_sha256": "5cee718047970c65119cfd024abee9ae6dddadfb7b3d4668b99e9f831ed1657d",
+      "decoded_frame_identity_to_shared_picture": true,
+      "original_450_frames_preserved": true,
+      "full_decode_errors": 0,
+      "black_segments": 0,
+      "wav_samples": 960000,
+      "wav_bit_depth": 24,
+      "stems_recombine_sample_exactly": true,
+      "clipped_pcm_samples": 0,
+      "audio_gap_10ms_windows_excluding_50ms_fades": 0,
+      "stereo_correlation": 0.9663059081767948,
+      "mono_fold_down_change_db": -0.07384620569743008,
+      "aac_uncompensated_delay_samples": 0,
+      "aac_pcm_sync_correlations": {
+        "15": 0.999998274835455,
+        "287": 0.9999975347400252,
+        "296": 0.9999687689849638,
+        "305": 0.9999429296317991,
+        "398": 0.9999988968660068,
+        "487": 0.9999977525895968,
+        "582": 0.9999934396287312
+      },
+      "aac_lufs": -15.53,
+      "aac_true_peak_db": -1.85
+    },
+    "C": {
+      "frames": 600,
+      "duration": 20.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "fps": "30/1",
+      "video_annexb_sha256": "5cee718047970c65119cfd024abee9ae6dddadfb7b3d4668b99e9f831ed1657d",
+      "decoded_frame_identity_to_shared_picture": true,
+      "original_450_frames_preserved": true,
+      "full_decode_errors": 0,
+      "black_segments": 0,
+      "wav_samples": 960000,
+      "wav_bit_depth": 24,
+      "stems_recombine_sample_exactly": true,
+      "clipped_pcm_samples": 0,
+      "audio_gap_10ms_windows_excluding_50ms_fades": 0,
+      "stereo_correlation": 0.991555965456568,
+      "mono_fold_down_change_db": -0.018419650851933967,
+      "aac_uncompensated_delay_samples": 0,
+      "aac_pcm_sync_correlations": {
+        "15": 0.9999965553588598,
+        "287": 0.9999983233703049,
+        "296": 0.9999693139002521,
+        "305": 0.999927764868444,
+        "398": 0.9999990833616724,
+        "487": 0.9999607097184354,
+        "582": 0.9999978647373754
+      },
+      "aac_lufs": -15.51,
+      "aac_true_peak_db": -1.77
+    }
+  },
+  "shared_checks": {
+    "identical_20s_h264_streams": true,
+    "picture_sha256": "5cee718047970c65119cfd024abee9ae6dddadfb7b3d4668b99e9f831ed1657d",
+    "first_450_decoded_frames_bit_identical_to_approved_picture": true,
+    "approved_15s_sfx_pcm_bit_identical": true,
+    "original_30_cues_unchanged": true,
+    "new_cues": 2,
+    "music_pairwise_waveform_correlations_at_1khz": {
+      "AB": 0.0685229752807721,
+      "AC": 0.012674915893163658,
+      "BC": 0.012201761177222369
+    },
+    "music_scores_have_different_tempi_harmonies_melodies_and_rhythms": true,
+    "aac_loudness_spread_lu": 0.049999999999998934
+  },
+  "browser_playback": {
+    "A": {
+      "duration": 20,
+      "width": 1080,
+      "height": 1920,
+      "ended": true,
+      "error": null,
+      "decodedFrames": 600,
+      "droppedFrames": 0,
+      "muted": false,
+      "maximumAudioRms": 0.34191297510328517,
+      "sampled": 500
+    },
+    "B": {
+      "duration": 20,
+      "width": 1080,
+      "height": 1920,
+      "ended": true,
+      "error": null,
+      "decodedFrames": 600,
+      "droppedFrames": 0,
+      "muted": false,
+      "maximumAudioRms": 0.3590162129142835,
+      "sampled": 499
+    },
+    "C": {
+      "duration": 20,
+      "width": 1080,
+      "height": 1920,
+      "ended": true,
+      "error": null,
+      "decodedFrames": 600,
+      "droppedFrames": 0,
+      "muted": false,
+      "maximumAudioRms": 0.3111464671023758,
+      "sampled": 500
+    }
+  },
+  "limitations": [
+    "Physical phones, Windows playback hardware, headphones and Instagram transcoding were not tested.",
+    "Signal measurements and unmuted browser playback are not human listening approval.",
+    "REAPER project media paths were checked; REAPER GUI is not installed."
+  ]
+}
