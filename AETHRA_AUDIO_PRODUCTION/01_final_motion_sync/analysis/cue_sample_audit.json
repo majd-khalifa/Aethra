@@ -1,0 +1,272 @@
+[
+  {
+    "id": "01",
+    "visual_frame": 1,
+    "anchor_frame": 1,
+    "placement_sample": 1600,
+    "first_audible_sample_threshold_1e_9": 1601,
+    "peak_sample": 5935,
+    "duration_samples": 9600
+  },
+  {
+    "id": "02",
+    "visual_frame": 6,
+    "anchor_frame": 10,
+    "placement_sample": 9600,
+    "first_audible_sample_threshold_1e_9": 9601,
+    "peak_sample": 15968,
+    "duration_samples": 11200
+  },
+  {
+    "id": "03",
+    "visual_frame": 15,
+    "anchor_frame": 15,
+    "placement_sample": 24000,
+    "first_audible_sample_threshold_1e_9": 24001,
+    "peak_sample": 24113,
+    "duration_samples": 6400
+  },
+  {
+    "id": "04",
+    "visual_frame": 24,
+    "anchor_frame": 24,
+    "placement_sample": 38400,
+    "first_audible_sample_threshold_1e_9": 38401,
+    "peak_sample": 38499,
+    "duration_samples": 14400
+  },
+  {
+    "id": "T1",
+    "visual_frame": 51,
+    "anchor_frame": 53,
+    "placement_sample": 81600,
+    "first_audible_sample_threshold_1e_9": 81601,
+    "peak_sample": 84267,
+    "duration_samples": 8000
+  },
+  {
+    "id": "05",
+    "visual_frame": 54,
+    "anchor_frame": 54,
+    "placement_sample": 86400,
+    "first_audible_sample_threshold_1e_9": 86401,
+    "peak_sample": 86519,
+    "duration_samples": 17600
+  },
+  {
+    "id": "T2",
+    "visual_frame": 87,
+    "anchor_frame": 89,
+    "placement_sample": 139200,
+    "first_audible_sample_threshold_1e_9": 139201,
+    "peak_sample": 141936,
+    "duration_samples": 8000
+  },
+  {
+    "id": "06",
+    "visual_frame": 91,
+    "anchor_frame": 91,
+    "placement_sample": 145600,
+    "first_audible_sample_threshold_1e_9": 145601,
+    "peak_sample": 148922,
+    "duration_samples": 14400
+  },
+  {
+    "id": "07",
+    "visual_frame": 100,
+    "anchor_frame": 100,
+    "placement_sample": 160000,
+    "first_audible_sample_threshold_1e_9": 160001,
+    "peak_sample": 160152,
+    "duration_samples": 12800
+  },
+  {
+    "id": "T3",
+    "visual_frame": 132,
+    "anchor_frame": 134,
+    "placement_sample": 211200,
+    "first_audible_sample_threshold_1e_9": 211202,
+    "peak_sample": 214157,
+    "duration_samples": 8000
+  },
+  {
+    "id": "08",
+    "visual_frame": 136,
+    "anchor_frame": 136,
+    "placement_sample": 217600,
+    "first_audible_sample_threshold_1e_9": 217601,
+    "peak_sample": 221738,
+    "duration_samples": 11200
+  },
+  {
+    "id": "09",
+    "visual_frame": 145,
+    "anchor_frame": 150,
+    "placement_sample": 232000,
+    "first_audible_sample_threshold_1e_9": 232001,
+    "peak_sample": 238053,
+    "duration_samples": 17600
+  },
+  {
+    "id": "10",
+    "visual_frame": 159,
+    "anchor_frame": 159,
+    "placement_sample": 254400,
+    "first_audible_sample_threshold_1e_9": 254401,
+    "peak_sample": 254515,
+    "duration_samples": 11200
+  },
+  {
+    "id": "T4",
+    "visual_frame": 177,
+    "anchor_frame": 179,
+    "placement_sample": 283200,
+    "first_audible_sample_threshold_1e_9": 283201,
+    "peak_sample": 285513,
+    "duration_samples": 8000
+  },
+  {
+    "id": "11",
+    "visual_frame": 181,
+    "anchor_frame": 181,
+    "placement_sample": 289600,
+    "first_audible_sample_threshold_1e_9": 289601,
+    "peak_sample": 292100,
+    "duration_samples": 11200
+  },
+  {
+    "id": "12",
+    "visual_frame": 188,
+    "anchor_frame": 188,
+    "placement_sample": 300800,
+    "first_audible_sample_threshold_1e_9": 300801,
+    "peak_sample": 300899,
+    "duration_samples": 14400
+  },
+  {
+    "id": "T5",
+    "visual_frame": 222,
+    "anchor_frame": 224,
+    "placement_sample": 355200,
+    "first_audible_sample_threshold_1e_9": 355202,
+    "peak_sample": 358388,
+    "duration_samples": 8000
+  },
+  {
+    "id": "13",
+    "visual_frame": 226,
+    "anchor_frame": 226,
+    "placement_sample": 361600,
+    "first_audible_sample_threshold_1e_9": 361601,
+    "peak_sample": 376597,
+    "duration_samples": 32000
+  },
+  {
+    "id": "14",
+    "visual_frame": 246,
+    "anchor_frame": 246,
+    "placement_sample": 393600,
+    "first_audible_sample_threshold_1e_9": 393601,
+    "peak_sample": 393734,
+    "duration_samples": 11200
+  },
+  {
+    "id": "T6",
+    "visual_frame": 267,
+    "anchor_frame": 269,
+    "placement_sample": 427200,
+    "first_audible_sample_threshold_1e_9": 427201,
+    "peak_sample": 429309,
+    "duration_samples": 8000
+  },
+  {
+    "id": "15",
+    "visual_frame": 271,
+    "anchor_frame": 277,
+    "placement_sample": 433600,
+    "first_audible_sample_threshold_1e_9": 433622,
+    "peak_sample": 443294,
+    "duration_samples": 17600
+  },
+  {
+    "id": "16",
+    "visual_frame": 287,
+    "anchor_frame": 287,
+    "placement_sample": 459200,
+    "first_audible_sample_threshold_1e_9": 459201,
+    "peak_sample": 459295,
+    "duration_samples": 8000
+  },
+  {
+    "id": "17",
+    "visual_frame": 296,
+    "anchor_frame": 296,
+    "placement_sample": 473600,
+    "first_audible_sample_threshold_1e_9": 473601,
+    "peak_sample": 473784,
+    "duration_samples": 8000
+  },
+  {
+    "id": "18",
+    "visual_frame": 305,
+    "anchor_frame": 305,
+    "placement_sample": 488000,
+    "first_audible_sample_threshold_1e_9": 488001,
+    "peak_sample": 488115,
+    "duration_samples": 8000
+  },
+  {
+    "id": "T7",
+    "visual_frame": 321,
+    "anchor_frame": 323,
+    "placement_sample": 513600,
+    "first_audible_sample_threshold_1e_9": 513601,
+    "peak_sample": 516280,
+    "duration_samples": 8000
+  },
+  {
+    "id": "19",
+    "visual_frame": 325,
+    "anchor_frame": 340,
+    "placement_sample": 520000,
+    "first_audible_sample_threshold_1e_9": 520001,
+    "peak_sample": 543668,
+    "duration_samples": 56000
+  },
+  {
+    "id": "20",
+    "visual_frame": 325,
+    "anchor_frame": 325,
+    "placement_sample": 520000,
+    "first_audible_sample_threshold_1e_9": 520001,
+    "peak_sample": 520152,
+    "duration_samples": 19200
+  },
+  {
+    "id": "T8",
+    "visual_frame": 387,
+    "anchor_frame": 389,
+    "placement_sample": 619200,
+    "first_audible_sample_threshold_1e_9": 619201,
+    "peak_sample": 621737,
+    "duration_samples": 8000
+  },
+  {
+    "id": "21",
+    "visual_frame": 391,
+    "anchor_frame": 391,
+    "placement_sample": 625600,
+    "first_audible_sample_threshold_1e_9": 625603,
+    "peak_sample": 626268,
+    "duration_samples": 92800
+  },
+  {
+    "id": "22",
+    "visual_frame": 398,
+    "anchor_frame": 398,
+    "placement_sample": 636800,
+    "first_audible_sample_threshold_1e_9": 636801,
+    "peak_sample": 636890,
+    "duration_samples": 14400
+  }
+]
