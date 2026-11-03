@@ -1,0 +1,15 @@
+{
+  "target": "https://play.google.com/store/apps/details?id=com.primo.app",
+  "decoded": "https://play.google.com/store/apps/details?id=com.primo.app",
+  "payload_matches_owner_confirmed_official_url": true,
+  "format": "QR Code",
+  "dimensions": [
+    360,
+    360
+  ],
+  "quiet_zone_modules": 4,
+  "error_correction": "Q",
+  "live_google_play_listing_http_checked": false,
+  "status": "QR asset and final exported slide verified. See source/qr_export_proof.json for 1080, 540 and 360 px scans.",
+  "final_slide": "exports/slide_05_download_1080x1080.png"
+}

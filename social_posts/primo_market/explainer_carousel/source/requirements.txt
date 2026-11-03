@@ -1,0 +1,6 @@
+# Versions used for the delivered exports. Pillow must have RAQM support.
+Pillow==12.3.0
+fonttools==4.61.1
+playwright==1.62.0
+qrcode==8.2
+zxing-cpp==3.1.1

@@ -1,0 +1,101 @@
+{
+  "repository": "majd-khalifa/Aethra",
+  "status": "FINAL_EXPORTED_FOR_OWNER_REVIEW",
+  "missing_references": [],
+  "uploaded_archive": {
+    "file": "AETHRA_PRIMO_THREE_ORIGINAL_REFERENCES.zip",
+    "sha256": "c3e57b45240ca05061919fa20980ca7135eb013f99e3747c9623d4c835167b79",
+    "crc_check": "passed",
+    "source": "Owner-supplied original ZIP in this conversation"
+  },
+  "authoritative_references": [
+    {
+      "file": "assets/references/01_Approved_AETHRA_Primo_Square_Poster.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "bytes": 1914861,
+      "sha256": "68dbe64e388dc37ce148be1475fe27fd783d43b971b034aec49af68fc8f92713",
+      "role": "approved_master",
+      "unmodified": true
+    },
+    {
+      "file": "assets/references/02_Primo_Authentic_Home.png",
+      "size": [
+        576,
+        1280
+      ],
+      "bytes": 438235,
+      "sha256": "dd599fb33979fd2f2f6b81e7a6e8465caa96042c633dd4705817ea4194db47bc",
+      "role": "authentic_home",
+      "unmodified": true
+    },
+    {
+      "file": "assets/references/03_Primo_Authentic_Tea_Product_Details.png",
+      "size": [
+        576,
+        1280
+      ],
+      "bytes": 463202,
+      "sha256": "f6b0c35a13b92f7bebd81b3110771960cee24f6eedaafeed4f04ebcfc14c0cac",
+      "role": "authentic_tea_details",
+      "unmodified": true
+    }
+  ],
+  "design": {
+    "primary_master": "assets/references/01_Approved_AETHRA_Primo_Square_Poster.png",
+    "native_canvas": [
+      1080,
+      1080
+    ],
+    "portrait_cropping": false,
+    "brand_treatment": "Complete original AETHRA and Primo header logos are composited from the supplied approved square poster. Core output pixels match the original exactly on all five slides. Original Primo icon and Android/package pills on slide 5 are also sampled from the master.",
+    "logo_proof": "source/logo_pixel_proof.json",
+    "ui_treatment": "Full original PNGs, uniform aspect-preserving scale and whole-phone rotation; no UI redrawing, screen crop or image filters. Frames are separate vector artwork.",
+    "integration_diagram": "Conceptual labeled connection, not a screenshot or reconstruction of an accounting application."
+  },
+  "background": {
+    "file": "assets/art/approved_campaign_empty_stage.png",
+    "sha256": "17958897f81114b468ad62b5ddfc25fd36b6a2b55d669a6a621a3b4e86d9636a",
+    "derivation": "AI-assisted editing of the approved square poster to remove foreground text, logos, QR and objects while retaining the studio stage and campaign ribbons. New slide content is then composed as native square SVG layouts.",
+    "generated_ui_used": false
+  },
+  "fonts": {
+    "Cairo": {
+      "source_repository_commit": "09cb2658da25c855c0fc00b526b843a89e124529",
+      "source_path": "AETHRA_PRIMO_REEL_20261102/public/fonts/",
+      "files": [
+        "assets/fonts/Cairo-Regular.ttf",
+        "assets/fonts/Cairo-SemiBold.ttf",
+        "assets/fonts/Cairo-Bold.ttf"
+      ],
+      "license": "assets/fonts/Cairo_OFL.txt"
+    },
+    "Space_Grotesk": {
+      "source": "Existing Aethra introductory carousel font assets",
+      "file": "assets/fonts/SpaceGrotesk-600.ttf",
+      "license": "assets/fonts/Space_Grotesk_OFL.txt"
+    }
+  },
+  "unused_repository_brand_references": {
+    "source_commit": "09cb2658da25c855c0fc00b526b843a89e124529",
+    "files": [
+      {
+        "file": "assets/brand/aethra-approved.png",
+        "sha256": "6231566d4a442acf1cbcb8b3164191b0c6f849a7b93014b204fe0840e194635e",
+        "byte_identical_to_repository_source": true,
+        "used_in_final_render": false
+      },
+      {
+        "file": "assets/brand/primo-original.png",
+        "sha256": "9b03862bc18d8afc1fab74172327a06cfc0435f3b6655f0c3306013c7561b5a5",
+        "byte_identical_to_repository_source": true,
+        "used_in_final_render": false
+      }
+    ]
+  },
+  "official_google_play_url": "https://play.google.com/store/apps/details?id=com.primo.app",
+  "final_qr_proof": "source/qr_export_proof.json",
+  "approval": "Original poster is owner-approved. These five final carousel slides are delivered for owner visual review."
+}
