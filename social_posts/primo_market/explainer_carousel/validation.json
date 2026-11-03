@@ -1,0 +1,569 @@
+{
+  "canvas": [
+    1080,
+    1080
+  ],
+  "native_square": true,
+  "reference_integrity": {
+    "archive_sha256": "c3e57b45240ca05061919fa20980ca7135eb013f99e3747c9623d4c835167b79",
+    "crc_check": "passed",
+    "images": [
+      {
+        "file": "assets/references/01_Approved_AETHRA_Primo_Square_Poster.png",
+        "size": [
+          1080,
+          1080
+        ],
+        "bytes": 1914861,
+        "sha256": "68dbe64e388dc37ce148be1475fe27fd783d43b971b034aec49af68fc8f92713",
+        "role": "approved_master",
+        "unmodified": true
+      },
+      {
+        "file": "assets/references/02_Primo_Authentic_Home.png",
+        "size": [
+          576,
+          1280
+        ],
+        "bytes": 438235,
+        "sha256": "dd599fb33979fd2f2f6b81e7a6e8465caa96042c633dd4705817ea4194db47bc",
+        "role": "authentic_home",
+        "unmodified": true
+      },
+      {
+        "file": "assets/references/03_Primo_Authentic_Tea_Product_Details.png",
+        "size": [
+          576,
+          1280
+        ],
+        "bytes": 463202,
+        "sha256": "f6b0c35a13b92f7bebd81b3110771960cee24f6eedaafeed4f04ebcfc14c0cac",
+        "role": "authentic_tea_details",
+        "unmodified": true
+      }
+    ]
+  },
+  "slides": [
+    {
+      "copy": "exact match to Arabic JSON",
+      "authentic_screenshot_instances": 2,
+      "screenshot_aspect_ratio": "preserved",
+      "screenshot_ui_redrawing": false,
+      "download_qr_instances": 0,
+      "source": "source/slide_01_what_is_primo.svg",
+      "png": "exports/slide_01_what_is_primo_1080x1080.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "sha256": "952a657302b5fccedcc7b33436c8f70c9f21e8ee08517e61c9e56b0b0925c783",
+      "safe_text_bounds": [
+        {
+          "text": "شو هو PRIMO MARKET؟",
+          "x": 378.453125,
+          "y": 159,
+          "width": 625.546875,
+          "height": 109
+        },
+        {
+          "text": "تطبيق سوبرماركت ذكي يسهّل الطلب والبيع",
+          "x": 516.34375,
+          "y": 256,
+          "width": 488.17401123046875,
+          "height": 52
+        },
+        {
+          "text": "01",
+          "x": 612,
+          "y": 421,
+          "width": 15.265625,
+          "height": 18
+        },
+        {
+          "text": "تصفّح الأقسام بسهولة",
+          "x": 692.578125,
+          "y": 400,
+          "width": 286.5897216796875,
+          "height": 56
+        },
+        {
+          "text": "02",
+          "x": 612,
+          "y": 531,
+          "width": 17.390625,
+          "height": 18
+        },
+        {
+          "text": "شوف المنتجات",
+          "x": 790,
+          "y": 490,
+          "width": 189,
+          "height": 56
+        },
+        {
+          "text": "والأسعار بوضوح",
+          "x": 778.984375,
+          "y": 530,
+          "width": 200.015625,
+          "height": 56
+        },
+        {
+          "text": "03",
+          "x": 612,
+          "y": 641,
+          "width": 17.546875,
+          "height": 18
+        },
+        {
+          "text": "أضف للسلة بسرعة",
+          "x": 749.796875,
+          "y": 620,
+          "width": 229.203125,
+          "height": 56
+        },
+        {
+          "text": "04",
+          "x": 612,
+          "y": 751,
+          "width": 18.0439453125,
+          "height": 18
+        },
+        {
+          "text": "واجهة عربية بسيطة",
+          "x": 737.90625,
+          "y": 730,
+          "width": 241.09375,
+          "height": 56
+        },
+        {
+          "text": "01 / 05",
+          "x": 76,
+          "y": 986,
+          "width": 51.6875,
+          "height": 21
+        },
+        {
+          "text": "AETHRA × PRIMO",
+          "x": 878.203125,
+          "y": 986,
+          "width": 125.796875,
+          "height": 21
+        }
+      ],
+      "decoded_download_qrs": []
+    },
+    {
+      "copy": "exact match to Arabic JSON",
+      "authentic_screenshot_instances": 1,
+      "screenshot_aspect_ratio": "preserved",
+      "screenshot_ui_redrawing": false,
+      "download_qr_instances": 0,
+      "source": "source/slide_02_store_owner.svg",
+      "png": "exports/slide_02_store_owner_1080x1080.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "sha256": "b9cde27f40d38a8021f24e664d8bbde47c39e5b558704f4e1d92ef065d3cdc97",
+      "safe_text_bounds": [
+        {
+          "text": "ليش بيفيد صاحب المتجر؟",
+          "x": 371.671875,
+          "y": 159,
+          "width": 632.328125,
+          "height": 109
+        },
+        {
+          "text": "حل رقمي يخفّف الجهد اليومي ويخلّي الطلبات أوضح",
+          "x": 422.171875,
+          "y": 256,
+          "width": 581.828125,
+          "height": 52
+        },
+        {
+          "text": "01",
+          "x": 522,
+          "y": 414,
+          "width": 15.265625,
+          "height": 18
+        },
+        {
+          "text": "استقبال الطلبات بشكل منظّم",
+          "x": 617.46875,
+          "y": 393,
+          "width": 361.53125,
+          "height": 56
+        },
+        {
+          "text": "02",
+          "x": 522,
+          "y": 524,
+          "width": 17.390625,
+          "height": 18
+        },
+        {
+          "text": "تقليل الأخطاء والإدخال اليدوي",
+          "x": 603.875,
+          "y": 503,
+          "width": 375.29962158203125,
+          "height": 56
+        },
+        {
+          "text": "03",
+          "x": 522,
+          "y": 634,
+          "width": 17.546875,
+          "height": 18
+        },
+        {
+          "text": "عرض المنتجات بشكل احترافي",
+          "x": 620.109375,
+          "y": 613,
+          "width": 358.890625,
+          "height": 56
+        },
+        {
+          "text": "04",
+          "x": 522,
+          "y": 744,
+          "width": 18.0439453125,
+          "height": 18
+        },
+        {
+          "text": "تجربة أسهل لإدارة المتجر",
+          "x": 675.34375,
+          "y": 723,
+          "width": 303.8297119140625,
+          "height": 56
+        },
+        {
+          "text": "02 / 05",
+          "x": 76,
+          "y": 986,
+          "width": 54.125,
+          "height": 21
+        },
+        {
+          "text": "AETHRA × PRIMO",
+          "x": 878.203125,
+          "y": 986,
+          "width": 125.796875,
+          "height": 21
+        }
+      ],
+      "decoded_download_qrs": []
+    },
+    {
+      "copy": "exact match to Arabic JSON",
+      "authentic_screenshot_instances": 1,
+      "screenshot_aspect_ratio": "preserved",
+      "screenshot_ui_redrawing": false,
+      "download_qr_instances": 0,
+      "source": "source/slide_03_al_bayan_integration.svg",
+      "png": "exports/slide_03_al_bayan_integration_1080x1080.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "sha256": "091d282675352c81d69ea7781d8d5e8cc459fbf9afe07114b540f1a6d2875ec8",
+      "safe_text_bounds": [
+        {
+          "text": "مرتبط مع البيان السوري",
+          "x": 398.125,
+          "y": 159,
+          "width": 605.875,
+          "height": 109
+        },
+        {
+          "text": "تكامل يخفّف التكرار ويوفّر وقت صاحب المتجر",
+          "x": 499.609375,
+          "y": 256,
+          "width": 504.90203857421875,
+          "height": 52
+        },
+        {
+          "text": "يعني صاحب المتجر ما بيضطر يحدّث الأسعار والكميات",
+          "x": 449.515625,
+          "y": 303,
+          "width": 554.8324584960938,
+          "height": 49
+        },
+        {
+          "text": "يدويًا من التطبيق",
+          "x": 822.21875,
+          "y": 340,
+          "width": 182.1221923828125,
+          "height": 49
+        },
+        {
+          "text": "البيان السوري",
+          "x": 782.40625,
+          "y": 405,
+          "width": 195.59375,
+          "height": 60
+        },
+        {
+          "text": "ونظام المحاسبة المتوافق",
+          "x": 734.1875,
+          "y": 458,
+          "width": 243.8125,
+          "height": 43
+        },
+        {
+          "text": "01",
+          "x": 520,
+          "y": 580,
+          "width": 15.265625,
+          "height": 18
+        },
+        {
+          "text": "الأسعار والكميات تنسحب من البيان",
+          "x": 622.046875,
+          "y": 563.5,
+          "width": 356.953125,
+          "height": 47
+        },
+        {
+          "text": "02",
+          "x": 520,
+          "y": 668,
+          "width": 17.390625,
+          "height": 18
+        },
+        {
+          "text": "ما في حاجة لتحديث يدوي يومي",
+          "x": 654.109375,
+          "y": 651.5,
+          "width": 324.890625,
+          "height": 47
+        },
+        {
+          "text": "03",
+          "x": 520,
+          "y": 756,
+          "width": 17.546875,
+          "height": 18
+        },
+        {
+          "text": "إضافة المنتجات من",
+          "x": 778.609375,
+          "y": 722.625,
+          "width": 200.390625,
+          "height": 47
+        },
+        {
+          "text": "الأصناف الموجودة أصلًا",
+          "x": 735.984375,
+          "y": 756.375,
+          "width": 243.015625,
+          "height": 47
+        },
+        {
+          "text": "04",
+          "x": 520,
+          "y": 844,
+          "width": 18.0439453125,
+          "height": 18
+        },
+        {
+          "text": "ويتكامل أيضًا مع برنامج",
+          "x": 737.4375,
+          "y": 810.625,
+          "width": 241.5625,
+          "height": 47
+        },
+        {
+          "text": "المحاسبة الخاص بالمحل",
+          "x": 731.390625,
+          "y": 844.375,
+          "width": 247.609375,
+          "height": 47
+        },
+        {
+          "text": "Primo Market",
+          "x": 154.0703125,
+          "y": 895,
+          "width": 133.859375,
+          "height": 27
+        },
+        {
+          "text": "03 / 05",
+          "x": 76,
+          "y": 986,
+          "width": 54.296875,
+          "height": 21
+        },
+        {
+          "text": "AETHRA × PRIMO",
+          "x": 878.203125,
+          "y": 986,
+          "width": 125.796875,
+          "height": 21
+        }
+      ],
+      "decoded_download_qrs": []
+    },
+    {
+      "copy": "exact match to Arabic JSON",
+      "authentic_screenshot_instances": 2,
+      "screenshot_aspect_ratio": "preserved",
+      "screenshot_ui_redrawing": false,
+      "download_qr_instances": 0,
+      "source": "source/slide_04_customer_benefits.svg",
+      "png": "exports/slide_04_customer_benefits_1080x1080.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "sha256": "4abbbe988ab8ee59347258d85a44fbe3c8600d606587f42d7cb743ab9e9e800f",
+      "safe_text_bounds": [
+        {
+          "text": "شو الفائدة للمستخدم العادي؟",
+          "x": 226.265625,
+          "y": 159,
+          "width": 777.734375,
+          "height": 109
+        },
+        {
+          "text": "تجربة أسهل وأوضح من أول تصفّح لحد اختيار المنتج",
+          "x": 442.21875,
+          "y": 256,
+          "width": 562.290283203125,
+          "height": 52
+        },
+        {
+          "text": "01",
+          "x": 612,
+          "y": 421,
+          "width": 15.265625,
+          "height": 18
+        },
+        {
+          "text": "بيشوف الأسعار بوضوح",
+          "x": 695.578125,
+          "y": 400,
+          "width": 283.421875,
+          "height": 56
+        },
+        {
+          "text": "02",
+          "x": 612,
+          "y": 531,
+          "width": 17.390625,
+          "height": 18
+        },
+        {
+          "text": "يتصفّح الأقسام",
+          "x": 788.125,
+          "y": 490,
+          "width": 191.039794921875,
+          "height": 56
+        },
+        {
+          "text": "والمنتجات بسهولة",
+          "x": 748.796875,
+          "y": 530,
+          "width": 230.203125,
+          "height": 56
+        },
+        {
+          "text": "03",
+          "x": 612,
+          "y": 641,
+          "width": 17.546875,
+          "height": 18
+        },
+        {
+          "text": "يعرف التفاصيل",
+          "x": 792.21875,
+          "y": 600,
+          "width": 186.9598388671875,
+          "height": 56
+        },
+        {
+          "text": "والخيارات قبل الطلب",
+          "x": 730.40625,
+          "y": 640,
+          "width": 248.59375,
+          "height": 56
+        },
+        {
+          "text": "04",
+          "x": 612,
+          "y": 751,
+          "width": 18.0439453125,
+          "height": 18
+        },
+        {
+          "text": "يوفّر وقت ويطلب",
+          "x": 768.265625,
+          "y": 710,
+          "width": 210.8997802734375,
+          "height": 56
+        },
+        {
+          "text": "بطريقة أريح",
+          "x": 836.5,
+          "y": 750,
+          "width": 142.5,
+          "height": 56
+        },
+        {
+          "text": "04 / 05",
+          "x": 76,
+          "y": 986,
+          "width": 54.71875,
+          "height": 21
+        },
+        {
+          "text": "AETHRA × PRIMO",
+          "x": 878.203125,
+          "y": 986,
+          "width": 125.796875,
+          "height": 21
+        }
+      ],
+      "decoded_download_qrs": []
+    },
+    {
+      "copy": "exact match to Arabic JSON",
+      "authentic_screenshot_instances": 1,
+      "screenshot_aspect_ratio": "preserved",
+      "screenshot_ui_redrawing": false,
+      "download_qr_instances": 1,
+      "source": "source/slide_05_download.svg",
+      "png": "exports/slide_05_download_1080x1080.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "sha256": "05e2b7b21952ed52395b50d52aaeb9fa89bd02cf8c13ef4759126f6cc9354c47",
+      "safe_text_bounds": [
+        {
+          "text": "حمّل Primo Market الآن",
+          "x": 248.5703125,
+          "y": 159,
+          "width": 582.859375,
+          "height": 109
+        },
+        {
+          "text": "متوفر على Google Play",
+          "x": 405.8046875,
+          "y": 256,
+          "width": 268.390625,
+          "height": 52
+        },
+        {
+          "text": "امسح الرمز للتحميل",
+          "x": 411.25,
+          "y": 784,
+          "width": 257.5,
+          "height": 56
+        }
+      ],
+      "decoded_download_qrs": [
+        "https://play.google.com/store/apps/details?id=com.primo.app"
+      ]
+    }
+  ]
+}

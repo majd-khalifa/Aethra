@@ -1,0 +1,39 @@
+{
+  "archive_sha256": "c3e57b45240ca05061919fa20980ca7135eb013f99e3747c9623d4c835167b79",
+  "crc_check": "passed",
+  "images": [
+    {
+      "file": "assets/references/01_Approved_AETHRA_Primo_Square_Poster.png",
+      "size": [
+        1080,
+        1080
+      ],
+      "bytes": 1914861,
+      "sha256": "68dbe64e388dc37ce148be1475fe27fd783d43b971b034aec49af68fc8f92713",
+      "role": "approved_master",
+      "unmodified": true
+    },
+    {
+      "file": "assets/references/02_Primo_Authentic_Home.png",
+      "size": [
+        576,
+        1280
+      ],
+      "bytes": 438235,
+      "sha256": "dd599fb33979fd2f2f6b81e7a6e8465caa96042c633dd4705817ea4194db47bc",
+      "role": "authentic_home",
+      "unmodified": true
+    },
+    {
+      "file": "assets/references/03_Primo_Authentic_Tea_Product_Details.png",
+      "size": [
+        576,
+        1280
+      ],
+      "bytes": 463202,
+      "sha256": "f6b0c35a13b92f7bebd81b3110771960cee24f6eedaafeed4f04ebcfc14c0cac",
+      "role": "authentic_tea_details",
+      "unmodified": true
+    }
+  ]
+}

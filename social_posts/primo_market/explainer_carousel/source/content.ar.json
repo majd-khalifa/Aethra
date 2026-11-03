@@ -1,0 +1,111 @@
+{
+  "status": "FINAL_EXPORTED_FOR_OWNER_REVIEW",
+  "canvas": {
+    "width": 1080,
+    "height": 1080,
+    "aspect_ratio": "1:1",
+    "native_square": true,
+    "text_safe_margin_px": 72
+  },
+  "language": "ar",
+  "direction": "rtl",
+  "visual_master": "assets/references/01_Approved_AETHRA_Primo_Square_Poster.png",
+  "slides": [
+    {
+      "id": 1,
+      "purpose": "introduction",
+      "title": "شو هو PRIMO MARKET؟",
+      "support": "تطبيق سوبرماركت ذكي يسهّل الطلب والبيع",
+      "bullets": [
+        "تصفّح الأقسام بسهولة",
+        "شوف المنتجات والأسعار بوضوح",
+        "أضف للسلة بسرعة",
+        "واجهة عربية بسيطة"
+      ],
+      "required_screens": [
+        "home",
+        "product_details"
+      ],
+      "download_cta": false,
+      "title_lines": [
+        "شو هو PRIMO MARKET؟"
+      ]
+    },
+    {
+      "id": 2,
+      "purpose": "store_owner",
+      "title": "ليش بيفيد صاحب المتجر؟",
+      "support": "حل رقمي يخفّف الجهد اليومي ويخلّي الطلبات أوضح",
+      "bullets": [
+        "استقبال الطلبات بشكل منظّم",
+        "تقليل الأخطاء والإدخال اليدوي",
+        "عرض المنتجات بشكل احترافي",
+        "تجربة أسهل لإدارة المتجر"
+      ],
+      "required_screens": [
+        "product_details"
+      ],
+      "download_cta": false,
+      "title_lines": [
+        "ليش بيفيد صاحب المتجر؟"
+      ]
+    },
+    {
+      "id": 3,
+      "purpose": "al_bayan_integration",
+      "title": "مرتبط مع البيان السوري",
+      "support": "تكامل يخفّف التكرار ويوفّر وقت صاحب المتجر",
+      "body": "يعني صاحب المتجر ما بيضطر يحدّث الأسعار والكميات يدويًا من التطبيق",
+      "bullets": [
+        "الأسعار والكميات تنسحب من البيان",
+        "ما في حاجة لتحديث يدوي يومي",
+        "إضافة المنتجات من الأصناف الموجودة أصلًا",
+        "ويتكامل أيضًا مع برنامج المحاسبة الخاص بالمحل"
+      ],
+      "graphic": "Conceptual connection between the store accounting system and the actual Primo app screenshot; do not fabricate an Al-Bayan UI.",
+      "download_cta": false,
+      "title_lines": [
+        "مرتبط مع البيان السوري"
+      ],
+      "body_lines": [
+        "يعني صاحب المتجر ما بيضطر يحدّث الأسعار والكميات",
+        "يدويًا من التطبيق"
+      ]
+    },
+    {
+      "id": 4,
+      "purpose": "end_user",
+      "title": "شو الفائدة للمستخدم العادي؟",
+      "support": "تجربة أسهل وأوضح من أول تصفّح لحد اختيار المنتج",
+      "bullets": [
+        "بيشوف الأسعار بوضوح",
+        "يتصفّح الأقسام والمنتجات بسهولة",
+        "يعرف التفاصيل والخيارات قبل الطلب",
+        "يوفّر وقت ويطلب بطريقة أريح"
+      ],
+      "required_screens": [
+        "home",
+        "product_details"
+      ],
+      "download_cta": false,
+      "title_lines": [
+        "شو الفائدة للمستخدم العادي؟"
+      ]
+    },
+    {
+      "id": 5,
+      "purpose": "download",
+      "title": "حمّل Primo Market الآن",
+      "support": "متوفر على Google Play",
+      "platform": "Android",
+      "download_cta": true,
+      "qr_target": "https://play.google.com/store/apps/details?id=com.primo.app",
+      "store_url": "https://play.google.com/store/apps/details?id=com.primo.app",
+      "package_identifier": "com.primo.app",
+      "package_provenance": "Package and official Google Play URL confirmed by the owner in this conversation.",
+      "title_lines": [
+        "حمّل Primo Market الآن"
+      ]
+    }
+  ]
+}
